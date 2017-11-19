@@ -1,0 +1,22 @@
+! vi: ft=xdefaults
+! Colour scheme: Tempus spring
+! By Protesilaos Stavrou
+URxvt*background: #34403c
+URxvt*foreground: #a5a8a7
+URxvt*cursorColor: #a5a8a7
+URxvt*color0: #34403c
+URxvt*color1: #ff855a
+URxvt*color2: #6ab78a
+URxvt*color3: #b6aa1a
+URxvt*color4: #5daeee
+URxvt*color5: #d495b4
+URxvt*color6: #6eb2bc
+URxvt*color7: #96aca7
+URxvt*color8: #2a423d
+URxvt*color9: #df993a
+URxvt*color10: #4abb88
+URxvt*color11: #99b22a
+URxvt*color12: #3caffe
+URxvt*color13: #d091db
+URxvt*color14: #4ab4d3
+URxvt*color15: #a5a8a7

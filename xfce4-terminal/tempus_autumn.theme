@@ -1,0 +1,11 @@
+; vi: ft=dosini
+[Scheme]
+Name=Tempus autumn
+ColorForeground=#8e8f8d
+ColorBackground=#322622
+ColorCursor=#8e8f8d
+ColorBold=#8e8f8d
+ColorPalette=#322622;#fc5526;#83973f;#9e9022;#7f8dbf;#ce7673;#6e978b;#919078;#35260f;#dc721a;#609d59;#b1891a;#6b8ed6;#9d80d3;#229ea0;#8e8f8d
+TabActivityColor=#83973f
+ColorSelectionBackground=#8e8f8d
+ColorSelection=#322622

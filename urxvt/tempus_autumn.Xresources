@@ -1,0 +1,22 @@
+! vi: ft=xdefaults
+! Colour scheme: Tempus autumn
+! By Protesilaos Stavrou
+URxvt*background: #322622
+URxvt*foreground: #8e8f8d
+URxvt*cursorColor: #8e8f8d
+URxvt*color0: #322622
+URxvt*color1: #fc5526
+URxvt*color2: #83973f
+URxvt*color3: #9e9022
+URxvt*color4: #7f8dbf
+URxvt*color5: #ce7673
+URxvt*color6: #6e978b
+URxvt*color7: #919078
+URxvt*color8: #35260f
+URxvt*color9: #dc721a
+URxvt*color10: #609d59
+URxvt*color11: #b1891a
+URxvt*color12: #6b8ed6
+URxvt*color13: #9d80d3
+URxvt*color14: #229ea0
+URxvt*color15: #8e8f8d

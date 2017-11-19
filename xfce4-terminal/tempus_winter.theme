@@ -1,0 +1,11 @@
+; vi: ft=dosini
+[Scheme]
+Name=Tempus winter
+ColorForeground=#798ba5
+ColorBackground=#202427
+ColorCursor=#798ba5
+ColorBold=#798ba5
+ColorPalette=#202427;#ca7162;#589584;#988b21;#2b92c8;#b572b6;#4f91b5;#888a8a;#1b2431;#c47818;#2c9a81;#a2864b;#6987d7;#987dc2;#1f96b0;#798ba5
+TabActivityColor=#589584
+ColorSelectionBackground=#798ba5
+ColorSelection=#202427

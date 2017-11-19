@@ -1,0 +1,19 @@
+# vi: ft=yaml
+scheme: "Tempus autumn"
+author: "Protesilaos Stavrou <https://protesilaos.com>"
+col0: "#322622" # black variant
+col1: "#fc5526" # red variant
+col2: "#83973f" # green variant
+col3: "#9e9022" # yellow variant
+col4: "#7f8dbf" # blue variant
+col5: "#ce7673" # magenta variant
+col6: "#6e978b" # cyan variant
+col7: "#919078" # white variant
+col8: "#35260f" # bright black variant
+col9: "#dc721a" # bright red variant
+col10: "#609d59" # bright green variant
+col11: "#b1891a" # bright yellow variant
+col12: "#6b8ed6" # bright blue variant
+col13: "#9d80d3" # bright magenta variant
+col14: "#229ea0" # bright cyan variant
+col15: "#8e8f8d" # bright white variant

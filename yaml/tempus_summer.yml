@@ -1,0 +1,19 @@
+# vi: ft=yaml
+scheme: "Tempus summer"
+author: "Protesilaos Stavrou <https://protesilaos.com>"
+col0: "#293345" # black variant
+col1: "#fe6d32" # red variant
+col2: "#6ba86d" # green variant
+col3: "#af9a0a" # yellow variant
+col4: "#679ed7" # blue variant
+col5: "#bc8ab6" # magenta variant
+col6: "#6ea590" # cyan variant
+col7: "#a39799" # white variant
+col8: "#352f49" # bright black variant
+col9: "#df8251" # bright red variant
+col10: "#7aa747" # bright green variant
+col11: "#ba953a" # bright yellow variant
+col12: "#3ba1e8" # bright blue variant
+col13: "#c97ed7" # bright magenta variant
+col14: "#52a6b1" # bright cyan variant
+col15: "#9b999e" # bright white variant

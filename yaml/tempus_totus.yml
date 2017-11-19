@@ -1,0 +1,19 @@
+# vi: ft=yaml
+scheme: "Tempus totus"
+author: "Protesilaos Stavrou <https://protesilaos.com>"
+col0: "#52505e" # black variant
+col1: "#a01c10" # red variant
+col2: "#0b5d46" # green variant
+col3: "#545422" # yellow variant
+col4: "#1c4f9f" # blue variant
+col5: "#942166" # magenta variant
+col6: "#185870" # cyan variant
+col7: "#ecf3f3" # white variant
+col8: "#575050" # bright black variant
+col9: "#913210" # bright red variant
+col10: "#2a5d08" # bright green variant
+col11: "#774611" # bright yellow variant
+col12: "#5440a7" # bright blue variant
+col13: "#8d0e9b" # bright magenta variant
+col14: "#0e577b" # bright cyan variant
+col15: "#f4f1f0" # bright white variant

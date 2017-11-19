@@ -1,0 +1,22 @@
+! vi: ft=xdefaults
+! Colour scheme: Tempus totus
+! By Protesilaos Stavrou
+URxvt*background: #f4f1f0
+URxvt*foreground: #52505e
+URxvt*cursorColor: #52505e
+URxvt*color0: #52505e
+URxvt*color1: #a01c10
+URxvt*color2: #0b5d46
+URxvt*color3: #545422
+URxvt*color4: #1c4f9f
+URxvt*color5: #942166
+URxvt*color6: #185870
+URxvt*color7: #ecf3f3
+URxvt*color8: #575050
+URxvt*color9: #913210
+URxvt*color10: #2a5d08
+URxvt*color11: #774611
+URxvt*color12: #5440a7
+URxvt*color13: #8d0e9b
+URxvt*color14: #0e577b
+URxvt*color15: #f4f1f0

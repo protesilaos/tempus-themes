@@ -1,0 +1,19 @@
+# vi: ft=yaml
+scheme: "Tempus winter"
+author: "Protesilaos Stavrou <https://protesilaos.com>"
+col0: "#202427" # black variant
+col1: "#ca7162" # red variant
+col2: "#589584" # green variant
+col3: "#988b21" # yellow variant
+col4: "#2b92c8" # blue variant
+col5: "#b572b6" # magenta variant
+col6: "#4f91b5" # cyan variant
+col7: "#888a8a" # white variant
+col8: "#1b2431" # bright black variant
+col9: "#c47818" # bright red variant
+col10: "#2c9a81" # bright green variant
+col11: "#a2864b" # bright yellow variant
+col12: "#6987d7" # bright blue variant
+col13: "#987dc2" # bright magenta variant
+col14: "#1f96b0" # bright cyan variant
+col15: "#798ba5" # bright white variant

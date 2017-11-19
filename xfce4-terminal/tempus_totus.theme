@@ -1,0 +1,11 @@
+; vi: ft=dosini
+[Scheme]
+Name=Tempus totus
+ColorForeground=#52505e
+ColorBackground=#f4f1f0
+ColorCursor=#52505e
+ColorBold=#52505e
+ColorPalette=#52505e;#a01c10;#0b5d46;#545422;#1c4f9f;#942166;#185870;#ecf3f3;#575050;#913210;#2a5d08;#774611;#5440a7;#8d0e9b;#0e577b;#f4f1f0
+TabActivityColor=#0b5d46
+ColorSelectionBackground=#52505e
+ColorSelection=#f4f1f0

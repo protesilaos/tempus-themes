@@ -1,0 +1,22 @@
+! vi: ft=xdefaults
+! Colour scheme: Tempus summer
+! By Protesilaos Stavrou
+URxvt*background: #293345
+URxvt*foreground: #9b999e
+URxvt*cursorColor: #9b999e
+URxvt*color0: #293345
+URxvt*color1: #fe6d32
+URxvt*color2: #6ba86d
+URxvt*color3: #af9a0a
+URxvt*color4: #679ed7
+URxvt*color5: #bc8ab6
+URxvt*color6: #6ea590
+URxvt*color7: #a39799
+URxvt*color8: #352f49
+URxvt*color9: #df8251
+URxvt*color10: #7aa747
+URxvt*color11: #ba953a
+URxvt*color12: #3ba1e8
+URxvt*color13: #c97ed7
+URxvt*color14: #52a6b1
+URxvt*color15: #9b999e
