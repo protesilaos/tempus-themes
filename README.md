@@ -38,9 +38,18 @@ Each directory contains files specific to the application it references. For exa
 
 Instructions on how to use these files are documented in the `README.md` which is included in each directory.
 
+## App-specific repositories
+
+Each port of *Tempus* has its own repo, for your convenience:
+
+- [Tempus themes **urxvt**](https://github.com/protesilaos/tempus-themes-urxvt)
+- [Tempus themes **vim plugin**](https://github.com/protesilaos/tempus-themes-vim)
+- [Tempus themes **xfce4-terminal**](https://github.com/protesilaos/tempus-themes-xfce4-terminal)
+- [Tempus themes **xterm**](https://github.com/protesilaos/tempus-themes-xterm)
+
 ## Contributing
 
-You are most welcome to contribute a template for developing ports of the Tempus collection. For your reference, the tool for producing the Tempus themes is located in another repository: [Tempus Themes Generator](https://github.com/protesilaos/tempus-themes-generator). It accepts data files with the colour values, parses them through templates to deliver the desired result (using the terminal's standard output).
+You are most welcome to contribute a template for developing ports of the Tempus collection. For your reference, the tool for producing the Tempus themes is located in another repository: [Tempus themes generator](https://github.com/protesilaos/tempus-themes-generator). It accepts data files with the colour values, parses them through templates to deliver the desired result (using the terminal's standard output).
 
 ## License
 
