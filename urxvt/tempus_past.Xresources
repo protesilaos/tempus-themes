@@ -1,0 +1,22 @@
+! vi: ft=xdefaults
+! Colour scheme: Tempus past
+! By Protesilaos Stavrou
+URxvt*background: #dadce8
+URxvt*foreground: #63606b
+URxvt*cursorColor: #63606b
+URxvt*color0: #63606b
+URxvt*color1: #c01c10
+URxvt*color2: #2a7000
+URxvt*color3: #825a0a
+URxvt*color4: #025ccd
+URxvt*color5: #a43878
+URxvt*color6: #49628d
+URxvt*color7: #e0dcd6
+URxvt*color8: #80565d
+URxvt*color9: #b43036
+URxvt*color10: #007214
+URxvt*color11: #91520a
+URxvt*color12: #5046eb
+URxvt*color13: #ba166b
+URxvt*color14: #076c76
+URxvt*color15: #dadce8

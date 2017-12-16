@@ -1,0 +1,11 @@
+; vi: ft=dosini
+[Scheme]
+Name=Tempus past
+ColorForeground=#63606b
+ColorBackground=#dadce8
+ColorCursor=#63606b
+ColorBold=#63606b
+ColorPalette=#63606b;#c01c10;#2a7000;#825a0a;#025ccd;#a43878;#49628d;#e0dcd6;#80565d;#b43036;#007214;#91520a;#5046eb;#ba166b;#076c76;#dadce8
+TabActivityColor=#2a7000
+ColorSelectionBackground=#63606b
+ColorSelection=#dadce8

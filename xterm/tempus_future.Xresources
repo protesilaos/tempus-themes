@@ -1,0 +1,22 @@
+! vi: ft=xdefaults
+! Colour scheme: Tempus future
+! By Protesilaos Stavrou
+xterm*background: #18161d
+xterm*foreground: #a4a0ac
+xterm*cursorColor: #a4a0ac
+xterm*color0: #18161d
+xterm*color1: #ff7780
+xterm*color2: #68b183
+xterm*color3: #bda014
+xterm*color4: #54a5ff
+xterm*color5: #da89b2
+xterm*color6: #79a8c3
+xterm*color7: #bd9b87
+xterm*color8: #001b1a
+xterm*color9: #ef873d
+xterm*color10: #08b885
+xterm*color11: #d39710
+xterm*color12: #a294fe
+xterm*color13: #ec7aca
+xterm*color14: #4ab0b9
+xterm*color15: #a4a0ac

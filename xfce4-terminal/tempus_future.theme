@@ -1,0 +1,11 @@
+; vi: ft=dosini
+[Scheme]
+Name=Tempus future
+ColorForeground=#a4a0ac
+ColorBackground=#18161d
+ColorCursor=#a4a0ac
+ColorBold=#a4a0ac
+ColorPalette=#18161d;#ff7780;#68b183;#bda014;#54a5ff;#da89b2;#79a8c3;#bd9b87;#001b1a;#ef873d;#08b885;#d39710;#a294fe;#ec7aca;#4ab0b9;#a4a0ac
+TabActivityColor=#68b183
+ColorSelectionBackground=#a4a0ac
+ColorSelection=#18161d

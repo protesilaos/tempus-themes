@@ -15,10 +15,16 @@ Tempus themes are interoperable. They are meant to work as a one-to-one replacem
 
 For the time being, the colour mapping specs are implemented in Vim. The plan is to develop templates for other popular applications, such as Atom and Emacs.
 
-## Screenshots
+## Screenshots (sort A-Z)
 
-Tempus Totus (WCAG AAA)
-![tempus_totus sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_totus.png)
+Tempus Autumn (WCAG AA)
+![tempus_autumn sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_autumn.png)
+
+Tempus Future (WCAG AAA)
+![tempus_future sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_future.png)
+
+Tempus Past (WCAG AA)
+![tempus_past sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_past.png)
 
 Tempus Spring (WCAG AA)
 ![tempus_spring sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_spring.png)
@@ -26,8 +32,8 @@ Tempus Spring (WCAG AA)
 Tempus Summer (WCAG AA)
 ![tempus_summer sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_summer.png)
 
-Tempus Autumn (WCAG AA)
-![tempus_autumn sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_autumn.png)
+Tempus Totus (WCAG AAA)
+![tempus_totus sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_totus.png)
 
 Tempus Winter (WCAG AA)
 ![tempus_winter sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_winter.png)

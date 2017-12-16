@@ -1,0 +1,19 @@
+# vi: ft=yaml
+scheme: "Tempus future"
+author: "Protesilaos Stavrou <https://protesilaos.com>"
+col0: "#18161d" # black variant
+col1: "#ff7780" # red variant
+col2: "#68b183" # green variant
+col3: "#bda014" # yellow variant
+col4: "#54a5ff" # blue variant
+col5: "#da89b2" # magenta variant
+col6: "#79a8c3" # cyan variant
+col7: "#bd9b87" # white variant
+col8: "#001b1a" # bright black variant
+col9: "#ef873d" # bright red variant
+col10: "#08b885" # bright green variant
+col11: "#d39710" # bright yellow variant
+col12: "#a294fe" # bright blue variant
+col13: "#ec7aca" # bright magenta variant
+col14: "#4ab0b9" # bright cyan variant
+col15: "#a4a0ac" # bright white variant
