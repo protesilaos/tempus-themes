@@ -44,6 +44,9 @@ do
     $generator $i xfce4-terminal > $tempusdir/xfce4-terminal/tempus_$i.theme
     echo "Preparing $i Xfce4-terminal files"
 
+    $generator $i xcolors > $tempusdir/xcolors/tempus_$i.Xcolors
+    echo "Preparing $i xcolors files"
+
     $generator $i xterm > $tempusdir/xterm/tempus_$i.Xresources
     echo "Preparing $i xterm files"
 
