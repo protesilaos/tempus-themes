@@ -35,6 +35,9 @@ Tempus Summer (WCAG AA)
 Tempus Totus (WCAG AAA)
 ![tempus_totus sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_totus.png)
 
+Tempus Warp (WCAG AA)
+![tempus_warp sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_warp.png)
+
 Tempus Winter (WCAG AA)
 ![tempus_winter sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_winter.png)
 
