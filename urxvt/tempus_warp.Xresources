@@ -1,0 +1,22 @@
+! vi: ft=xdefaults
+! Colour scheme: Tempus warp
+! By Protesilaos Stavrou
+URxvt*background: #141a19
+URxvt*foreground: #928f90
+URxvt*cursorColor: #928f90
+URxvt*color0: #141a19
+URxvt*color1: #ff1414
+URxvt*color2: #009600
+URxvt*color3: #928100
+URxvt*color4: #4f76ff
+URxvt*color5: #dd38bc
+URxvt*color6: #358aaa
+URxvt*color7: #927B80
+URxvt*color8: #201428
+URxvt*color9: #ff5500
+URxvt*color10: #3aa43a
+URxvt*color11: #b38a00
+URxvt*color12: #8082ff
+URxvt*color13: #d159fd
+URxvt*color14: #1da190
+URxvt*color15: #928f90

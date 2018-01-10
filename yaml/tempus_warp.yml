@@ -1,0 +1,19 @@
+# vi: ft=yaml
+scheme: "Tempus warp"
+author: "Protesilaos Stavrou <https://protesilaos.com>"
+col0: "#141a19" # black variant
+col1: "#ff1414" # red variant
+col2: "#009600" # green variant
+col3: "#928100" # yellow variant
+col4: "#4f76ff" # blue variant
+col5: "#dd38bc" # magenta variant
+col6: "#358aaa" # cyan variant
+col7: "#927B80" # white variant
+col8: "#201428" # bright black variant
+col9: "#ff5500" # bright red variant
+col10: "#3aa43a" # bright green variant
+col11: "#b38a00" # bright yellow variant
+col12: "#8082ff" # bright blue variant
+col13: "#d159fd" # bright magenta variant
+col14: "#1da190" # bright cyan variant
+col15: "#928f90" # bright white variant
