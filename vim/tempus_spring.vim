@@ -16,8 +16,8 @@ let g:colors_name = "tempus_spring"
 " NOTE the ctermbg=none is for terminals with transparency
 hi Normal guibg=#34403c guifg=#a5a8a7 ctermbg=none ctermfg=15
 hi Visual guibg=#a5a8a7 guifg=#34403c ctermbg=15 ctermfg=0
-hi Search gui=underline,bold guibg=#a5a8a7 guifg=#34403c cterm=underline,bold, ctermbg=15 ctermfg=0
-hi IncSearch gui=underline,bold guibg=#96aca7 guifg=#34403c term=none cterm=bold ctermbg=7 ctermfg=0
+hi Search gui=underline,bold,italic guibg=#6ab78a guifg=#34403c cterm=underline,bold,italic ctermbg=2 ctermfg=0
+hi IncSearch gui=underline,bold,italic guibg=#96aca7 guifg=#34403c term=none cterm=underline,bold,italic ctermbg=7 ctermfg=0
 
 hi StatusLine gui=none,bold guibg=#a5a8a7 guifg=#34403c cterm=none,bold ctermbg=15 ctermfg=0
 hi StatusLineNC gui=none guibg=#2a423d guifg=#96aca7 cterm=none ctermbg=8 ctermfg=7

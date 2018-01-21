@@ -16,8 +16,8 @@ let g:colors_name = "tempus_past"
 " NOTE the ctermbg=none is for terminals with transparency
 hi Normal guibg=#dadce8 guifg=#63606b ctermbg=none ctermfg=0
 hi Visual guibg=#63606b guifg=#dadce8 ctermbg=0 ctermfg=15
-hi Search gui=underline,bold guibg=#63606b guifg=#dadce8 cterm=underline,bold, ctermbg=0 ctermfg=15
-hi IncSearch gui=underline,bold guibg=#80565d guifg=#dadce8 term=none cterm=bold ctermbg=8 ctermfg=15
+hi Search gui=underline,bold,italic guibg=#2a7000 guifg=#dadce8 cterm=underline,bold,italic ctermbg=2 ctermfg=15
+hi IncSearch gui=underline,bold,italic guibg=#80565d guifg=#dadce8 term=none cterm=underline,bold,italic ctermbg=8 ctermfg=15
 
 hi StatusLine gui=none,bold guibg=#63606b guifg=#dadce8 cterm=none,bold ctermbg=0 ctermfg=15
 hi StatusLineNC gui=none guibg=#e0dcd6 guifg=#80565d cterm=none ctermbg=7 ctermfg=8
