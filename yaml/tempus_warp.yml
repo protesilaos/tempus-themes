@@ -8,7 +8,7 @@ col3: "#928100" # yellow variant
 col4: "#4f76ff" # blue variant
 col5: "#dd38bc" # magenta variant
 col6: "#358aaa" # cyan variant
-col7: "#927B80" # white variant
+col7: "#927b80" # white variant
 col8: "#201428" # bright black variant
 col9: "#ff5500" # bright red variant
 col10: "#3aa43a" # bright green variant
