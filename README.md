@@ -51,6 +51,7 @@ Instructions on how to use these files are documented in the `README.md` which i
 
 Each port of *Tempus* has its own repo, for your convenience:
 
+- [Tempus themes **gtksourceview3**](https://github.com/protesilaos/tempus-themes-gtksourceview3)
 - [Tempus themes **urxvt**](https://github.com/protesilaos/tempus-themes-urxvt)
 - [Tempus themes **vim plugin**](https://github.com/protesilaos/tempus-themes-vim)
 - [Tempus themes **xfce4-terminal**](https://github.com/protesilaos/tempus-themes-xfce4-terminal)
