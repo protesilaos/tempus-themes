@@ -13,7 +13,7 @@
     # You should have received a copy of the GNU General Public License
     # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-# Builds content files for all items of the Tempus Themes collection
+# Builds Tilix content files for each item of the Tempus themes collection
 # This is a utility intended for automating the process of mainting the relevant repos
 
 # IMPORTANT The script requires the tempus-themes-generator git repo at the home directory
@@ -21,41 +21,16 @@
 
 # Variables for the operations
 tempusdir=$HOME/tempus-themes
+outputdir=$tempusdir-tilix
 generator=$tempusdir-generator/./tempus-themes-generator.sh
-templates=$(ls $tempusdir-generator/templates)
 schemes=$(ls $tempusdir-generator/schemes)
 
-# Dynamically create the necessary directories
-# File path: ~/tempus-themes/{template}/tempus_{scheme}.{file extension}
-for i in $templates
-do
-    mkdir -p $tempusdir/$i
-done
+# Create the directory
+mkdir -p $outputdir
 
 # Build all files for each item in the array
 for i in $schemes
 do
-    $generator $i gtksourceview3 > $tempusdir/gtksourceview3/tempus_$i.xml
-    echo "Preparing $i GTK3 Source View files"
-
-    $generator $i tilix > $tempusdir/tilix/tempus_$i.json
+    $generator $i tilix > $outputdir/tempus_$i.json
     echo "Preparing $i Tilix files"
-
-    $generator $i urxvt > $tempusdir/urxvt/tempus_$i.Xresources
-    echo "Preparing $i Rxvt-Unicode (URvxt) files"
-
-    $generator $i vim > $tempusdir/vim/tempus_${i}.vim
-    echo "Preparing $i Vim files"
-
-    $generator $i xfce4-terminal > $tempusdir/xfce4-terminal/tempus_$i.theme
-    echo "Preparing $i Xfce4 terminal files"
-
-    $generator $i xcolors > $tempusdir/xcolors/tempus_$i.Xcolors
-    echo "Preparing $i Xcolors files"
-
-    $generator $i xterm > $tempusdir/xterm/tempus_$i.Xresources
-    echo "Preparing $i Xterm files"
-
-    $generator $i yaml > $tempusdir/yaml/tempus_$i.yml
-    echo "Preparing $i YAML files"
 done

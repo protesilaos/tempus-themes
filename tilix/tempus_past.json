@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Past",
+    "comment": "Light theme inspired by old vaporwave concept art (WCAG AA compliant)",
+    "foreground-color": "#63606b",
+    "background-color": "#dadce8",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#dadce8",
+    "highlight-background-color": "#63606b",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#dadce8",
+    "cursor-background-color": "#63606b",
+    "use-badge-color": true,
+    "badge-color": "#80565d",
+    "palette": [
+        "#63606b",
+        "#c01c10",
+        "#2a7000",
+        "#825a0a",
+        "#025ccd",
+        "#a43878",
+        "#49628d",
+        "#e0dcd6",
+        "#80565d",
+        "#b43036",
+        "#007214",
+        "#91520a",
+        "#5046eb",
+        "#ba166b",
+        "#076c76",
+        "#dadce8"
+    ]
+}

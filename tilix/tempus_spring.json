@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Spring",
+    "comment": "Dark theme with a palette inspired by early spring colours (WCAG AA compliant)",
+    "foreground-color": "#a5a8a7",
+    "background-color": "#34403c",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#34403c",
+    "highlight-background-color": "#a5a8a7",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#34403c",
+    "cursor-background-color": "#a5a8a7",
+    "use-badge-color": true,
+    "badge-color": "#96aca7",
+    "palette": [
+        "#34403c",
+        "#ff855a",
+        "#6ab78a",
+        "#b6aa1a",
+        "#5daeee",
+        "#d495b4",
+        "#6eb2bc",
+        "#96aca7",
+        "#2a423d",
+        "#df993a",
+        "#4abb88",
+        "#99b22a",
+        "#3caffe",
+        "#d091db",
+        "#4ab4d3",
+        "#a5a8a7"
+    ]
+}

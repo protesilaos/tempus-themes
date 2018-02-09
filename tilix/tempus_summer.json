@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Summer",
+    "comment": "Dark theme with colours inspired by summer evenings by the sea (WCAG AA compliant)",
+    "foreground-color": "#9b999e",
+    "background-color": "#293345",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#293345",
+    "highlight-background-color": "#9b999e",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#293345",
+    "cursor-background-color": "#9b999e",
+    "use-badge-color": true,
+    "badge-color": "#a39799",
+    "palette": [
+        "#293345",
+        "#fe6d32",
+        "#6ba86d",
+        "#af9a0a",
+        "#679ed7",
+        "#bc8ab6",
+        "#6ea590",
+        "#a39799",
+        "#352f49",
+        "#df8251",
+        "#7aa747",
+        "#ba953a",
+        "#3ba1e8",
+        "#c97ed7",
+        "#52a6b1",
+        "#9b999e"
+    ]
+}
