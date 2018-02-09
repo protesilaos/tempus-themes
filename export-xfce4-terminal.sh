@@ -32,5 +32,5 @@ mkdir -p $outputdir
 for i in $schemes
 do
     $generator $i xfce4-terminal > $outputdir/tempus_${i}.theme
-    echo "Preparing $i Xfce4-terminal files"
+    echo "Preparing $i Xfce4 terminal files"
 done

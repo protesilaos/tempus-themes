@@ -13,7 +13,7 @@
     # You should have received a copy of the GNU General Public License
     # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-# Builds all Urxvt content files for all items of the Tempus Themes collection
+# Builds all URxvt content files for all items of the Tempus Themes collection
 # This is a utility intended for automating the process of mainting the relevant repos
 
 # IMPORTANT The script requires the tempus-themes-generator git repo at the home directory
@@ -33,5 +33,5 @@ for i in $schemes
 do
     $generator $i urxvt > $outputdir/tempus_${i}.Xresources
     $generator $i urxvt > $outputdir/tempus_${i}.Xcolors
-    echo "Preparing $i RXVT-Unicode (urvxt) files"
+    echo "Preparing $i Rxvt-Unicode (URvxt) files"
 done
