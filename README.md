@@ -1,19 +1,17 @@
 # Tempus themes (by Protesilaos Stavrou)
 
-*Tempus* is a collection of themes for Vim and terminal emulators that are compliant *at the very least* with the WCAG AA accessibility standard for colour contrast (which stands for a contrast ratio of 4.50:1).
+## Project overview
+
+*Tempus* is a collection of themes for Vim, text editors, and terminal emulators that are compliant *at the very least* with the WCAG AA accessibility standard for colour contrast (which stands for a minimum contrast ratio of 4.50:1).
 
 Each theme consists of a 16-colour palette that corresponds to the basic values provided by all modern terminal emulators, namely: black, red, green, yellow, blue, magenta, cyan, white, bright black, bright red, bright green, bright yellow, bright blue, bright magenta, bright cyan, bright white.
 
-Unlike my other project on the same issue, [Prot16](https://protesilaos.com/schemes), Tempus themes come in either a dark or a light variant. That means that the desired colour contrast is only met by combining any of the foreground values against one of two backgrounds.
+Unlike my other project on the same issue, [Prot16](https://protesilaos.com/schemes), Tempus themes come in either a dark or a light variant. That means that the desired colour contrast is only met by combining any of the foreground values against one of two backgrounds. The current collection features both light and dark themes. Some items are WCAG AAA compliant (contrast ratio of 7.00:1).
 
-The current collection features four dark themes—where dark values are primarily used as the backdrop—and one light (the light theme—`totus`—is WCAG AAA compliant or else has a contrast ratio of 7.00:1).
+Tempus themes are interoperable. They are meant to work as a one-to-one replacement to each other, especially for items within the same contrast ratio boundary. This is due to their inherent colour qualities as well as their shared schema for mapping colours to objects of the code syntax. Put concretely:
 
-Tempus themes are interoperable. They are meant to work as a one-to-one replacement to each other within the same contrast ratio boundary. This is due to their inherent colour qualities as well as their shared schema for mapping colours to objects of the code syntax. Put concretely:
-
-- **Same contrast.** Every Tempus theme with a WCAG AA rating can 100% substitute all themes with the same rating (will also be true for the WCAG AAA standard once more themes within that category are available).
-- **Same structure.** The shared colour mapping means that a code *constant* will always be blue while a *string* will always be a bright blue regardless of which specific Tempus theme is used (and so on for all constructs).
-
-For the time being, the colour mapping specs are implemented in Vim. The plan is to develop templates for other popular applications, such as Atom and Emacs.
+- **Same contrast.** Every Tempus theme with a WCAG AA rating can 100% substitute all themes with the same rating (same for items that meet the WCAG AAA standard).
+- **Same structure.** The shared colour mapping means that, e.g., a *constant* will always be blue while a *string* will always be a bright blue regardless of which specific Tempus theme is used (and so on for all constructs).
 
 ## Screenshots (sort A-Z)
 
