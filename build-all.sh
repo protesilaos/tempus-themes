@@ -36,26 +36,26 @@ done
 for i in $schemes
 do
     $generator $i gtksourceview3 > $tempusdir/gtksourceview3/tempus_$i.xml
-    echo "Preparing $i GTK3 Source View files"
+    echo "Preparing Tempus $i GTK3 Source View files"
 
     $generator $i tilix > $tempusdir/tilix/tempus_$i.json
-    echo "Preparing $i Tilix files"
+    echo "Preparing Tempus $i Tilix files"
 
     $generator $i urxvt > $tempusdir/urxvt/tempus_$i.Xresources
-    echo "Preparing $i Rxvt-Unicode (URvxt) files"
+    echo "Preparing Tempus $i Rxvt-Unicode (URvxt) files"
 
     $generator $i vim > $tempusdir/vim/tempus_${i}.vim
-    echo "Preparing $i Vim files"
+    echo "Preparing Tempus $i Vim files"
 
     $generator $i xfce4-terminal > $tempusdir/xfce4-terminal/tempus_$i.theme
-    echo "Preparing $i Xfce4 terminal files"
+    echo "Preparing Tempus $i Xfce4 terminal files"
 
     $generator $i xcolors > $tempusdir/xcolors/tempus_$i.Xcolors
-    echo "Preparing $i Xcolors files"
+    echo "Preparing Tempus $i Xcolors files"
 
     $generator $i xterm > $tempusdir/xterm/tempus_$i.Xresources
-    echo "Preparing $i Xterm files"
+    echo "Preparing Tempus $i Xterm files"
 
     $generator $i yaml > $tempusdir/yaml/tempus_$i.yml
-    echo "Preparing $i YAML files"
+    echo "Preparing Tempus $i YAML files"
 done

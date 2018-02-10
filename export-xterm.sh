@@ -33,5 +33,5 @@ for i in $schemes
 do
     $generator $i xterm > $outputdir/tempus_${i}.Xresources
     $generator $i xterm > $outputdir/tempus_${i}.Xcolors
-    echo "Preparing $i Xterm files"
+    echo "Preparing to export Tempus $i Xterm files"
 done

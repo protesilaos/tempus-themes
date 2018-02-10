@@ -32,5 +32,5 @@ mkdir -p $outputdir
 for i in $schemes
 do
     $generator $i vim > $outputdir/tempus_${i}.vim
-    echo "Preparing $i Vim files"
+    echo "Preparing to export Tempus $i Vim files"
 done

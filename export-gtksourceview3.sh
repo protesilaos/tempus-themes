@@ -32,5 +32,5 @@ mkdir -p $outputdir
 for i in $schemes
 do
     $generator $i gtksourceview3 > $outputdir/tempus_$i.xml
-    echo "Preparing $i gtk3 source view files"
+    echo "Preparing to export Tempus $i GTK3 Source View files"
 done

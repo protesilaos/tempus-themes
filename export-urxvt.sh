@@ -33,5 +33,5 @@ for i in $schemes
 do
     $generator $i urxvt > $outputdir/tempus_${i}.Xresources
     $generator $i urxvt > $outputdir/tempus_${i}.Xcolors
-    echo "Preparing $i Rxvt-Unicode (URvxt) files"
+    echo "Preparing to export Tempus $i Rxvt-Unicode (URvxt) files"
 done

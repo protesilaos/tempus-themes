@@ -32,5 +32,5 @@ mkdir -p $outputdir
 for i in $schemes
 do
     $generator $i tilix > $outputdir/tempus_$i.json
-    echo "Preparing $i Tilix files"
+    echo "Preparing to export Tempus $i Tilix files"
 done
