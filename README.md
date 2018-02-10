@@ -60,8 +60,8 @@ Each port of *Tempus* has its own repo, for your convenience:
 
 ## Contributing
 
-You are most welcome to contribute a template for developing ports of the Tempus collection. For your reference, the tool for producing the Tempus themes is located in another repository: [Tempus themes generator](https://github.com/protesilaos/tempus-themes-generator). It accepts data files with the colour values, parses them through templates to deliver the desired result (using the terminal's standard output).
+All contributions should be submitted to the Tempus themes generator. See [CONTRIBUTING.md](https://github.com/protesilaos/tempus-themes-generator/blob/master/CONTRIBUTING.md).
 
 ## License
 
-GNU General Public License Version 3.
+GNU General Public License Version 3. See [LICENSE](https://github.com/protesilaos/tempus-themes/blob/master/LICENSE).
