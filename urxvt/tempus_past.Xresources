@@ -1,6 +1,7 @@
 ! vi: ft=xdefaults
-! Colour scheme: Tempus past
-! By Protesilaos Stavrou
+! Theme: Tempus Past
+! Description: Light theme inspired by old vaporwave concept art (WCAG AA compliant)
+! Author: Protesilaos Stavrou (https://protesilaos.com)
 URxvt*background: #dadce8
 URxvt*foreground: #63606b
 URxvt*cursorColor: #63606b

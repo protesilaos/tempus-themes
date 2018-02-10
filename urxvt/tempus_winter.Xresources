@@ -1,6 +1,7 @@
 ! vi: ft=xdefaults
-! Colour scheme: Tempus winter
-! By Protesilaos Stavrou
+! Theme: Tempus Winter
+! Description: Dark theme with a palette inspired by winter nights at the city (WCAG AA compliant)
+! Author: Protesilaos Stavrou (https://protesilaos.com)
 URxvt*background: #202427
 URxvt*foreground: #798ba5
 URxvt*cursorColor: #798ba5

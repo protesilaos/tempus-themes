@@ -1,6 +1,7 @@
 # vi: ft=yaml
-scheme: "Tempus totus"
-author: "Protesilaos Stavrou <https://protesilaos.com>"
+scheme: "Tempus Totus"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+description: "Light theme for prose or for coding in an open space (WCAG AAA compliant)"
 col0: "#52505e" # black variant
 col1: "#a01c10" # red variant
 col2: "#0b5d46" # green variant

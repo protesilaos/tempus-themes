@@ -1,6 +1,7 @@
 ! vi: ft=xdefaults
-! Colour scheme: Tempus totus
-! By Protesilaos Stavrou
+! Theme: Tempus Totus
+! Description: Light theme for prose or for coding in an open space (WCAG AAA compliant)
+! Author: Protesilaos Stavrou (https://protesilaos.com)
 URxvt*background: #f4f1f0
 URxvt*foreground: #52505e
 URxvt*cursorColor: #52505e

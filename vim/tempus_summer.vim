@@ -1,7 +1,7 @@
 " vi: ft=vim
 
-" Name: Tempus summer
-" Author: Protesilaos Stavrou <https://protesilaos.com>
+" Name: Tempus Summer
+" Author: Protesilaos Stavrou (https://protesilaos.com)
 
 set background=dark
 hi clear

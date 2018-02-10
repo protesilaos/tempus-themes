@@ -1,6 +1,7 @@
 # vi: ft=yaml
-scheme: "Tempus past"
-author: "Protesilaos Stavrou <https://protesilaos.com>"
+scheme: "Tempus Past"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+description: "Light theme inspired by old vaporwave concept art (WCAG AA compliant)"
 col0: "#63606b" # black variant
 col1: "#c01c10" # red variant
 col2: "#2a7000" # green variant

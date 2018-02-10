@@ -1,7 +1,7 @@
 " vi: ft=vim
 
-" Name: Tempus warp
-" Author: Protesilaos Stavrou <https://protesilaos.com>
+" Name: Tempus Warp
+" Author: Protesilaos Stavrou (https://protesilaos.com)
 
 set background=dark
 hi clear

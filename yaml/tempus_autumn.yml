@@ -1,6 +1,7 @@
 # vi: ft=yaml
-scheme: "Tempus autumn"
-author: "Protesilaos Stavrou <https://protesilaos.com>"
+scheme: "Tempus Autumn"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+description: "Dark theme with a palette inspired by earthly colours (WCAG AA compliant)"
 col0: "#322622" # black variant
 col1: "#fc5526" # red variant
 col2: "#83973f" # green variant

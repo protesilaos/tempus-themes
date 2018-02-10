@@ -1,6 +1,7 @@
 ! vi: ft=xdefaults
-! Colour scheme: Tempus summer
-! By Protesilaos Stavrou
+! Theme: Tempus Summer
+! Description: Dark theme with colours inspired by summer evenings by the sea (WCAG AA compliant)
+! Author: Protesilaos Stavrou (https://protesilaos.com)
 URxvt*background: #293345
 URxvt*foreground: #9b999e
 URxvt*cursorColor: #9b999e

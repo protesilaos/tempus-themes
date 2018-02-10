@@ -1,6 +1,7 @@
 # vi: ft=yaml
-scheme: "Tempus winter"
-author: "Protesilaos Stavrou <https://protesilaos.com>"
+scheme: "Tempus Winter"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+description: "Dark theme with a palette inspired by winter nights at the city (WCAG AA compliant)"
 col0: "#202427" # black variant
 col1: "#ca7162" # red variant
 col2: "#589584" # green variant

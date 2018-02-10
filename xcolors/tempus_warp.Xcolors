@@ -1,6 +1,7 @@
 ! vi: ft=xdefaults
-! Colour scheme: Tempus warp
-! By Protesilaos Stavrou
+! Colour scheme: Tempus Warp
+! Description: Dark theme with a vibrant palette (WCAG AA compliant)
+! Author: Protesilaos Stavrou (https://protesilaos.com)
 *background: #141a19
 *foreground: #928f90
 *cursorColor: #928f90

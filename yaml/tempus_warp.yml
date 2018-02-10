@@ -1,6 +1,7 @@
 # vi: ft=yaml
-scheme: "Tempus warp"
-author: "Protesilaos Stavrou <https://protesilaos.com>"
+scheme: "Tempus Warp"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+description: "Dark theme with a vibrant palette (WCAG AA compliant)"
 col0: "#141a19" # black variant
 col1: "#ff1414" # red variant
 col2: "#009600" # green variant

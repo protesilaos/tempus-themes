@@ -1,6 +1,7 @@
 ! vi: ft=xdefaults
-! Colour scheme: Tempus future
-! By Protesilaos Stavrou
+! Theme: Tempus Future
+! Description: Dark theme with colours inspired by concept art of outer space (WCAG AAA compliant)
+! Author: Protesilaos Stavrou (https://protesilaos.com)
 URxvt*background: #18161d
 URxvt*foreground: #a4a0ac
 URxvt*cursorColor: #a4a0ac

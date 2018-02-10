@@ -1,6 +1,7 @@
 ! vi: ft=xdefaults
-! Colour scheme: Tempus spring
-! By Protesilaos Stavrou
+! Colour scheme: Tempus Spring
+! Description: Dark theme with a palette inspired by early spring colours (WCAG AA compliant)
+! Author: Protesilaos Stavrou (https://protesilaos.com)
 *background: #34403c
 *foreground: #a5a8a7
 *cursorColor: #a5a8a7

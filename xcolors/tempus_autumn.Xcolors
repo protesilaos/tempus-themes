@@ -1,6 +1,7 @@
 ! vi: ft=xdefaults
-! Colour scheme: Tempus autumn
-! By Protesilaos Stavrou
+! Colour scheme: Tempus Autumn
+! Description: Dark theme with a palette inspired by earthly colours (WCAG AA compliant)
+! Author: Protesilaos Stavrou (https://protesilaos.com)
 *background: #322622
 *foreground: #8e8f8d
 *cursorColor: #8e8f8d

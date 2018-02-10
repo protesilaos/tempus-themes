@@ -1,6 +1,7 @@
 # vi: ft=yaml
-scheme: "Tempus spring"
-author: "Protesilaos Stavrou <https://protesilaos.com>"
+scheme: "Tempus Spring"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+description: "Dark theme with a palette inspired by early spring colours (WCAG AA compliant)"
 col0: "#34403c" # black variant
 col1: "#ff855a" # red variant
 col2: "#6ab78a" # green variant
