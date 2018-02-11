@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Fugit",
+    "comment": "Light, pleasant theme optimised for long writing/coding sessions",
+    "foreground-color": "#4D696F",
+    "background-color": "#FFF5F3",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#FFF5F3",
+    "highlight-background-color": "#4D696F",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#FFF5F3",
+    "cursor-background-color": "#4D696F",
+    "use-badge-color": true,
+    "badge-color": "#8B6781",
+    "palette": [
+        "#4D696F",
+        "#DF2014",
+        "#587D0A",
+        "#8A6F00",
+        "#196BEC",
+        "#C83884",
+        "#2A79A2",
+        "#FAF6F9",
+        "#8B6781",
+        "#9A511A",
+        "#11742F",
+        "#8D590A",
+        "#004FFF",
+        "#9536C0",
+        "#046C92",
+        "#FFF5F3"
+    ]
+}

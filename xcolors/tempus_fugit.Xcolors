@@ -1,0 +1,24 @@
+! vi: ft=xdefaults
+! Colour scheme: Tempus Fugit
+! Description: Light, pleasant theme optimised for long writing/coding sessions
+! Author: Protesilaos Stavrou (https://protesilaos.com)
+*background: #FFF5F3
+*foreground: #4D696F
+*cursorColor: #4D696F
+*cursorColor2: #FFF5F3
+*color0: #4D696F
+*color1: #DF2014
+*color2: #587D0A
+*color3: #8A6F00
+*color4: #196BEC
+*color5: #C83884
+*color6: #2A79A2
+*color7: #FAF6F9
+*color8: #8B6781
+*color9: #9A511A
+*color10: #11742F
+*color11: #8D590A
+*color12: #004FFF
+*color13: #9536C0
+*color14: #046C92
+*color15: #FFF5F3
