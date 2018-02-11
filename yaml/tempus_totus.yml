@@ -1,5 +1,7 @@
 # vi: ft=yaml
-scheme: "Tempus Totus"
+name: "Tempus Totus"
+slug: "tempus-totus"
+slugunderscore: "tempus_totus"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Light theme for prose or for coding in an open space (WCAG AAA compliant)"
 col0: "#52505e" # black variant
@@ -18,3 +20,10 @@ col12: "#5440a7" # bright blue variant
 col13: "#8d0e9b" # bright magenta variant
 col14: "#0e577b" # bright cyan variant
 col15: "#f4f1f0" # bright white variant
+colvr: "light" # theme variant
+colbg: "#f4f1f0" # main background
+colbgalt: "#ecf3f3" # alternative background
+colfg: "#52505e" # main foreground
+colfgalt: "#575050" # alternative foreground
+colcr: "#52505e" # cursor background
+colcr2: "#f4f1f0" # cursor foreground

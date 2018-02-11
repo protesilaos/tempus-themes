@@ -1,5 +1,7 @@
 # vi: ft=yaml
-scheme: "Tempus Autumn"
+name: "Tempus Autumn"
+slug: "tempus-autumn"
+slugunderscore: "tempus_autumn"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with a palette inspired by earthly colours (WCAG AA compliant)"
 col0: "#322622" # black variant
@@ -18,3 +20,10 @@ col12: "#6b8ed6" # bright blue variant
 col13: "#9d80d3" # bright magenta variant
 col14: "#229ea0" # bright cyan variant
 col15: "#8e8f8d" # bright white variant
+colvr: "dark" # theme variant
+colbg: "#322622" # main background
+colbgalt: "#35260f" # alternative background
+colfg: "#8e8f8d" # main foreground
+colfgalt: "#919078" # alternative foreground
+colcr: "#8e8f8d" # cursor background
+colcr2: "#322622" # cursor foreground

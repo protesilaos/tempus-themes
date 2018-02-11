@@ -1,5 +1,7 @@
 # vi: ft=yaml
-scheme: "Tempus Warp"
+name: "Tempus Warp"
+slug: "tempus-warp"
+slugunderscore: "tempus_warp"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with a vibrant palette (WCAG AA compliant)"
 col0: "#141a19" # black variant
@@ -18,3 +20,10 @@ col12: "#8082ff" # bright blue variant
 col13: "#d159fd" # bright magenta variant
 col14: "#1da190" # bright cyan variant
 col15: "#928f90" # bright white variant
+colvr: "dark" # theme variant
+colbg: "#141a19" # main background
+colbgalt: "#201428" # alternative background
+colfg: "#928f90" # main foreground
+colfgalt: "#927b80" # alternative foreground
+colcr: "#928f90" # cursor background
+colcr2: "#141a19" # cursor foreground
