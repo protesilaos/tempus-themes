@@ -4,29 +4,29 @@
   <_description>Light, pleasant theme optimised for long writing/coding sessions</_description>
 
   <!-- Palette -->
-  <color name="col0" value="#4D696F"/>
-  <color name="col1" value="#DF2014"/>
-  <color name="col2" value="#587D0A"/>
-  <color name="col3" value="#8A6F00"/>
-  <color name="col4" value="#196BEC"/>
-  <color name="col5" value="#C83884"/>
-  <color name="col6" value="#2A79A2"/>
-  <color name="col7" value="#FAF6F9"/>
-  <color name="col8" value="#8B6781"/>
-  <color name="col9" value="#9A511A"/>
-  <color name="col10" value="#11742F"/>
-  <color name="col11" value="#8D590A"/>
-  <color name="col12" value="#004FFF"/>
-  <color name="col13" value="#9536C0"/>
-  <color name="col14" value="#046C92"/>
-  <color name="col15" value="#FFF5F3"/>
+  <color name="col0" value="#4d696f"/>
+  <color name="col1" value="#df2014"/>
+  <color name="col2" value="#587d0a"/>
+  <color name="col3" value="#8a6f00"/>
+  <color name="col4" value="#196bec"/>
+  <color name="col5" value="#c83884"/>
+  <color name="col6" value="#2a79a2"/>
+  <color name="col7" value="#faf6f9"/>
+  <color name="col8" value="#8b6781"/>
+  <color name="col9" value="#9a511a"/>
+  <color name="col10" value="#11742f"/>
+  <color name="col11" value="#8d590a"/>
+  <color name="col12" value="#004fff"/>
+  <color name="col13" value="#9536c0"/>
+  <color name="col14" value="#046c92"/>
+  <color name="col15" value="#fff5f3"/>
 
   <!-- Base values -->
-  <color name="colbg" value="#FFF5F3"/>
-  <color name="colbgalt" value="#FAF6F9"/>
-  <color name="colfg" value="#4D696F"/>
-  <color name="colfgalt" value="#8B6781"/>
-  <color name="colcr" value="#4D696F"/>
+  <color name="colbg" value="#fff5f3"/>
+  <color name="colbgalt" value="#faf6f9"/>
+  <color name="colfg" value="#4d696f"/>
+  <color name="colfgalt" value="#8b6781"/>
+  <color name="colcr" value="#4d696f"/>
 
   <!-- Global Settings -->
   <style name="text" foreground="colfg" background="colbg"/>

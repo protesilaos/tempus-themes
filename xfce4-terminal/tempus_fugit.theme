@@ -1,11 +1,11 @@
 ; vi: ft=dosini
 [Scheme]
 Name=Tempus Fugit
-ColorForeground=#4D696F
-ColorBackground=#FFF5F3
-ColorCursor=#4D696F
-ColorBold=#4D696F
-ColorPalette=#4D696F;#DF2014;#587D0A;#8A6F00;#196BEC;#C83884;#2A79A2;#FAF6F9;#8B6781;#9A511A;#11742F;#8D590A;#004FFF;#9536C0;#046C92;#FFF5F3
-TabActivityColor=#587D0A
-ColorSelectionBackground=#4D696F
-ColorSelection=#FFF5F3
+ColorForeground=#4d696f
+ColorBackground=#fff5f3
+ColorCursor=#4d696f
+ColorBold=#4d696f
+ColorPalette=#4d696f;#df2014;#587d0a;#8a6f00;#196bec;#c83884;#2a79a2;#faf6f9;#8b6781;#9a511a;#11742f;#8d590a;#004fff;#9536c0;#046c92;#fff5f3
+TabActivityColor=#587d0a
+ColorSelectionBackground=#4d696f
+ColorSelection=#fff5f3

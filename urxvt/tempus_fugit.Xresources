@@ -2,23 +2,23 @@
 ! Theme: Tempus Fugit
 ! Description: Light, pleasant theme optimised for long writing/coding sessions
 ! Author: Protesilaos Stavrou (https://protesilaos.com)
-URxvt*background: #FFF5F3
-URxvt*foreground: #4D696F
-URxvt*cursorColor: #4D696F
-URxvt*cursorColor2: #FFF5F3
-URxvt*color0: #4D696F
-URxvt*color1: #DF2014
-URxvt*color2: #587D0A
-URxvt*color3: #8A6F00
-URxvt*color4: #196BEC
-URxvt*color5: #C83884
-URxvt*color6: #2A79A2
-URxvt*color7: #FAF6F9
-URxvt*color8: #8B6781
-URxvt*color9: #9A511A
-URxvt*color10: #11742F
-URxvt*color11: #8D590A
-URxvt*color12: #004FFF
-URxvt*color13: #9536C0
-URxvt*color14: #046C92
-URxvt*color15: #FFF5F3
+URxvt*background: #fff5f3
+URxvt*foreground: #4d696f
+URxvt*cursorColor: #4d696f
+URxvt*cursorColor2: #fff5f3
+URxvt*color0: #4d696f
+URxvt*color1: #df2014
+URxvt*color2: #587d0a
+URxvt*color3: #8a6f00
+URxvt*color4: #196bec
+URxvt*color5: #c83884
+URxvt*color6: #2a79a2
+URxvt*color7: #faf6f9
+URxvt*color8: #8b6781
+URxvt*color9: #9a511a
+URxvt*color10: #11742f
+URxvt*color11: #8d590a
+URxvt*color12: #004fff
+URxvt*color13: #9536c0
+URxvt*color14: #046c92
+URxvt*color15: #fff5f3
