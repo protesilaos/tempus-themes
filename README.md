@@ -18,6 +18,9 @@ Tempus themes are interoperable. They are meant to work as a one-to-one replacem
 Tempus Autumn (WCAG AA)  
 ![tempus_autumn sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_autumn.png)
 
+Tempus Fugit (WCAG AA)  
+![tempus_fugit sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_fugit.png)
+
 Tempus Future (WCAG AAA)  
 ![tempus_future sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_future.png)
 
