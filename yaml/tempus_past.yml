@@ -4,6 +4,7 @@ slug: "tempus-past"
 slugunderscore: "tempus_past"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Light theme inspired by old vaporwave concept art (WCAG AA compliant)"
+variant: "light" # light or dark
 col0: "#63606b" # black variant
 col1: "#c01c10" # red variant
 col2: "#2a7000" # green variant
@@ -20,7 +21,6 @@ col12: "#5046eb" # bright blue variant
 col13: "#ba166b" # bright magenta variant
 col14: "#076c76" # bright cyan variant
 col15: "#dadce8" # bright white variant
-colvr: "light" # theme variant
 colbg: "#dadce8" # main background
 colbgalt: "#e0dcd6" # alternative background
 colfg: "#63606b" # main foreground

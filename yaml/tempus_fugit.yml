@@ -3,7 +3,8 @@ name: "Tempus Fugit"
 slug: "tempus-fugit"
 slugunderscore: "tempus_fugit"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
-description: "Light, pleasant theme optimised for long writing/coding sessions"
+description: "Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)"
+variant: "light" # light or dark
 col0: "#4d696f" # black variant
 col1: "#df2014" # red variant
 col2: "#587d0a" # green variant
@@ -20,7 +21,6 @@ col12: "#004fff" # bright blue variant
 col13: "#9536c0" # bright magenta variant
 col14: "#046c92" # bright cyan variant
 col15: "#fff5f3" # bright white variant
-colvr: "light" # theme variant
 colbg: "#fff5f3" # main background
 colbgalt: "#faf6f9" # alternative background
 colfg: "#4d696f" # main foreground

@@ -4,6 +4,7 @@ slug: "tempus-summer"
 slugunderscore: "tempus_summer"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with colours inspired by summer evenings by the sea (WCAG AA compliant)"
+variant: "dark" # light or dark
 col0: "#293345" # black variant
 col1: "#fe6d32" # red variant
 col2: "#6ba86d" # green variant
@@ -20,7 +21,6 @@ col12: "#3ba1e8" # bright blue variant
 col13: "#c97ed7" # bright magenta variant
 col14: "#52a6b1" # bright cyan variant
 col15: "#9b999e" # bright white variant
-colvr: "dark" # theme variant
 colbg: "#293345" # main background
 colbgalt: "#352f49" # alternative background
 colfg: "#9b999e" # main foreground

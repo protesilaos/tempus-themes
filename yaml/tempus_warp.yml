@@ -4,6 +4,7 @@ slug: "tempus-warp"
 slugunderscore: "tempus_warp"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with a vibrant palette (WCAG AA compliant)"
+variant: "dark" # light or dark
 col0: "#141a19" # black variant
 col1: "#ff1414" # red variant
 col2: "#009600" # green variant
@@ -20,7 +21,6 @@ col12: "#8082ff" # bright blue variant
 col13: "#d159fd" # bright magenta variant
 col14: "#1da190" # bright cyan variant
 col15: "#928f90" # bright white variant
-colvr: "dark" # theme variant
 colbg: "#141a19" # main background
 colbgalt: "#201428" # alternative background
 colfg: "#928f90" # main foreground

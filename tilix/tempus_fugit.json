@@ -1,6 +1,6 @@
 {
     "name": "Tempus Fugit",
-    "comment": "Light, pleasant theme optimised for long writing/coding sessions",
+    "comment": "Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)",
     "foreground-color": "#4d696f",
     "background-color": "#fff5f3",
     "use-theme-colors": false,

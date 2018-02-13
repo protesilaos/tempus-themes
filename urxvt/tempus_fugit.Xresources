@@ -1,6 +1,6 @@
 ! vi: ft=xdefaults
 ! Theme: Tempus Fugit
-! Description: Light, pleasant theme optimised for long writing/coding sessions
+! Description: Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)
 ! Author: Protesilaos Stavrou (https://protesilaos.com)
 URxvt*background: #fff5f3
 URxvt*foreground: #4d696f

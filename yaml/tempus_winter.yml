@@ -4,6 +4,7 @@ slug: "tempus-winter"
 slugunderscore: "tempus_winter"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with a palette inspired by winter nights at the city (WCAG AA compliant)"
+variant: "dark" # light or dark
 col0: "#202427" # black variant
 col1: "#ca7162" # red variant
 col2: "#589584" # green variant
@@ -20,7 +21,6 @@ col12: "#6987d7" # bright blue variant
 col13: "#987dc2" # bright magenta variant
 col14: "#1f96b0" # bright cyan variant
 col15: "#798ba5" # bright white variant
-colvr: "dark" # theme variant
 colbg: "#202427" # main background
 colbgalt: "#1b2431" # alternative background
 colfg: "#798ba5" # main foreground

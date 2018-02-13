@@ -4,6 +4,7 @@ slug: "tempus-spring"
 slugunderscore: "tempus_spring"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with a palette inspired by early spring colours (WCAG AA compliant)"
+variant: "dark" # light or dark
 col0: "#34403c" # black variant
 col1: "#ff855a" # red variant
 col2: "#6ab78a" # green variant
@@ -20,7 +21,6 @@ col12: "#3caffe" # bright blue variant
 col13: "#d091db" # bright magenta variant
 col14: "#4ab4d3" # bright cyan variant
 col15: "#a5a8a7" # bright white variant
-colvr: "dark" # theme variant
 colbg: "#34403c" # main background
 colbgalt: "#2a423d" # alternative background
 colfg: "#a5a8a7" # main foreground

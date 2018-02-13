@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme id="tempus-fugit" _name="Tempus Fugit" version="1.0">
   <author>Protesilaos Stavrou (https://protesilaos.com)</author>
-  <_description>Light, pleasant theme optimised for long writing/coding sessions</_description>
+  <_description>Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)</_description>
 
   <!-- Palette -->
   <color name="col0" value="#4d696f"/>
