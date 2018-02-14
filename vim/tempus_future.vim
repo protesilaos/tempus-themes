@@ -122,10 +122,10 @@ hi SpellCap guibg=#bda014 guifg=#18161d ctermbg=3 ctermfg=0
 hi SpellRare guibg=#ec7aca guifg=#18161d ctermbg=13 ctermfg=0
 hi SpellLocal guibg=#4ab0b9 guifg=#18161d ctermbg=14 ctermfg=0
 
-hi Pmenu gui=italic guibg=#bd9b87 guifg=#001b1a cterm=italic ctermbg=7 ctermfg=8
-hi PmenuSel gui=none,bold guibg=#001b1a guifg=#a4a0ac cterm=none,bold ctermbg=8 ctermfg=15
-hi PmenuSbar guibg=#bd9b87 ctermbg=7
-hi PmenuThumb guibg=#001b1a ctermbg=8
+hi Pmenu gui=italic guibg=#001b1a guifg=#a4a0ac cterm=italic ctermbg=8 ctermfg=15
+hi PmenuSel gui=none,bold guibg=#bd9b87 guifg=#18161d cterm=none,bold ctermbg=7 ctermfg=0
+hi PmenuSbar guibg=#001b1a ctermbg=8
+hi PmenuThumb guibg=#bd9b87 ctermbg=7
 
 " Diffs
 " -----------------
