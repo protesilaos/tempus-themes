@@ -26,7 +26,7 @@ hi StatusLineTermNC gui=none guibg=#201428 guifg=#009600 cterm=none ctermbg=8 ct
 
 hi VertSplit gui=none cterm=none
 hi TabLine gui=none guibg=#201428 guifg=#927b80 cterm=none ctermbg=8 ctermfg=7
-hi TabLineSel gui=none guibg=#009600 guifg=#141a19 cterm=none ctermbg=2 ctermfg=0
+hi TabLineSel gui=none guibg=#928f90 guifg=#141a19 cterm=none ctermbg=15 ctermfg=0
 hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#927b80 cterm=italic ctermfg=7
@@ -37,7 +37,7 @@ hi WarningMsg gui=none guibg=#928100 guifg=#141a19 cterm=none ctermbg=3 ctermfg=
 hi Error gui=none guibg=#ff1414 guifg=#141a19 cterm=none ctermbg=1 ctermfg=0
 hi ErrorMsg gui=none guibg=#ff1414 guifg=#141a19 cterm=none ctermbg=1 ctermfg=0
 
-hi MatchParen gui=underline guibg=#d159fd guifg=#141a19 cterm=underline ctermbg=13 ctermfg=0
+hi MatchParen gui=underline,bold guibg=#d159fd guifg=#141a19 cterm=underline,bold ctermbg=13 ctermfg=0
 
 hi ToolbarLine guibg=#927b80 guifg=#141a19 term=none ctermbg=7 ctermfg=0
 hi ToolbarButton gui=bold guibg=#927b80 guifg=#141a19 term=none cterm=bold ctermbg=7 ctermfg=0
@@ -79,7 +79,7 @@ hi Macro gui=bold guifg=#ff5500 cterm=bold ctermfg=9
 hi Include guifg=#ff5500 ctermfg=9
 hi Define guifg=#ff5500 ctermfg=9
 
-hi Title gui=bold guifg=#1da190 cterm=bold ctermfg=14
+hi Title gui=bold guibg=#141a19 guifg=#358aaa cterm=bold ctermbg=0 ctermfg=6
 
 hi Special gui=bold guifg=#b38a00 term=none cterm=bold ctermfg=11
 hi SpecialKey guifg=#b38a00 ctermfg=11
@@ -113,7 +113,7 @@ hi ModeMsg gui=bold guifg=#009600 cterm=bold ctermfg=2
 hi VimOption guifg=#dd38bc ctermfg=5
 hi VimGroup guifg=#dd38bc ctermfg=5
 
-hi Underlined gui=none,bold guifg=#928f90 cterm=underline,bold ctermfg=15
+hi Underlined gui=underline,bold guifg=#928f90 cterm=underline,bold ctermfg=15
 hi Ignore guibg=#201428 guifg=#927b80 ctermbg=8 ctermfg=7
 hi Conceal guibg=#927b80 guifg=#201428 ctermbg=7 ctermfg=8
 
@@ -122,9 +122,9 @@ hi SpellCap guibg=#928100 guifg=#141a19 ctermbg=3 ctermfg=0
 hi SpellRare guibg=#d159fd guifg=#141a19 ctermbg=13 ctermfg=0
 hi SpellLocal guibg=#1da190 guifg=#141a19 ctermbg=14 ctermfg=0
 
-hi Pmenu guibg=#927b80 guifg=#201428 ctermbg=7 ctermfg=8
-hi PmenuSel guibg=#201428 guifg=#009600 ctermbg=8 ctermfg=2
-hi PmenuSbar guibg=#928f90 ctermbg=15
+hi Pmenu gui=italic guibg=#927b80 guifg=#201428 cterm=italic ctermbg=7 ctermfg=8
+hi PmenuSel gui=none,bold guibg=#201428 guifg=#928f90 cterm=none,bold ctermbg=8 ctermfg=15
+hi PmenuSbar guibg=#927b80 ctermbg=7
 hi PmenuThumb guibg=#201428 ctermbg=8
 
 " Diffs
