@@ -4,7 +4,8 @@ Used in the following applications (non-exhaustive list):
 
 - Gedit (default GNOME text editor)
 - Pluma (default MATE text editor)
-- Xed (default Linux Mint Cinnamon editor).
+- Mousepad (default Xfce text editor)
+- Xed (default Linux Mint Cinnamon text editor).
 
 ## Automatic installation
 
