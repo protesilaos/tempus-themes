@@ -1,4 +1,3 @@
-# vi: ft=yaml
 name: "Tempus Warp"
 slug: "tempus-warp"
 slugunderscore: "tempus_warp"

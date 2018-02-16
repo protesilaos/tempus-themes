@@ -1,7 +1,6 @@
-" vi: ft=vim
-
 " Name: Tempus Autumn
 " Author: Protesilaos Stavrou (https://protesilaos.com)
+" Description: Dark theme with a palette inspired by earthly colours (WCAG AA compliant)
 
 set background=dark
 hi clear

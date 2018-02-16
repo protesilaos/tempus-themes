@@ -1,7 +1,6 @@
-" vi: ft=vim
-
 " Name: Tempus Fugit
 " Author: Protesilaos Stavrou (https://protesilaos.com)
+" Description: Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)
 
 set background=light
 hi clear

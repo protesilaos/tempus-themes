@@ -1,7 +1,6 @@
-" vi: ft=vim
-
 " Name: Tempus Future
 " Author: Protesilaos Stavrou (https://protesilaos.com)
+" Description: Dark theme with colours inspired by concept art of outer space (WCAG AAA compliant)
 
 set background=dark
 hi clear

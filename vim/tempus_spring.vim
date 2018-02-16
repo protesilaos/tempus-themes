@@ -1,7 +1,6 @@
-" vi: ft=vim
-
 " Name: Tempus Spring
 " Author: Protesilaos Stavrou (https://protesilaos.com)
+" Description: Dark theme with a palette inspired by early spring colours (WCAG AA compliant)
 
 set background=dark
 hi clear

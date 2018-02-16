@@ -1,7 +1,6 @@
-" vi: ft=vim
-
 " Name: Tempus Past
 " Author: Protesilaos Stavrou (https://protesilaos.com)
+" Description: Light theme inspired by old vaporwave concept art (WCAG AA compliant)
 
 set background=light
 hi clear

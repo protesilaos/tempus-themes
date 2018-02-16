@@ -1,7 +1,6 @@
-" vi: ft=vim
-
 " Name: Tempus Warp
 " Author: Protesilaos Stavrou (https://protesilaos.com)
+" Description: Dark theme with a vibrant palette (WCAG AA compliant)
 
 set background=dark
 hi clear

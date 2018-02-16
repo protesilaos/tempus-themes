@@ -1,7 +1,6 @@
-" vi: ft=vim
-
 " Name: Tempus Totus
 " Author: Protesilaos Stavrou (https://protesilaos.com)
+" Description: Light theme for prose or for coding in an open space (WCAG AAA compliant)
 
 set background=light
 hi clear

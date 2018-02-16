@@ -1,7 +1,6 @@
-" vi: ft=vim
-
 " Name: Tempus Summer
 " Author: Protesilaos Stavrou (https://protesilaos.com)
+" Description: Dark theme with colours inspired by summer evenings by the sea (WCAG AA compliant)
 
 set background=dark
 hi clear
