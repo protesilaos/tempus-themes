@@ -1,0 +1,26 @@
+#!/bin/bash
+# Can be sourced from scripts to expose these colours as variables.
+
+# theme: Tempus Past
+# author: Protesilaos Stavrou (https://protesilaos.com)
+# description: Light theme inspired by old vaporwave concept art (WCAG AA compliant)
+background="#dadce8"
+foreground="#63606b"
+cursorColor="#63606b"
+cursorColor2="#dadce8"
+color0="#63606b"
+color1="#c01c10"
+color2="#2a7000"
+color3="#825a0a"
+color4="#025ccd"
+color5="#a43878"
+color6="#49628d"
+color7="#e0dcd6"
+color8="#80565d"
+color9="#b43036"
+color10="#007214"
+color11="#91520a"
+color12="#5046eb"
+color13="#ba166b"
+color14="#076c76"
+color15="#dadce8"
