@@ -27,6 +27,9 @@ Tempus Future (WCAG AAA)
 Tempus Past (WCAG AA)  
 ![tempus_past sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_past.png)
 
+Tempus Rift (WCAG AA)  
+![tempus_rift sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_rift.png)
+
 Tempus Spring (WCAG AA)  
 ![tempus_spring sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_spring.png)
 

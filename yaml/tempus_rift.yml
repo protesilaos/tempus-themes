@@ -1,0 +1,28 @@
+name: "Tempus Rift"
+slug: "tempus-rift"
+slugunderscore: "tempus_rift"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+description: "Dark theme with a subdued palette on the green side of the spectrum"
+variant: "dark" # light or dark
+col0: "#2b353c" # black variant
+col1: "#be9604" # red variant
+col2: "#0eb40e" # green variant
+col3: "#79aa00" # yellow variant
+col4: "#00acb3" # blue variant
+col5: "#ba964c" # magenta variant
+col6: "#5fa98f" # cyan variant
+col7: "#ab9699" # white variant
+col8: "#3d3038" # bright black variant
+col9: "#bdae13" # bright red variant
+col10: "#3ac53a" # bright green variant
+col11: "#9ab800" # bright yellow variant
+col12: "#20bdce" # bright blue variant
+col13: "#cca57a" # bright magenta variant
+col14: "#6fb9ae" # bright cyan variant
+col15: "#abacac" # bright white variant
+colbg: "#2b353c" # main background
+colbgalt: "#3d3038" # alternative background
+colfg: "#abacac" # main foreground
+colfgalt: "#ab9699" # alternative foreground
+colcr: "#abacac" # cursor background
+colcr2: "#2b353c" # cursor foreground

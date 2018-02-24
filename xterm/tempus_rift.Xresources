@@ -1,0 +1,22 @@
+! Theme: Tempus Rift
+! Description: Dark theme with a subdued palette on the green side of the spectrum
+! Author: Protesilaos Stavrou (https://protesilaos.com)
+xterm*background: #2b353c
+xterm*foreground: #abacac
+xterm*cursorColor: #abacac
+xterm*color0: #2b353c
+xterm*color1: #be9604
+xterm*color2: #0eb40e
+xterm*color3: #79aa00
+xterm*color4: #00acb3
+xterm*color5: #ba964c
+xterm*color6: #5fa98f
+xterm*color7: #ab9699
+xterm*color8: #3d3038
+xterm*color9: #bdae13
+xterm*color10: #3ac53a
+xterm*color11: #9ab800
+xterm*color12: #20bdce
+xterm*color13: #cca57a
+xterm*color14: #6fb9ae
+xterm*color15: #abacac
