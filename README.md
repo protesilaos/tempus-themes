@@ -49,7 +49,7 @@ Tempus Winter (WCAG AA)
 
 Each directory contains files specific to the application it references. For example, the `urxvt` directory includes an `.Xresources` file for each item in the Tempus collection.
 
-Instructions on how to use these files are documented in the `README.md` which is included in each directory. Exceptions are the `xcolors` and `yaml` directories, which include generic files.
+Instructions on how to use these files are documented in the `README.md` which is included in each directory. Exceptions are the `shell-variables`, `xcolors` and `yaml` directories, which include generic files.
 
 ## App-specific repositories
 
