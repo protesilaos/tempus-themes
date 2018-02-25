@@ -1,8 +1,8 @@
 # Tempus Themes for Konsole (KDE terminal)
 
-<!-- ## Automatic installation -->
+## Automatic installation
 
-<!-- If you use Arch Linux or derivatives, you can get these themes from the [AUR](https://aur.archlinux.org/packages/tempus-themes-konsole/). -->
+If you use Arch Linux or derivatives, you can get these themes from the [AUR](https://aur.archlinux.org/packages/tempus-themes-konsole/).
 
 ## Manual installation instructions
 
