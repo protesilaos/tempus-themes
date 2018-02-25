@@ -34,4 +34,22 @@ Enjoy!
 
 ## Additional resources
 
-Check out my [dotfiles](https://github.com/protesilaos/dotfiles) if you need any inspiration.
+For all available ports, refer to the main [Tempus themes repo](https://github.com/protesilaos/tempus-themes).
+
+## Contributing
+
+All contributions should be submitted to the Tempus themes generator. See [CONTRIBUTING.md](https://github.com/protesilaos/tempus-themes-generator/blob/master/CONTRIBUTING.md).
+
+## License
+
+GNU General Public License Version 3. See [LICENSE](https://github.com/protesilaos/tempus-themes-xterm/blob/master/LICENSE).
+
+## Meta
+
+The Tempus themes project consists of a number of repositories. It is maintained with a set of scripts and utilities, stored in the [tempus-themes-utils](https://github.com/protesilaos/tempus-themes-utils).
+
+All theme files are created with the [Tempus themes generator](https://github.com/protesilaos/tempus-themes-generator). See the generator CONTRIBUTING.md.
+
+## Donations
+
+If you appreciate this work, consider [donating via PayPal](https://www.paypal.me/protesilaos).
