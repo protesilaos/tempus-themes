@@ -36,7 +36,7 @@ hi WarningMsg gui=none guibg=#73500a guifg=#f3f1f5 cterm=none ctermbg=3 ctermfg=
 hi Error gui=none guibg=#9b3132 guifg=#f3f1f5 cterm=none ctermbg=1 ctermfg=15
 hi ErrorMsg gui=none guibg=#9b3132 guifg=#f3f1f5 cterm=none ctermbg=1 ctermfg=15
 
-hi MatchParen gui=underline,bold guibg=#A24055 guifg=#f3f1f5 cterm=underline,bold ctermbg=13 ctermfg=15
+hi MatchParen gui=underline,bold guibg=#a24055 guifg=#f3f1f5 cterm=underline,bold ctermbg=13 ctermfg=15
 
 hi ToolbarLine guibg=#735e3f guifg=#f3f1f5 term=none ctermbg=8 ctermfg=15
 hi ToolbarButton gui=bold guibg=#735e3f guifg=#f3f1f5 term=none cterm=bold ctermbg=8 ctermfg=15
@@ -52,19 +52,19 @@ hi Number guifg=#4c547e ctermfg=4
 hi Float guifg=#4c547e ctermfg=4
 hi String guifg=#5c5d8c ctermfg=12
 
-hi Function guifg=#883C64 ctermfg=5
-hi Identifier guifg=#A24055 term=none ctermfg=13
-hi Label guifg=#883C64 ctermfg=5
-hi Tag guifg=#883C64 ctermfg=5
-hi Keyword gui=bold guifg=#A24055 gui=bold ctermfg=13
+hi Function guifg=#883c64 ctermfg=5
+hi Identifier guifg=#a24055 term=none ctermfg=13
+hi Label guifg=#883c64 ctermfg=5
+hi Tag guifg=#883c64 ctermfg=5
+hi Keyword gui=bold guifg=#a24055 gui=bold ctermfg=13
 
-hi Character gui=bold guifg=#2D6978 cterm=bold ctermfg=14
+hi Character gui=bold guifg=#2d6978 cterm=bold ctermfg=14
 
 hi Type gui=none,bold guifg=#186060 term=none cterm=none,bold ctermfg=6
 hi Boolean guifg=#186060 ctermfg=6
 hi StorageClass guifg=#186060 ctermfg=6
 hi Structure guifg=#186060 ctermfg=6
-hi Typedef gui=bold guifg=#2D6978 cterm=bold ctermfg=14
+hi Typedef gui=bold guifg=#2d6978 cterm=bold ctermfg=14
 
 hi Conditional gui=bold guifg=#306130 cterm=bold ctermfg=2
 hi Statement gui=none guifg=#4e6938 cterm=none ctermfg=10
@@ -84,11 +84,11 @@ hi Special gui=bold guifg=#8e5319 term=none cterm=bold ctermfg=11
 hi SpecialKey guifg=#8e5319 ctermfg=11
 hi SpecialChar gui=bold guifg=#8e5319 cterm=bold ctermfg=11
 
-hi Delimeter gui=bold guifg=#883C64 cterm=bold ctermfg=5
-hi Delimiter gui=bold guifg=#883C64 cterm=bold ctermfg=5
-hi SpecialComment gui=bold guifg=#883C64 cterm=bold ctermfg=5
+hi Delimeter gui=bold guifg=#883c64 cterm=bold ctermfg=5
+hi Delimiter gui=bold guifg=#883c64 cterm=bold ctermfg=5
+hi SpecialComment gui=bold guifg=#883c64 cterm=bold ctermfg=5
 
-hi Debug guifg=#A24055 ctermfg=13
+hi Debug guifg=#a24055 ctermfg=13
 
 " Other
 " -----------------
@@ -109,8 +109,8 @@ hi Question gui=bold guifg=#8e5319 cterm=bold ctermfg=11
 hi MoreMsg guifg=#4e6938 ctermfg=10
 hi ModeMsg gui=bold guifg=#306130 cterm=bold ctermfg=2
 
-hi VimOption guifg=#883C64 ctermfg=5
-hi VimGroup guifg=#883C64 ctermfg=5
+hi VimOption guifg=#883c64 ctermfg=5
+hi VimGroup guifg=#883c64 ctermfg=5
 
 hi Underlined gui=underline,bold guifg=#53575a cterm=underline,bold ctermfg=0
 hi Ignore guibg=#dedae9 guifg=#735e3f ctermbg=7 ctermfg=8
@@ -118,8 +118,8 @@ hi Conceal guibg=#735e3f guifg=#dedae9 ctermbg=8 ctermfg=7
 
 hi SpellBad guibg=#9b3132 guifg=#f3f1f5 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#73500a guifg=#f3f1f5 ctermbg=3 ctermfg=15
-hi SpellRare guibg=#A24055 guifg=#f3f1f5 ctermbg=13 ctermfg=15
-hi SpellLocal guibg=#2D6978 guifg=#f3f1f5 ctermbg=14 ctermfg=15
+hi SpellRare guibg=#a24055 guifg=#f3f1f5 ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#2d6978 guifg=#f3f1f5 ctermbg=14 ctermfg=15
 
 hi Pmenu gui=italic guibg=#dedae9 guifg=#53575a cterm=italic ctermbg=7 ctermfg=0
 hi PmenuSel gui=none,bold guibg=#735e3f guifg=#f3f1f5 cterm=none,bold ctermbg=8 ctermfg=15

@@ -9,7 +9,7 @@
   <color name="col2" value="#306130"/>
   <color name="col3" value="#73500a"/>
   <color name="col4" value="#4c547e"/>
-  <color name="col5" value="#883C64"/>
+  <color name="col5" value="#883c64"/>
   <color name="col6" value="#186060"/>
   <color name="col7" value="#dedae9"/>
   <color name="col8" value="#735e3f"/>
@@ -17,8 +17,8 @@
   <color name="col10" value="#4e6938"/>
   <color name="col11" value="#8e5319"/>
   <color name="col12" value="#5c5d8c"/>
-  <color name="col13" value="#A24055"/>
-  <color name="col14" value="#2D6978"/>
+  <color name="col13" value="#a24055"/>
+  <color name="col14" value="#2d6978"/>
   <color name="col15" value="#f3f1f5"/>
 
   <!-- Base values -->
