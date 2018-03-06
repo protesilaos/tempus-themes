@@ -1,22 +1,37 @@
-# Tempus themes (by Protesilaos Stavrou)
+# Tempus Themes (by Protesilaos Stavrou)
 
 ## Project overview
 
-*Tempus* is a collection of themes for Vim, text editors, and terminal emulators that are compliant *at the very least* with the WCAG AA accessibility standard for colour contrast (which stands for a minimum contrast ratio of 4.50:1).
+*Tempus* is a collection of themes for Vim, text editors, and terminal emulators that are compliant *at the very least* with the WCAG AA accessibility standard for colour contrast (which stands for a minimum contrast ratio of 4.50:1—while some items have a 7.00:1 rating, or else WCAG AAA).
 
-Each theme consists of a 16-colour palette that corresponds to the basic values provided by all modern terminal emulators, namely: black, red, green, yellow, blue, magenta, cyan, white, bright black, bright red, bright green, bright yellow, bright blue, bright magenta, bright cyan, bright white.
+Colour schemes range from subdued and slightly desaturated, to vibrant and highly saturated. Each item in the Tempus collection consists of a 16-colour palette that corresponds to the basic values provided by all modern terminal emulators, namely: black, red, green, yellow, blue, magenta, cyan, white, bright black, bright red, bright green, bright yellow, bright blue, bright magenta, bright cyan, bright white.
 
-Unlike my other project on the same issue, [Prot16](https://protesilaos.com/schemes), Tempus themes come in either a dark or a light variant. That means that the desired colour contrast is only met by combining any of the foreground values against one of two backgrounds. The current collection features both light and dark themes. Some items are WCAG AAA compliant (contrast ratio of 7.00:1).
+Themes come in either a light or a dark variant. This is to ensure colour contrast consistency.
 
-Tempus themes are interoperable. They are meant to work as a one-to-one replacement to each other, especially for items within the same contrast ratio boundary. This is due to their inherent colour qualities as well as their shared schema for mapping colours to objects of the code syntax. Put concretely:
+Tempus themes are interoperable nonetheless. They are meant to work as a one-to-one replacement to each other, especially for items within the same contrast ratio boundary. This is due to their inherent colour qualities as well as their shared schema for mapping colours to objects of the code syntax. 
 
-- **Same contrast.** Every Tempus theme with a WCAG AA rating can 100% substitute all themes with the same rating (same for items that meet the WCAG AAA standard).
-- **Same structure.** The shared colour mapping means that, e.g., a *constant* will always be blue while a *string* will always be a bright blue regardless of which specific Tempus theme is used (and so on for all constructs).
+**IMPORTANT.** As this repo also contains screenshots, it is recommended you clone it with the `--depth 1` flag (shallow clone). Below is the syntax for cloning over ssh and https respectively:
+
+```sh
+# Shallow clone this repo (only latest commit)
+
+## With ssh
+git@github.com:protesilaos/tempus-themes.git --depth 1
+
+## With https
+https://github.com/protesilaos/tempus-themes.git --depth 1
+```
 
 ## Screenshots (sort A-Z)
 
 Tempus Autumn (WCAG AA)  
 ![tempus_autumn sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_autumn.png)
+
+Tempus Dawn (WCAG AA)  
+![tempus_dawn sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_dawn.png)
+
+Tempus Dusk (WCAG AA)  
+![tempus_dusk sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_dusk.png)
 
 Tempus Fugit (WCAG AA)  
 ![tempus_fugit sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_fugit.png)
@@ -47,7 +62,9 @@ Tempus Winter (WCAG AA)
 
 ## How to use this repo
 
-Each directory contains files specific to the application it references. For example, the `urxvt` directory includes an `.Xresources` file for each item in the Tempus collection.
+The Tempus project consists of a number of specialised repositories for each of the available ports. The current repo serves as the main hub, providing the overview of the project, and bundling all existing themes together.
+
+Each directory herein contains files specific to the application it references. For example, the `urxvt` directory includes an `.Xresources` file for each item in the Tempus collection.
 
 Instructions on how to use these files are documented in the `README.md` which is included in each directory. Exceptions are the `shell-variables`, `xcolors` and `yaml` directories, which include generic files.
 
@@ -57,6 +74,7 @@ Each port of *Tempus* has its own repo, for your convenience:
 
 - [Tempus themes **GTK3 Source View**](https://github.com/protesilaos/tempus-themes-gtksourceview3)
 - [Tempus themes **Konsole**](https://github.com/protesilaos/tempus-themes-konsole)
+- [Tempus themes **st**](https://github.com/protesilaos/tempus-themes-st)
 - [Tempus themes **Tilix**](https://github.com/protesilaos/tempus-themes-tilix)
 - [Tempus themes **URxvt**](https://github.com/protesilaos/tempus-themes-urxvt)
 - [Tempus themes **Vim plugin**](https://github.com/protesilaos/tempus-themes-vim)
