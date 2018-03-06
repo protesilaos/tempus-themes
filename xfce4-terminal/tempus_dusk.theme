@@ -1,0 +1,10 @@
+[Scheme]
+Name=Tempus Dusk
+ColorForeground=#a2a8ba
+ColorBackground=#1f252d
+ColorCursor=#a2a8ba
+ColorBold=#a2a8ba
+ColorPalette=#1f252d;#cb8d56;#8ba089;#a79c46;#8c9abe;#b190af;#8e9aba;#a29899;#2c3150;#d39d74;#80b48f;#bda75a;#9ca5de;#c69ac6;#8caeb6;#a2a8ba
+TabActivityColor=#8ba089
+ColorSelectionBackground=#a2a8ba
+ColorSelection=#1f252d

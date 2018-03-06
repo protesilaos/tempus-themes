@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Dusk",
+    "comment": "Dark theme with a deep blue-ish, slightly desaturated palette.",
+    "foreground-color": "#a2a8ba",
+    "background-color": "#1f252d",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#1f252d",
+    "highlight-background-color": "#a2a8ba",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#1f252d",
+    "cursor-background-color": "#a2a8ba",
+    "use-badge-color": true,
+    "badge-color": "#a29899",
+    "palette": [
+        "#1f252d",
+        "#cb8d56",
+        "#8ba089",
+        "#a79c46",
+        "#8c9abe",
+        "#b190af",
+        "#8e9aba",
+        "#a29899",
+        "#2c3150",
+        "#d39d74",
+        "#80b48f",
+        "#bda75a",
+        "#9ca5de",
+        "#c69ac6",
+        "#8caeb6",
+        "#a2a8ba"
+    ]
+}

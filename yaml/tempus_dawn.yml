@@ -1,0 +1,28 @@
+name: "Tempus Dawn"
+slug: "tempus-dawn"
+slugunderscore: "tempus_dawn"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+description: "Light theme with a soft blue-ish, slightly desaturated palette"
+variant: "light" # light or dark
+col0: "#53575a" # black variant
+col1: "#9b3132" # red variant
+col2: "#306130" # green variant
+col3: "#73500a" # yellow variant
+col4: "#4c547e" # blue variant
+col5: "#883C64" # magenta variant
+col6: "#186060" # cyan variant
+col7: "#dedae9" # white variant
+col8: "#735e3f" # bright black variant
+col9: "#9b474d" # bright red variant
+col10: "#4e6938" # bright green variant
+col11: "#8e5319" # bright yellow variant
+col12: "#5c5d8c" # bright blue variant
+col13: "#A24055" # bright magenta variant
+col14: "#2D6978" # bright cyan variant
+col15: "#f3f1f5" # bright white variant
+colbg: "#f3f1f5" # main background
+colbgalt: "#dedae9" # alternative background
+colfg: "#53575a" # main foreground
+colfgalt: "#735e3f" # alternative foreground
+colcr: "#53575a" # cursor background
+colcr2: "#f3f1f5" # cursor foreground

@@ -8,13 +8,13 @@ Color=32,20,40
 Color=20,26,25
 
 [Color1]
-Color=179,138,0
+Color=255,20,20
 
 [Color1Intense]
 Color=255,85,0
 
 [Color1Faint]
-Color=179,138,0
+Color=255,20,20
 
 [Color2]
 Color=0,150,0

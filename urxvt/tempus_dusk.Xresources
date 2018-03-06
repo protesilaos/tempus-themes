@@ -1,0 +1,23 @@
+! Theme: Tempus Dusk
+! Description: Dark theme with a deep blue-ish, slightly desaturated palette.
+! Author: Protesilaos Stavrou (https://protesilaos.com)
+URxvt*background: #1f252d
+URxvt*foreground: #a2a8ba
+URxvt*cursorColor: #a2a8ba
+URxvt*cursorColor2: #1f252d
+URxvt*color0: #1f252d
+URxvt*color1: #cb8d56
+URxvt*color2: #8ba089
+URxvt*color3: #a79c46
+URxvt*color4: #8c9abe
+URxvt*color5: #b190af
+URxvt*color6: #8e9aba
+URxvt*color7: #a29899
+URxvt*color8: #2c3150
+URxvt*color9: #d39d74
+URxvt*color10: #80b48f
+URxvt*color11: #bda75a
+URxvt*color12: #9ca5de
+URxvt*color13: #c69ac6
+URxvt*color14: #8caeb6
+URxvt*color15: #a2a8ba

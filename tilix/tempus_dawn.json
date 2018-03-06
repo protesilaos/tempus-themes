@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Dawn",
+    "comment": "Light theme with a soft blue-ish, slightly desaturated palette",
+    "foreground-color": "#53575a",
+    "background-color": "#f3f1f5",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#f3f1f5",
+    "highlight-background-color": "#53575a",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#f3f1f5",
+    "cursor-background-color": "#53575a",
+    "use-badge-color": true,
+    "badge-color": "#735e3f",
+    "palette": [
+        "#53575a",
+        "#9b3132",
+        "#306130",
+        "#73500a",
+        "#4c547e",
+        "#883C64",
+        "#186060",
+        "#dedae9",
+        "#735e3f",
+        "#9b474d",
+        "#4e6938",
+        "#8e5319",
+        "#5c5d8c",
+        "#A24055",
+        "#2D6978",
+        "#f3f1f5"
+    ]
+}
