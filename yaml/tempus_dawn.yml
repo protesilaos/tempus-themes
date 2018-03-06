@@ -2,7 +2,7 @@ name: "Tempus Dawn"
 slug: "tempus-dawn"
 slugunderscore: "tempus_dawn"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
-description: "Light theme with a soft blue-ish, slightly desaturated palette"
+description: "Light theme with a soft, slightly desaturated palette"
 variant: "light" # light or dark
 col0: "#53575a" # black variant
 col1: "#9b3132" # red variant

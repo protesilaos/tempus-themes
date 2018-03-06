@@ -1,6 +1,6 @@
 " Name: Tempus Dawn
 " Author: Protesilaos Stavrou (https://protesilaos.com)
-" Description: Light theme with a soft blue-ish, slightly desaturated palette
+" Description: Light theme with a soft, slightly desaturated palette
 
 set background=light
 hi clear

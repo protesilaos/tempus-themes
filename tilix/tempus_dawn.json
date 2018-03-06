@@ -1,6 +1,6 @@
 {
     "name": "Tempus Dawn",
-    "comment": "Light theme with a soft blue-ish, slightly desaturated palette",
+    "comment": "Light theme with a soft, slightly desaturated palette",
     "foreground-color": "#53575a",
     "background-color": "#f3f1f5",
     "use-theme-colors": false,

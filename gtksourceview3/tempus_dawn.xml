@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <style-scheme id="tempus-dawn" _name="Tempus Dawn" version="1.0">
   <author>Protesilaos Stavrou (https://protesilaos.com)</author>
-  <_description>Light theme with a soft blue-ish, slightly desaturated palette</_description>
+  <_description>Light theme with a soft, slightly desaturated palette</_description>
 
   <!-- Palette -->
   <color name="col0" value="#53575a"/>
