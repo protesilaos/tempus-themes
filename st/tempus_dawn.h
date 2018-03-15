@@ -1,4 +1,4 @@
-const char *colorname[] = {
+static const char *colorname[] = {
     "#53575a",
     "#9b3132",
     "#306130",
@@ -17,12 +17,13 @@ const char *colorname[] = {
     "#f3f1f5",
 };
 
-/* Default cols (colname index)
- * foreground, background, cursor */
+/* Default colors (colorname index)
+ * foreground, background, cursor, reverse cursor
+ */
 unsigned int defaultbg = 15;
 unsigned int defaultfg = 0;
-unsigned int defaultcs = 0;
-unsigned int defaultrcs = 15;
-unsigned int mousefg = 8;
-unsigned int mousebg = 7;
+static unsigned int defaultcs = 0;
+static unsigned int defaultrcs = 15;
+static unsigned int mousefg = 8;
+static unsigned int mousebg = 7;
 
