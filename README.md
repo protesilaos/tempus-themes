@@ -1,4 +1,17 @@
-# Tempus Themes (by Protesilaos Stavrou)
+# Tempus Themes
+
+#### Contents
+
+- [Project Overview](#project-overview)
+- [Screenshots](#screenshots-sort-a-z)
+- [Applications](#applications)
+    - [How to use this repo](#how-to-use-this-repo)
+    - [App-specific repositories](#app-specific-repositories)
+    - [External project integrations](#external-project-integrations)
+- [Contributing](#contributing)
+- [License](#license)
+- [Meta](#meta)
+- [Donations](#donations)
 
 ## Project overview
 
@@ -60,7 +73,9 @@ Tempus Warp (WCAG AA)
 Tempus Winter (WCAG AA)  
 ![tempus_winter sample](https://raw.githubusercontent.com/protesilaos/tempus-themes/master/screenshots/tempus_winter.png)
 
-## How to use this repo
+## Applications
+
+### How to use this repo
 
 The Tempus project consists of a number of specialised repositories for each of the available ports. The current repo serves as the main hub, providing the overview of the project, and bundling all existing themes together.
 
@@ -68,7 +83,7 @@ Each directory herein contains files specific to the application it references. 
 
 Instructions on how to use these files are documented in the `README.md` which is included in each directory. Exceptions are the `shell-variables`, `xcolors` and `yaml` directories, which include generic files.
 
-## App-specific repositories
+### App-specific repositories
 
 Each port of *Tempus* has its own repo, for your convenience:
 
@@ -81,9 +96,15 @@ Each port of *Tempus* has its own repo, for your convenience:
 - [Tempus themes **Xfce4 terminal**](https://github.com/protesilaos/tempus-themes-xfce4-terminal)
 - [Tempus themes **Xterm**](https://github.com/protesilaos/tempus-themes-xterm)
 
+### External project integrations
+
+- [Oomox](https://github.com/actionless/oomox)
+
+*NOTE: If you add the Tempus themes to your project, open an issue to include it on this list.*
+
 ## Contributing
 
-All contributions should be submitted to the Tempus themes generator. See [CONTRIBUTING.md](https://github.com/protesilaos/tempus-themes-generator/blob/master/CONTRIBUTING.md).
+All contributions (e.g. new templates) should be submitted to the *Tempus themes generator*. See its [CONTRIBUTING.md](https://github.com/protesilaos/tempus-themes-generator/blob/master/CONTRIBUTING.md).
 
 ## License
 
@@ -93,7 +114,7 @@ GNU General Public License Version 3. See [LICENSE](https://github.com/protesila
 
 The Tempus themes project consists of a number of repositories. It is maintained with a set of scripts and utilities, stored in the [tempus-themes-utils](https://github.com/protesilaos/tempus-themes-utils).
 
-All theme files are created with the [Tempus themes generator](https://github.com/protesilaos/tempus-themes-generator). See the generator CONTRIBUTING.md.
+All theme files are created with the [Tempus themes generator](https://github.com/protesilaos/tempus-themes-generator).
 
 ## Donations
 
