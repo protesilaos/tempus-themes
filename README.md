@@ -98,7 +98,7 @@ Each port of *Tempus* has its own repo, for your convenience:
 
 ### External project integrations
 
-- [Oomox](https://github.com/actionless/oomox)
+- [Oomox](https://github.com/actionless/oomox): graphical application for generating different color variations of a Numix-based and Materia (ex-Flat-Plat) themes (GTK2, GTK3), Gnome-Colors and Archdroid icon themes.
 
 *NOTE: If you add the Tempus themes to your project, open an issue to include it on this list.*
 
