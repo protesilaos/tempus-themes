@@ -98,8 +98,9 @@ Each port of *Tempus* has its own repo, for your convenience:
 
 ### External project integrations
 
-- [Pywal](https://github.com/dylanaraps/pywal): Pywal is a tool that generates a color palette from the dominant colors in an image. It also supports predefined themes and has over 250 themes built-in. You can also create your own theme files to share with others.
 - [Oomox](https://github.com/actionless/oomox): graphical application for generating different color variations of a Numix-based and Materia (ex-Flat-Plat) themes (GTK2, GTK3), Gnome-Colors and Archdroid icon themes.
+- [pywal](https://github.com/dylanaraps/pywal): `pywal` is a tool that generates a color palette from the dominant colors in an image. It also supports predefined themes and has over 250 themes built-in. You can also create your own theme files to share with others.
+- [wpgtk](https://github.com/deviantfero/wpgtk): `wpgtk` uses pywal as it's colorscheme generator, but builds upon it with a UI and other features, such as the abilty to mix and edit the colorschemes generated and save them with their respective wallpapers, having light and dark themes, hackable and fast GTK+ theme made specifically for `wpgtk` and custom keywords and values to replace in templates.
 
 *NOTE: If you add the Tempus themes to your project, open an issue to include it on this list.*
 
