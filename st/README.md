@@ -1,6 +1,6 @@
 # Tempus Themes for st (simple terminal)
 
-Unlike other ports of the [Tempus themes collection](https://github.com/protesilaos/tempus-themes), this repo does not provide detailed instructions on how to use these themes.
+Unlike other ports of the [Tempus themes collection](https://gitlab.com/protesilaos/tempus-themes), this repo does not provide detailed instructions on how to use these themes.
 
 The two assumptions underpinning that approach are as follows:
 

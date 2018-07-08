@@ -7,7 +7,7 @@ The theme files can be copied manually or installed as a bundle with a plugin.
 Start by cloning the `tempus-themes-vim` repo and entering it (unless you prefer copy-pasting, in which case adapt accordingly):
 
 ```sh
-git clone https://github.com/protesilaos/tempus-themes-vim.git --depth 1 && cd tempus-themes-vim
+git clone https://gitlab.com/protesilaos/tempus-themes-vim.git --depth 1 && cd tempus-themes-vim
 ```
 
 
@@ -48,7 +48,7 @@ colorscheme tempus_winter
 
 ## Plugin method
 
-Use your favourite plugin manager. With [vim-plug](https://github.com/junegunn/vim-plug) add the following line to your `.vimrc`:
+Use your favourite plugin manager. With [vim-plug](https://gitlab.com/junegunn/vim-plug) add the following line to your `.vimrc`:
 
 ```vim
 Plug "protesilaos/tempus-themes-vim"
@@ -70,21 +70,21 @@ Enjoy!
 
 ## Additional resources
 
-For all available ports, refer to the main [Tempus themes repo](https://github.com/protesilaos/tempus-themes).
+For all available ports, refer to the main [Tempus themes repo](https://gitlab.com/protesilaos/tempus-themes).
 
 ## Contributing
 
-All contributions should be submitted to the Tempus themes generator. See [CONTRIBUTING.md](https://github.com/protesilaos/tempus-themes-generator/blob/master/CONTRIBUTING.md).
+All contributions should be submitted to the Tempus themes generator. See [CONTRIBUTING.md](https://gitlab.com/protesilaos/tempus-themes-generator/blob/master/CONTRIBUTING.md).
 
 ## License
 
-GNU General Public License Version 3. See [LICENSE](https://github.com/protesilaos/tempus-themes-vim/blob/master/LICENSE).
+GNU General Public License Version 3. See [LICENSE](https://gitlab.com/protesilaos/tempus-themes-vim/blob/master/LICENSE).
 
 ## Meta
 
-The Tempus themes project consists of a number of repositories. It is maintained with a set of scripts and utilities, stored in the [tempus-themes-utils](https://github.com/protesilaos/tempus-themes-utils).
+The Tempus themes project consists of a number of repositories. It is maintained with a set of scripts and utilities, stored in the [tempus-themes-utils](https://gitlab.com/protesilaos/tempus-themes-utils).
 
-All theme files are created with the [Tempus themes generator](https://github.com/protesilaos/tempus-themes-generator). See the generator CONTRIBUTING.md.
+All theme files are created with the [Tempus themes generator](https://gitlab.com/protesilaos/tempus-themes-generator). See the generator CONTRIBUTING.md.
 
 ## Donations
 
