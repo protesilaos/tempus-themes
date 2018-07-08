@@ -1,5 +1,5 @@
 ! Theme: Tempus Day
-! Description: Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)
+! Description: Light theme with warm colours (WCAG AA compliant)
 ! Author: Protesilaos Stavrou (https://protesilaos.com)
 xterm*background: #f8f1e0
 xterm*foreground: #3b2820

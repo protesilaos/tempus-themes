@@ -1,6 +1,6 @@
 " Name: Tempus Day
 " Author: Protesilaos Stavrou (https://protesilaos.com)
-" Description: Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)
+" Description: Light theme with warm colours (WCAG AA compliant)
 
 set background=light
 hi clear

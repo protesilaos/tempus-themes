@@ -3,7 +3,7 @@
 
 # theme: Tempus Day
 # author: Protesilaos Stavrou (https://protesilaos.com)
-# description: Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)
+# description: Light theme with warm colours (WCAG AA compliant)
 background="#f8f1e0"
 foreground="#3b2820"
 cursorColor="#3b2820"

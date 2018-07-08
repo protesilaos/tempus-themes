@@ -1,6 +1,6 @@
 " Name: Tempus Night
 " Author: Protesilaos Stavrou (https://protesilaos.com)
-" Description: High contrast dark theme with bright colours.
+" Description: High contrast dark theme with bright colours (WCAG AAA compliant).
 
 set background=dark
 hi clear

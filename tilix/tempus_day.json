@@ -1,6 +1,6 @@
 {
     "name": "Tempus Day",
-    "comment": "Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)",
+    "comment": "Light theme with warm colours (WCAG AA compliant)",
     "foreground-color": "#3b2820",
     "background-color": "#f8f1e0",
     "use-theme-colors": false,

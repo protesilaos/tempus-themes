@@ -1,6 +1,6 @@
 {
     "name": "Tempus Night",
-    "comment": "High contrast dark theme with bright colours.",
+    "comment": "High contrast dark theme with bright colours (WCAG AAA compliant).",
     "foreground-color": "#e0e0e0",
     "background-color": "#1a1a1a",
     "use-theme-colors": false,
