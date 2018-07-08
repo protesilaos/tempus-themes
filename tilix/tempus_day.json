@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Day",
+    "comment": "Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)",
+    "foreground-color": "#3b2820",
+    "background-color": "#f8f1e0",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#f8f1e0",
+    "highlight-background-color": "#3b2820",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#f8f1e0",
+    "cursor-background-color": "#3b2820",
+    "use-badge-color": true,
+    "badge-color": "#5b4440",
+    "palette": [
+        "#3b2820",
+        "#d62500",
+        "#207f20",
+        "#8a6900",
+        "#306ad0",
+        "#c6365d",
+        "#00798d",
+        "#f5f0f5",
+        "#5b4440",
+        "#bb4b00",
+        "#5a7800",
+        "#9a6033",
+        "#6061d0",
+        "#8850d0",
+        "#007c6d",
+        "#f8f1e0"
+    ]
+}

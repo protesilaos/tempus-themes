@@ -1,0 +1,10 @@
+[Scheme]
+Name=Tempus Day
+ColorForeground=#3b2820
+ColorBackground=#f8f1e0
+ColorCursor=#3b2820
+ColorBold=#3b2820
+ColorPalette=#3b2820;#d62500;#207f20;#8a6900;#306ad0;#c6365d;#00798d;#f5f0f5;#5b4440;#bb4b00;#5a7800;#9a6033;#6061d0;#8850d0;#007c6d;#f8f1e0
+TabActivityColor=#207f20
+ColorSelectionBackground=#3b2820
+ColorSelection=#f8f1e0

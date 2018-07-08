@@ -1,0 +1,23 @@
+! Colour scheme: Tempus Day
+! Description: Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)
+! Author: Protesilaos Stavrou (https://protesilaos.com)
+*background: #f8f1e0
+*foreground: #3b2820
+*cursorColor: #3b2820
+*cursorColor2: #f8f1e0
+*color0: #3b2820
+*color1: #d62500
+*color2: #207f20
+*color3: #8a6900
+*color4: #306ad0
+*color5: #c6365d
+*color6: #00798d
+*color7: #f5f0f5
+*color8: #5b4440
+*color9: #bb4b00
+*color10: #5a7800
+*color11: #9a6033
+*color12: #6061d0
+*color13: #8850d0
+*color14: #007c6d
+*color15: #f8f1e0

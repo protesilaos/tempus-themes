@@ -1,0 +1,10 @@
+[Scheme]
+Name=Tempus Night
+ColorForeground=#e0e0e0
+ColorBackground=#1a1a1a
+ColorCursor=#e0e0e0
+ColorBold=#e0e0e0
+ColorPalette=#1a1a1a;#fb7e8e;#4ab96d;#b0a800;#5aaaf2;#ee80c0;#55b1c3;#c4bdaf;#18143d;#f69d6a;#88c400;#d7ae00;#8cb4f0;#de99f0;#00ca9a;#e0e0e0
+TabActivityColor=#4ab96d
+ColorSelectionBackground=#e0e0e0
+ColorSelection=#1a1a1a
