@@ -1,5 +1,5 @@
 ! Theme: Tempus Tempest
-! Description: A green-scale theme for late night hackers (WCAG AAA compliant).
+! Description: A green-scale, subtle theme for late night hackers (WCAG AAA compliant).
 ! Author: Protesilaos Stavrou (https://protesilaos.com)
 xterm*background: #282b2b
 xterm*foreground: #b6e0ca
