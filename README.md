@@ -70,6 +70,9 @@ Tempus Spring (WCAG AA)
 Tempus Summer (WCAG AA)  
 ![tempus_summer sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_summer.png)
 
+Tempus Tempest (WCAG AAA)  
+![tempus_tempest sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_tempest.png)
+
 Tempus Totus (WCAG AAA)  
 ![tempus_totus sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_totus.png)
 
