@@ -1,0 +1,10 @@
+[Scheme]
+Name=Tempus Tempest
+ColorForeground=#b6e0ca
+ColorBackground=#282b2b
+ColorCursor=#b6e0ca
+ColorBold=#b6e0ca
+ColorPalette=#282b2b;#c6c80a;#7ad67a;#bfc94a;#60d4cd;#c0c4aa;#8ad0b0;#b0c8ca;#303434;#d1d933;#99e299;#bbde4f;#74e4cd;#d2d4aa;#9bdfc4;#b6e0ca
+TabActivityColor=#7ad67a
+ColorSelectionBackground=#b6e0ca
+ColorSelection=#282b2b

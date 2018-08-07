@@ -1,0 +1,28 @@
+name: "Tempus Tempest"
+slug: "tempus-tempest"
+slugunderscore: "tempus_tempest"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+description: "A green-scale theme for late night hackers (WCAG AAA compliant)."
+variant: "dark" # light or dark
+col0: "#282b2b" # black variant
+col1: "#c6c80a" # red variant
+col2: "#7ad67a" # green variant
+col3: "#bfc94a" # yellow variant
+col4: "#60d4cd" # blue variant
+col5: "#c0c4aa" # magenta variant
+col6: "#8ad0b0" # cyan variant
+col7: "#b0c8ca" # white variant
+col8: "#303434" # bright black variant
+col9: "#d1d933" # bright red variant
+col10: "#99e299" # bright green variant
+col11: "#bbde4f" # bright yellow variant
+col12: "#74e4cd" # bright blue variant
+col13: "#d2d4aa" # bright magenta variant
+col14: "#9bdfc4" # bright cyan variant
+col15: "#b6e0ca" # bright white variant
+colbg: "#282b2b" # main background
+colbgalt: "#303434" # alternative background
+colfg: "#b6e0ca" # main foreground
+colfgalt: "#b0c8ca" # alternative foreground
+colcr: "#b6e0ca" # cursor background
+colcr2: "#282b2b" # cursor foreground
