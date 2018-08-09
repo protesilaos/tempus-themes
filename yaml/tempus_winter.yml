@@ -5,24 +5,24 @@ author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with a palette inspired by winter nights at the city (WCAG AA compliant)"
 variant: "dark" # light or dark
 col0: "#202427" # black variant
-col1: "#ca7162" # red variant
-col2: "#589584" # green variant
-col3: "#988b21" # yellow variant
-col4: "#2b92c8" # blue variant
-col5: "#b572b6" # magenta variant
-col6: "#4f91b5" # cyan variant
-col7: "#888a8a" # white variant
-col8: "#1b2431" # bright black variant
-col9: "#c47818" # bright red variant
-col10: "#2c9a81" # bright green variant
-col11: "#a2864b" # bright yellow variant
-col12: "#6987d7" # bright blue variant
-col13: "#987dc2" # bright magenta variant
-col14: "#1f96b0" # bright cyan variant
-col15: "#798ba5" # bright white variant
+col1: "#ed6a42" # red variant
+col2: "#30a480" # green variant
+col3: "#959721" # yellow variant
+col4: "#2b9dc4" # blue variant
+col5: "#bd7bbe" # magenta variant
+col6: "#2fa1a0" # cyan variant
+col7: "#909294" # white variant
+col8: "#292b35" # bright black variant
+col9: "#db7824" # bright red variant
+col10: "#43a550" # bright green variant
+col11: "#ad8e4b" # bright yellow variant
+col12: "#798fd7" # bright blue variant
+col13: "#c874c2" # bright magenta variant
+col14: "#0fa674" # bright cyan variant
+col15: "#8da3b8" # bright white variant
 colbg: "#202427" # main background
-colbgalt: "#1b2431" # alternative background
-colfg: "#798ba5" # main foreground
-colfgalt: "#888a8a" # alternative foreground
-colcr: "#798ba5" # cursor background
+colbgalt: "#292b35" # alternative background
+colfg: "#8da3b8" # main foreground
+colfgalt: "#909294" # alternative foreground
+colcr: "#8da3b8" # cursor background
 colcr2: "#202427" # cursor foreground

@@ -1,6 +1,6 @@
 " Name: Tempus Dusk
 " Author: Protesilaos Stavrou (https://protesilaos.com)
-" Description: Dark theme with a deep blue-ish, slightly desaturated palette.
+" Description: Dark theme with a deep blue-ish, slightly desaturated palette (WCAG AA compliant)
 
 set background=dark
 hi clear

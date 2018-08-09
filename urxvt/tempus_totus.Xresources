@@ -1,23 +1,23 @@
 ! Theme: Tempus Totus
 ! Description: Light theme for prose or for coding in an open space (WCAG AAA compliant)
 ! Author: Protesilaos Stavrou (https://protesilaos.com)
-URxvt*background: #f4f1f0
-URxvt*foreground: #52505e
-URxvt*cursorColor: #52505e
-URxvt*cursorColor2: #f4f1f0
-URxvt*color0: #52505e
+URxvt*background: #ffffff
+URxvt*foreground: #4a484d
+URxvt*cursorColor: #4a484d
+URxvt*cursorColor2: #ffffff
+URxvt*color0: #4a484d
 URxvt*color1: #a01c10
-URxvt*color2: #0b5d46
-URxvt*color3: #545422
+URxvt*color2: #0d5f0f
+URxvt*color3: #774600
 URxvt*color4: #1c4f9f
-URxvt*color5: #942166
+URxvt*color5: #912663
 URxvt*color6: #185870
-URxvt*color7: #ecf3f3
-URxvt*color8: #575050
-URxvt*color9: #913210
+URxvt*color7: #f3f1f3
+URxvt*color8: #5f4d4f
+URxvt*color9: #9a2140
 URxvt*color10: #2a5d08
-URxvt*color11: #774611
+URxvt*color11: #8b3800
 URxvt*color12: #5440a7
-URxvt*color13: #8d0e9b
-URxvt*color14: #0e577b
-URxvt*color15: #f4f1f0
+URxvt*color13: #9d105b
+URxvt*color14: #005e3b
+URxvt*color15: #ffffff

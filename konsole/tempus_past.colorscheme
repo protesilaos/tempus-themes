@@ -1,92 +1,92 @@
 [Color0]
-Color=99,96,107
+Color=83,84,91
 
 [Color0Intense]
 Color=128,86,93
 
 [Color0Faint]
-Color=99,96,107
+Color=83,84,91
 
 [Color1]
-Color=192,28,16
+Color=192,12,80
 
 [Color1Intense]
-Color=180,48,54
+Color=189,54,54
 
 [Color1Faint]
-Color=192,28,16
+Color=192,12,80
 
 [Color2]
-Color=42,112,0
+Color=10,112,64
 
 [Color2Intense]
-Color=0,114,20
+Color=64,115,67
 
 [Color2Faint]
-Color=42,112,0
+Color=10,112,64
 
 [Color3]
-Color=130,90,10
+Color=166,64,58
 
 [Color3Intense]
-Color=145,82,10
+Color=157,82,74
 
 [Color3Faint]
-Color=130,90,10
+Color=166,64,58
 
 [Color4]
-Color=2,92,205
+Color=23,99,170
 
 [Color4Intense]
-Color=80,70,235
+Color=90,94,187
 
 [Color4Faint]
-Color=2,92,205
+Color=23,99,170
 
 [Color5]
-Color=164,56,120
+Color=176,40,116
 
 [Color5Intense]
-Color=186,22,107
+Color=178,37,171
 
 [Color5Faint]
-Color=164,56,120
+Color=176,40,116
 
 [Color6]
-Color=73,98,141
+Color=9,106,131
 
 [Color6Intense]
-Color=7,108,118
+Color=7,115,122
 
 [Color6Faint]
-Color=73,98,141
+Color=9,106,131
 
 [Color7]
-Color=224,220,214
+Color=236,230,222
 
 [Color7Intense]
-Color=218,220,232
+Color=243,242,244
 
 [Color7Faint]
-Color=224,220,214
+Color=236,230,222
 
 [Background]
-Color=218,220,232
+Color=243,242,244
 
 [BackgroundIntense]
-Color=224,220,214
+Color=236,230,222
 
 [BackgroundFaint]
-Color=218,220,232
+Color=243,242,244
 
 [Foreground]
-Color=99,96,107
+Color=83,84,91
 
 [ForegroundIntense]
 Color=128,86,93
 
 [ForegroundFaint]
-Color=99,96,107
+Color=83,84,91
 
 [General]
 Description=Tempus Past

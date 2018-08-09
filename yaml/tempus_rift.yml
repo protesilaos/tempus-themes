@@ -2,27 +2,27 @@ name: "Tempus Rift"
 slug: "tempus-rift"
 slugunderscore: "tempus_rift"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
-description: "Dark theme with a subdued palette on the green side of the spectrum"
+description: "Dark theme with a subdued palette on the green side of the spectrum (WCAG AA compliant)"
 variant: "dark" # light or dark
-col0: "#2b353c" # black variant
-col1: "#be9604" # red variant
-col2: "#0eb40e" # green variant
-col3: "#79aa00" # yellow variant
-col4: "#00acb3" # blue variant
-col5: "#ba964c" # magenta variant
-col6: "#5fa98f" # cyan variant
-col7: "#ab9699" # white variant
-col8: "#3d3038" # bright black variant
-col9: "#bdae13" # bright red variant
-col10: "#3ac53a" # bright green variant
-col11: "#9ab800" # bright yellow variant
-col12: "#20bdce" # bright blue variant
-col13: "#cca57a" # bright magenta variant
-col14: "#6fb9ae" # bright cyan variant
-col15: "#abacac" # bright white variant
-colbg: "#2b353c" # main background
-colbgalt: "#3d3038" # alternative background
-colfg: "#abacac" # main foreground
-colfgalt: "#ab9699" # alternative foreground
-colcr: "#abacac" # cursor background
-colcr2: "#2b353c" # cursor foreground
+col0: "#162c22" # black variant
+col1: "#c19904" # red variant
+col2: "#34b534" # green variant
+col3: "#7fad00" # yellow variant
+col4: "#30aeb0" # blue variant
+col5: "#c8954c" # magenta variant
+col6: "#5fad8f" # cyan variant
+col7: "#ab9aa9" # white variant
+col8: "#283431" # bright black variant
+col9: "#d2a634" # bright red variant
+col10: "#6ac134" # bright green variant
+col11: "#82bd00" # bright yellow variant
+col12: "#56bdad" # bright blue variant
+col13: "#cca0ba" # bright magenta variant
+col14: "#10c480" # bright cyan variant
+col15: "#bbbcbc" # bright white variant
+colbg: "#162c22" # main background
+colbgalt: "#283431" # alternative background
+colfg: "#bbbcbc" # main foreground
+colfgalt: "#ab9aa9" # alternative foreground
+colcr: "#bbbcbc" # cursor background
+colcr2: "#162c22" # cursor foreground

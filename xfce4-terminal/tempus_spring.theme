@@ -1,10 +1,10 @@
 [Scheme]
 Name=Tempus Spring
-ColorForeground=#a5a8a7
-ColorBackground=#34403c
-ColorCursor=#a5a8a7
-ColorBold=#a5a8a7
-ColorPalette=#34403c;#ff855a;#6ab78a;#b6aa1a;#5daeee;#d495b4;#6eb2bc;#96aca7;#2a423d;#df993a;#4abb88;#99b22a;#3caffe;#d091db;#4ab4d3;#a5a8a7
-TabActivityColor=#6ab78a
-ColorSelectionBackground=#a5a8a7
-ColorSelection=#34403c
+ColorForeground=#b5b8b7
+ColorBackground=#283a37
+ColorCursor=#b5b8b7
+ColorBold=#b5b8b7
+ColorPalette=#283a37;#ff855a;#52bc6d;#b6aa1a;#5db4c0;#d495b4;#36bd84;#96aca7;#2a423d;#df993a;#3dbf50;#99b22a;#4ab4d3;#d091db;#1dbab8;#b5b8b7
+TabActivityColor=#52bc6d
+ColorSelectionBackground=#b5b8b7
+ColorSelection=#283a37

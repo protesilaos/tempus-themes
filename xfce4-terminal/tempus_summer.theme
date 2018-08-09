@@ -1,10 +1,10 @@
 [Scheme]
 Name=Tempus Summer
-ColorForeground=#9b999e
-ColorBackground=#293345
-ColorCursor=#9b999e
-ColorBold=#9b999e
-ColorPalette=#293345;#fe6d32;#6ba86d;#af9a0a;#679ed7;#bc8ab6;#6ea590;#a39799;#352f49;#df8251;#7aa747;#ba953a;#3ba1e8;#c97ed7;#52a6b1;#9b999e
-TabActivityColor=#6ba86d
-ColorSelectionBackground=#9b999e
-ColorSelection=#293345
+ColorForeground=#a0abae
+ColorBackground=#202c3d
+ColorCursor=#a0abae
+ColorBold=#a0abae
+ColorPalette=#202c3d;#ff6c38;#4eac6d;#af9a0a;#3aaaa4;#9c90dd;#3dab93;#a39799;#352f49;#eb7b4d;#57ad47;#bd951a;#5aa1d4;#c97ed7;#29ad8d;#a0abae
+TabActivityColor=#4eac6d
+ColorSelectionBackground=#a0abae
+ColorSelection=#202c3d

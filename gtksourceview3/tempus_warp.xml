@@ -4,29 +4,29 @@
   <_description>Dark theme with a vibrant palette (WCAG AA compliant)</_description>
 
   <!-- Palette -->
-  <color name="col0" value="#141a19"/>
-  <color name="col1" value="#ff1414"/>
-  <color name="col2" value="#009600"/>
-  <color name="col3" value="#928100"/>
-  <color name="col4" value="#4f76ff"/>
-  <color name="col5" value="#dd38bc"/>
-  <color name="col6" value="#358aaa"/>
-  <color name="col7" value="#927b80"/>
-  <color name="col8" value="#201428"/>
-  <color name="col9" value="#ff5500"/>
-  <color name="col10" value="#3aa43a"/>
-  <color name="col11" value="#b38a00"/>
-  <color name="col12" value="#8082ff"/>
-  <color name="col13" value="#d159fd"/>
-  <color name="col14" value="#1da190"/>
-  <color name="col15" value="#928f90"/>
+  <color name="col0" value="#001514"/>
+  <color name="col1" value="#fa3333"/>
+  <color name="col2" value="#139913"/>
+  <color name="col3" value="#9e8100"/>
+  <color name="col4" value="#557feb"/>
+  <color name="col5" value="#d54cbf"/>
+  <color name="col6" value="#009580"/>
+  <color name="col7" value="#928080"/>
+  <color name="col8" value="#241828"/>
+  <color name="col9" value="#F0681A"/>
+  <color name="col10" value="#3aa73a"/>
+  <color name="col11" value="#ba8a00"/>
+  <color name="col12" value="#8887f0"/>
+  <color name="col13" value="#d85cf2"/>
+  <color name="col14" value="#1da1af"/>
+  <color name="col15" value="#a29fa0"/>
 
   <!-- Base values -->
-  <color name="colbg" value="#141a19"/>
-  <color name="colbgalt" value="#201428"/>
-  <color name="colfg" value="#928f90"/>
-  <color name="colfgalt" value="#927b80"/>
-  <color name="colcr" value="#928f90"/>
+  <color name="colbg" value="#001514"/>
+  <color name="colbgalt" value="#241828"/>
+  <color name="colfg" value="#a29fa0"/>
+  <color name="colfgalt" value="#928080"/>
+  <color name="colcr" value="#a29fa0"/>
 
   <!-- Global Settings -->
   <style name="text" foreground="colfg" background="colbg"/>

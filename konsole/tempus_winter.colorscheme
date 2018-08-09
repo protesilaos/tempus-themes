@@ -2,91 +2,91 @@
 Color=32,36,39
 
 [Color0Intense]
-Color=27,36,49
+Color=41,43,53
 
 [Color0Faint]
 Color=32,36,39
 
 [Color1]
-Color=202,113,98
+Color=237,106,66
 
 [Color1Intense]
-Color=196,120,24
+Color=219,120,36
 
 [Color1Faint]
-Color=202,113,98
+Color=237,106,66
 
 [Color2]
-Color=88,149,132
+Color=48,164,128
 
 [Color2Intense]
-Color=44,154,129
+Color=67,165,80
 
 [Color2Faint]
-Color=88,149,132
+Color=48,164,128
 
 [Color3]
-Color=152,139,33
+Color=149,151,33
 
 [Color3Intense]
-Color=162,134,75
+Color=173,142,75
 
 [Color3Faint]
-Color=152,139,33
+Color=149,151,33
 
 [Color4]
-Color=43,146,200
+Color=43,157,196
 
 [Color4Intense]
-Color=105,135,215
+Color=121,143,215
 
 [Color4Faint]
-Color=43,146,200
+Color=43,157,196
 
 [Color5]
-Color=181,114,182
+Color=189,123,190
 
 [Color5Intense]
-Color=152,125,194
+Color=200,116,194
 
 [Color5Faint]
-Color=181,114,182
+Color=189,123,190
 
 [Color6]
-Color=79,145,181
+Color=47,161,160
 
 [Color6Intense]
-Color=31,150,176
+Color=15,166,116
 
 [Color6Faint]
-Color=79,145,181
+Color=47,161,160
 
 [Color7]
-Color=136,138,138
+Color=144,146,148
 
 [Color7Intense]
-Color=121,139,165
+Color=141,163,184
 
 [Color7Faint]
-Color=136,138,138
+Color=144,146,148
 
 [Background]
 Color=32,36,39
 
 [BackgroundIntense]
-Color=27,36,49
+Color=41,43,53
 
 [BackgroundFaint]
 Color=32,36,39
 
 [Foreground]
-Color=121,139,165
+Color=141,163,184
 
 [ForegroundIntense]
-Color=136,138,138
+Color=144,146,148
 
 [ForegroundFaint]
-Color=121,139,165
+Color=141,163,184
 
 [General]
 Description=Tempus Winter

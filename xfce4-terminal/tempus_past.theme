@@ -1,10 +1,10 @@
 [Scheme]
 Name=Tempus Past
-ColorForeground=#63606b
-ColorBackground=#dadce8
-ColorCursor=#63606b
-ColorBold=#63606b
-ColorPalette=#63606b;#c01c10;#2a7000;#825a0a;#025ccd;#a43878;#49628d;#e0dcd6;#80565d;#b43036;#007214;#91520a;#5046eb;#ba166b;#076c76;#dadce8
-TabActivityColor=#2a7000
-ColorSelectionBackground=#63606b
-ColorSelection=#dadce8
+ColorForeground=#53545B
+ColorBackground=#F3F2F4
+ColorCursor=#53545B
+ColorBold=#53545B
+ColorPalette=#53545B;#C00C50;#0A7040;#A6403A;#1763AA;#B02874;#096A83;#ECE6DE;#80565d;#BD3636;#407343;#9D524A;#5A5EBB;#B225AB;#07737A;#F3F2F4
+TabActivityColor=#0A7040
+ColorSelectionBackground=#53545B
+ColorSelection=#F3F2F4

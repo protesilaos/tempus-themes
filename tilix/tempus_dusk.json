@@ -1,6 +1,6 @@
 {
     "name": "Tempus Dusk",
-    "comment": "Dark theme with a deep blue-ish, slightly desaturated palette.",
+    "comment": "Dark theme with a deep blue-ish, slightly desaturated palette (WCAG AA compliant)",
     "foreground-color": "#a2a8ba",
     "background-color": "#1f252d",
     "use-theme-colors": false,

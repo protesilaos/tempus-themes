@@ -4,29 +4,29 @@
   <_description>Dark theme with a palette inspired by early spring colours (WCAG AA compliant)</_description>
 
   <!-- Palette -->
-  <color name="col0" value="#34403c"/>
+  <color name="col0" value="#283a37"/>
   <color name="col1" value="#ff855a"/>
-  <color name="col2" value="#6ab78a"/>
+  <color name="col2" value="#52bc6d"/>
   <color name="col3" value="#b6aa1a"/>
-  <color name="col4" value="#5daeee"/>
+  <color name="col4" value="#5db4c0"/>
   <color name="col5" value="#d495b4"/>
-  <color name="col6" value="#6eb2bc"/>
+  <color name="col6" value="#36bd84"/>
   <color name="col7" value="#96aca7"/>
   <color name="col8" value="#2a423d"/>
   <color name="col9" value="#df993a"/>
-  <color name="col10" value="#4abb88"/>
+  <color name="col10" value="#3dbf50"/>
   <color name="col11" value="#99b22a"/>
-  <color name="col12" value="#3caffe"/>
+  <color name="col12" value="#4ab4d3"/>
   <color name="col13" value="#d091db"/>
-  <color name="col14" value="#4ab4d3"/>
-  <color name="col15" value="#a5a8a7"/>
+  <color name="col14" value="#1dbab8"/>
+  <color name="col15" value="#b5b8b7"/>
 
   <!-- Base values -->
-  <color name="colbg" value="#34403c"/>
+  <color name="colbg" value="#283a37"/>
   <color name="colbgalt" value="#2a423d"/>
-  <color name="colfg" value="#a5a8a7"/>
+  <color name="colfg" value="#b5b8b7"/>
   <color name="colfgalt" value="#96aca7"/>
-  <color name="colcr" value="#a5a8a7"/>
+  <color name="colcr" value="#b5b8b7"/>
 
   <!-- Global Settings -->
   <style name="text" foreground="colfg" background="colbg"/>

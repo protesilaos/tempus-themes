@@ -1,11 +1,11 @@
 [Color0]
-Color=52,64,60
+Color=40,58,55
 
 [Color0Intense]
 Color=42,66,61
 
 [Color0Faint]
-Color=52,64,60
+Color=40,58,55
 
 [Color1]
 Color=255,133,90
@@ -17,13 +17,13 @@ Color=223,153,58
 Color=255,133,90
 
 [Color2]
-Color=106,183,138
+Color=82,188,109
 
 [Color2Intense]
-Color=74,187,136
+Color=61,191,80
 
 [Color2Faint]
-Color=106,183,138
+Color=82,188,109
 
 [Color3]
 Color=182,170,26
@@ -35,13 +35,13 @@ Color=153,178,42
 Color=182,170,26
 
 [Color4]
-Color=93,174,238
+Color=93,180,192
 
 [Color4Intense]
-Color=60,175,254
+Color=74,180,211
 
 [Color4Faint]
-Color=93,174,238
+Color=93,180,192
 
 [Color5]
 Color=212,149,180
@@ -53,40 +53,40 @@ Color=208,145,219
 Color=212,149,180
 
 [Color6]
-Color=110,178,188
+Color=54,189,132
 
 [Color6Intense]
-Color=74,180,211
+Color=29,186,184
 
 [Color6Faint]
-Color=110,178,188
+Color=54,189,132
 
 [Color7]
 Color=150,172,167
 
 [Color7Intense]
-Color=165,168,167
+Color=181,184,183
 
 [Color7Faint]
 Color=150,172,167
 
 [Background]
-Color=52,64,60
+Color=40,58,55
 
 [BackgroundIntense]
 Color=42,66,61
 
 [BackgroundFaint]
-Color=52,64,60
+Color=40,58,55
 
 [Foreground]
-Color=165,168,167
+Color=181,184,183
 
 [ForegroundIntense]
 Color=150,172,167
 
 [ForegroundFaint]
-Color=165,168,167
+Color=181,184,183
 
 [General]
 Description=Tempus Spring

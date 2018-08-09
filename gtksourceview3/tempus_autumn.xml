@@ -4,29 +4,29 @@
   <_description>Dark theme with a palette inspired by earthly colours (WCAG AA compliant)</_description>
 
   <!-- Palette -->
-  <color name="col0" value="#322622"/>
-  <color name="col1" value="#fc5526"/>
-  <color name="col2" value="#83973f"/>
-  <color name="col3" value="#9e9022"/>
-  <color name="col4" value="#7f8dbf"/>
-  <color name="col5" value="#ce7673"/>
-  <color name="col6" value="#6e978b"/>
+  <color name="col0" value="#2b1d1a"/>
+  <color name="col1" value="#f85a10"/>
+  <color name="col2" value="#809900"/>
+  <color name="col3" value="#ad8b00"/>
+  <color name="col4" value="#888db0"/>
+  <color name="col5" value="#cb758e"/>
+  <color name="col6" value="#709a65"/>
   <color name="col7" value="#919078"/>
   <color name="col8" value="#35260f"/>
-  <color name="col9" value="#dc721a"/>
-  <color name="col10" value="#609d59"/>
-  <color name="col11" value="#b1891a"/>
-  <color name="col12" value="#6b8ed6"/>
-  <color name="col13" value="#9d80d3"/>
-  <color name="col14" value="#229ea0"/>
-  <color name="col15" value="#8e8f8d"/>
+  <color name="col9" value="#ce7b1a"/>
+  <color name="col10" value="#729c1a"/>
+  <color name="col11" value="#b28910"/>
+  <color name="col12" value="#9385cd"/>
+  <color name="col13" value="#c874a3"/>
+  <color name="col14" value="#529d80"/>
+  <color name="col15" value="#a49ba0"/>
 
   <!-- Base values -->
-  <color name="colbg" value="#322622"/>
+  <color name="colbg" value="#2b1d1a"/>
   <color name="colbgalt" value="#35260f"/>
-  <color name="colfg" value="#8e8f8d"/>
+  <color name="colfg" value="#a49ba0"/>
   <color name="colfgalt" value="#919078"/>
-  <color name="colcr" value="#8e8f8d"/>
+  <color name="colcr" value="#a49ba0"/>
 
   <!-- Global Settings -->
   <style name="text" foreground="colfg" background="colbg"/>

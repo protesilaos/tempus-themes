@@ -4,25 +4,25 @@ slugunderscore: "tempus_warp"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with a vibrant palette (WCAG AA compliant)"
 variant: "dark" # light or dark
-col0: "#141a19" # black variant
-col1: "#ff1414" # red variant
-col2: "#009600" # green variant
-col3: "#928100" # yellow variant
-col4: "#4f76ff" # blue variant
-col5: "#dd38bc" # magenta variant
-col6: "#358aaa" # cyan variant
-col7: "#927b80" # white variant
-col8: "#201428" # bright black variant
-col9: "#ff5500" # bright red variant
-col10: "#3aa43a" # bright green variant
-col11: "#b38a00" # bright yellow variant
-col12: "#8082ff" # bright blue variant
-col13: "#d159fd" # bright magenta variant
-col14: "#1da190" # bright cyan variant
-col15: "#928f90" # bright white variant
-colbg: "#141a19" # main background
-colbgalt: "#201428" # alternative background
-colfg: "#928f90" # main foreground
-colfgalt: "#927b80" # alternative foreground
-colcr: "#928f90" # cursor background
-colcr2: "#141a19" # cursor foreground
+col0: "#001514" # black variant
+col1: "#fa3333" # red variant
+col2: "#139913" # green variant
+col3: "#9e8100" # yellow variant
+col4: "#557feb" # blue variant
+col5: "#d54cbf" # magenta variant
+col6: "#009580" # cyan variant
+col7: "#928080" # white variant
+col8: "#241828" # bright black variant
+col9: "#F0681A" # bright red variant
+col10: "#3aa73a" # bright green variant
+col11: "#ba8a00" # bright yellow variant
+col12: "#8887f0" # bright blue variant
+col13: "#d85cf2" # bright magenta variant
+col14: "#1da1af" # bright cyan variant
+col15: "#a29fa0" # bright white variant
+colbg: "#001514" # main background
+colbgalt: "#241828" # alternative background
+colfg: "#a29fa0" # main foreground
+colfgalt: "#928080" # alternative foreground
+colcr: "#a29fa0" # cursor background
+colcr2: "#001514" # cursor foreground

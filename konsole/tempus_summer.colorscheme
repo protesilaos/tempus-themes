@@ -1,92 +1,92 @@
 [Color0]
-Color=41,51,69
+Color=32,44,61
 
 [Color0Intense]
 Color=53,47,73
 
 [Color0Faint]
-Color=41,51,69
+Color=32,44,61
 
 [Color1]
-Color=254,109,50
+Color=255,108,56
 
 [Color1Intense]
-Color=223,130,81
+Color=235,123,77
 
 [Color1Faint]
-Color=254,109,50
+Color=255,108,56
 
 [Color2]
-Color=107,168,109
+Color=78,172,109
 
 [Color2Intense]
-Color=122,167,71
+Color=87,173,71
 
 [Color2Faint]
-Color=107,168,109
+Color=78,172,109
 
 [Color3]
 Color=175,154,10
 
 [Color3Intense]
-Color=186,149,58
+Color=189,149,26
 
 [Color3Faint]
 Color=175,154,10
 
 [Color4]
-Color=103,158,215
+Color=58,170,164
 
 [Color4Intense]
-Color=59,161,232
+Color=90,161,212
 
 [Color4Faint]
-Color=103,158,215
+Color=58,170,164
 
 [Color5]
-Color=188,138,182
+Color=156,144,221
 
 [Color5Intense]
 Color=201,126,215
 
 [Color5Faint]
-Color=188,138,182
+Color=156,144,221
 
 [Color6]
-Color=110,165,144
+Color=61,171,147
 
 [Color6Intense]
-Color=82,166,177
+Color=41,173,141
 
 [Color6Faint]
-Color=110,165,144
+Color=61,171,147
 
 [Color7]
 Color=163,151,153
 
 [Color7Intense]
-Color=155,153,158
+Color=160,171,174
 
 [Color7Faint]
 Color=163,151,153
 
 [Background]
-Color=41,51,69
+Color=32,44,61
 
 [BackgroundIntense]
 Color=53,47,73
 
 [BackgroundFaint]
-Color=41,51,69
+Color=32,44,61
 
 [Foreground]
-Color=155,153,158
+Color=160,171,174
 
 [ForegroundIntense]
 Color=163,151,153
 
 [ForegroundFaint]
-Color=155,153,158
+Color=160,171,174
 
 [General]
 Description=Tempus Summer

@@ -2,7 +2,7 @@ name: "Tempus Night"
 slug: "tempus-night"
 slugunderscore: "tempus_night"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
-description: "High contrast dark theme with bright colours (WCAG AAA compliant)."
+description: "High contrast dark theme with bright colours (WCAG AAA compliant)"
 variant: "dark" # light or dark
 col0: "#1a1a1a" # black variant
 col1: "#fb7e8e" # red variant

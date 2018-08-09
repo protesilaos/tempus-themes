@@ -1,92 +1,92 @@
 [Color0]
-Color=77,105,111
+Color=77,89,95
 
 [Color0Intense]
-Color=139,103,129
+Color=123,100,113
 
 [Color0Faint]
-Color=77,105,111
+Color=77,89,95
 
 [Color1]
-Color=223,32,20
+Color=198,26,20
 
 [Color1Intense]
-Color=154,81,26
+Color=189,64,26
 
 [Color1Faint]
-Color=223,32,20
+Color=198,26,20
 
 [Color2]
-Color=88,125,10
+Color=53,114,0
 
 [Color2Intense]
-Color=17,116,47
+Color=68,119,32
 
 [Color2Faint]
-Color=88,125,10
+Color=53,114,0
 
 [Color3]
-Color=138,111,0
+Color=130,94,0
 
 [Color3Intense]
-Color=141,89,10
+Color=152,93,0
 
 [Color3Faint]
-Color=138,111,0
+Color=130,94,0
 
 [Color4]
-Color=25,107,236
+Color=22,102,176
 
 [Color4Intense]
-Color=0,79,255
+Color=72,93,223
 
 [Color4Faint]
-Color=25,107,236
+Color=22,102,176
 
 [Color5]
-Color=200,56,132
+Color=168,56,132
 
 [Color5Intense]
-Color=149,54,192
+Color=164,56,192
 
 [Color5Faint]
-Color=200,56,132
+Color=168,56,132
 
 [Color6]
-Color=42,121,162
+Color=0,112,114
 
 [Color6Intense]
-Color=4,108,146
+Color=0,120,106
 
 [Color6Faint]
-Color=42,121,162
+Color=0,112,114
 
 [Color7]
-Color=250,246,249
+Color=242,235,233
 
 [Color7Intense]
 Color=255,245,243
 
 [Color7Faint]
-Color=250,246,249
+Color=242,235,233
 
 [Background]
 Color=255,245,243
 
 [BackgroundIntense]
-Color=250,246,249
+Color=242,235,233
 
 [BackgroundFaint]
 Color=255,245,243
 
 [Foreground]
-Color=77,105,111
+Color=77,89,95
 
 [ForegroundIntense]
-Color=139,103,129
+Color=123,100,113
 
 [ForegroundFaint]
-Color=77,105,111
+Color=77,89,95
 
 [General]
 Description=Tempus Fugit

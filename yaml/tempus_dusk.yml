@@ -2,7 +2,7 @@ name: "Tempus Dusk"
 slug: "tempus-dusk"
 slugunderscore: "tempus_dusk"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
-description: "Dark theme with a deep blue-ish, slightly desaturated palette."
+description: "Dark theme with a deep blue-ish, slightly desaturated palette (WCAG AA compliant)"
 variant: "dark" # light or dark
 col0: "#1f252d" # black variant
 col1: "#cb8d56" # red variant

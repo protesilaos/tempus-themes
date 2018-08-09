@@ -1,38 +1,38 @@
 [Color0]
-Color=82,80,94
+Color=74,72,77
 
 [Color0Intense]
-Color=87,80,80
+Color=95,77,79
 
 [Color0Faint]
-Color=82,80,94
+Color=74,72,77
 
 [Color1]
 Color=160,28,16
 
 [Color1Intense]
-Color=145,50,16
+Color=154,33,64
 
 [Color1Faint]
 Color=160,28,16
 
 [Color2]
-Color=11,93,70
+Color=13,95,15
 
 [Color2Intense]
 Color=42,93,8
 
 [Color2Faint]
-Color=11,93,70
+Color=13,95,15
 
 [Color3]
-Color=84,84,34
+Color=119,70,0
 
 [Color3Intense]
-Color=119,70,17
+Color=139,56,0
 
 [Color3Faint]
-Color=84,84,34
+Color=119,70,0
 
 [Color4]
 Color=28,79,159
@@ -44,49 +44,49 @@ Color=84,64,167
 Color=28,79,159
 
 [Color5]
-Color=148,33,102
+Color=145,38,99
 
 [Color5Intense]
-Color=141,14,155
+Color=157,16,91
 
 [Color5Faint]
-Color=148,33,102
+Color=145,38,99
 
 [Color6]
 Color=24,88,112
 
 [Color6Intense]
-Color=14,87,123
+Color=0,94,59
 
 [Color6Faint]
 Color=24,88,112
 
 [Color7]
-Color=236,243,243
+Color=243,241,243
 
 [Color7Intense]
-Color=244,241,240
+Color=255,255,255
 
 [Color7Faint]
-Color=236,243,243
+Color=243,241,243
 
 [Background]
-Color=244,241,240
+Color=255,255,255
 
 [BackgroundIntense]
-Color=236,243,243
+Color=243,241,243
 
 [BackgroundFaint]
-Color=244,241,240
+Color=255,255,255
 
 [Foreground]
-Color=82,80,94
+Color=74,72,77
 
 [ForegroundIntense]
-Color=87,80,80
+Color=95,77,79
 
 [ForegroundFaint]
-Color=82,80,94
+Color=74,72,77
 
 [General]
 Description=Tempus Totus

@@ -1,23 +1,23 @@
 ! Theme: Tempus Rift
-! Description: Dark theme with a subdued palette on the green side of the spectrum
+! Description: Dark theme with a subdued palette on the green side of the spectrum (WCAG AA compliant)
 ! Author: Protesilaos Stavrou (https://protesilaos.com)
-URxvt*background: #2b353c
-URxvt*foreground: #abacac
-URxvt*cursorColor: #abacac
-URxvt*cursorColor2: #2b353c
-URxvt*color0: #2b353c
-URxvt*color1: #be9604
-URxvt*color2: #0eb40e
-URxvt*color3: #79aa00
-URxvt*color4: #00acb3
-URxvt*color5: #ba964c
-URxvt*color6: #5fa98f
-URxvt*color7: #ab9699
-URxvt*color8: #3d3038
-URxvt*color9: #bdae13
-URxvt*color10: #3ac53a
-URxvt*color11: #9ab800
-URxvt*color12: #20bdce
-URxvt*color13: #cca57a
-URxvt*color14: #6fb9ae
-URxvt*color15: #abacac
+URxvt*background: #162c22
+URxvt*foreground: #bbbcbc
+URxvt*cursorColor: #bbbcbc
+URxvt*cursorColor2: #162c22
+URxvt*color0: #162c22
+URxvt*color1: #c19904
+URxvt*color2: #34b534
+URxvt*color3: #7fad00
+URxvt*color4: #30aeb0
+URxvt*color5: #c8954c
+URxvt*color6: #5fad8f
+URxvt*color7: #ab9aa9
+URxvt*color8: #283431
+URxvt*color9: #d2a634
+URxvt*color10: #6ac134
+URxvt*color11: #82bd00
+URxvt*color12: #56bdad
+URxvt*color13: #cca0ba
+URxvt*color14: #10c480
+URxvt*color15: #bbbcbc

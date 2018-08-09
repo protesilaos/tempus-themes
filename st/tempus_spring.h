@@ -1,20 +1,20 @@
 static const char *colorname[] = {
-    "#34403c",
+    "#283a37",
     "#ff855a",
-    "#6ab78a",
+    "#52bc6d",
     "#b6aa1a",
-    "#5daeee",
+    "#5db4c0",
     "#d495b4",
-    "#6eb2bc",
+    "#36bd84",
     "#96aca7",
     "#2a423d", 
     "#df993a", 
-    "#4abb88",
+    "#3dbf50",
     "#99b22a",
-    "#3caffe",
-    "#d091db",
     "#4ab4d3",
-    "#a5a8a7",
+    "#d091db",
+    "#1dbab8",
+    "#b5b8b7",
 };
 
 /* Default colors (colorname index)

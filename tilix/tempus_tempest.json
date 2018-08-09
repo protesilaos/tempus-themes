@@ -1,6 +1,6 @@
 {
     "name": "Tempus Tempest",
-    "comment": "A green-scale, subtle theme for late night hackers (WCAG AAA compliant).",
+    "comment": "A green-scale, subtle theme for late night hackers (WCAG AAA compliant)",
     "foreground-color": "#b6e0ca",
     "background-color": "#282b2b",
     "use-theme-colors": false,

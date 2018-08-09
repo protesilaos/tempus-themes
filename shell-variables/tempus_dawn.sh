@@ -3,7 +3,7 @@
 
 # theme: Tempus Dawn
 # author: Protesilaos Stavrou (https://protesilaos.com)
-# description: Light theme with a soft, slightly desaturated palette
+# description: Light theme with a soft, slightly desaturated palette (WCAG AA compliant)
 background="#f3f1f5"
 foreground="#53575a"
 cursorColor="#53575a"

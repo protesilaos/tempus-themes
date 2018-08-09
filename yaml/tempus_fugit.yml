@@ -4,25 +4,25 @@ slugunderscore: "tempus_fugit"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)"
 variant: "light" # light or dark
-col0: "#4d696f" # black variant
-col1: "#df2014" # red variant
-col2: "#587d0a" # green variant
-col3: "#8a6f00" # yellow variant
-col4: "#196bec" # blue variant
-col5: "#c83884" # magenta variant
-col6: "#2a79a2" # cyan variant
-col7: "#faf6f9" # white variant
-col8: "#8b6781" # bright black variant
-col9: "#9a511a" # bright red variant
-col10: "#11742f" # bright green variant
-col11: "#8d590a" # bright yellow variant
-col12: "#004fff" # bright blue variant
-col13: "#9536c0" # bright magenta variant
-col14: "#046c92" # bright cyan variant
+col0: "#4d595f" # black variant
+col1: "#c61a14" # red variant
+col2: "#357200" # green variant
+col3: "#825e00" # yellow variant
+col4: "#1666b0" # blue variant
+col5: "#a83884" # magenta variant
+col6: "#007072" # cyan variant
+col7: "#f2ebe9" # white variant
+col8: "#7b6471" # bright black variant
+col9: "#bd401a" # bright red variant
+col10: "#447720" # bright green variant
+col11: "#985d00" # bright yellow variant
+col12: "#485ddf" # bright blue variant
+col13: "#a438c0" # bright magenta variant
+col14: "#00786a" # bright cyan variant
 col15: "#fff5f3" # bright white variant
 colbg: "#fff5f3" # main background
-colbgalt: "#faf6f9" # alternative background
-colfg: "#4d696f" # main foreground
-colfgalt: "#8b6781" # alternative foreground
-colcr: "#4d696f" # cursor background
+colbgalt: "#f2ebe9" # alternative background
+colfg: "#4d595f" # main foreground
+colfgalt: "#7b6471" # alternative foreground
+colcr: "#4d595f" # cursor background
 colcr2: "#fff5f3" # cursor foreground

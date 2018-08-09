@@ -4,25 +4,25 @@ slugunderscore: "tempus_past"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Light theme inspired by old vaporwave concept art (WCAG AA compliant)"
 variant: "light" # light or dark
-col0: "#63606b" # black variant
-col1: "#c01c10" # red variant
-col2: "#2a7000" # green variant
-col3: "#825a0a" # yellow variant
-col4: "#025ccd" # blue variant
-col5: "#a43878" # magenta variant
-col6: "#49628d" # cyan variant
-col7: "#e0dcd6" # white variant
+col0: "#53545B" # black variant
+col1: "#C00C50" # red variant
+col2: "#0A7040" # green variant
+col3: "#A6403A" # yellow variant
+col4: "#1763AA" # blue variant
+col5: "#B02874" # magenta variant
+col6: "#096A83" # cyan variant
+col7: "#ECE6DE" # white variant
 col8: "#80565d" # bright black variant
-col9: "#b43036" # bright red variant
-col10: "#007214" # bright green variant
-col11: "#91520a" # bright yellow variant
-col12: "#5046eb" # bright blue variant
-col13: "#ba166b" # bright magenta variant
-col14: "#076c76" # bright cyan variant
-col15: "#dadce8" # bright white variant
-colbg: "#dadce8" # main background
-colbgalt: "#e0dcd6" # alternative background
-colfg: "#63606b" # main foreground
+col9: "#BD3636" # bright red variant
+col10: "#407343" # bright green variant
+col11: "#9D524A" # bright yellow variant
+col12: "#5A5EBB" # bright blue variant
+col13: "#B225AB" # bright magenta variant
+col14: "#07737A" # bright cyan variant
+col15: "#F3F2F4" # bright white variant
+colbg: "#F3F2F4" # main background
+colbgalt: "#ECE6DE" # alternative background
+colfg: "#53545B" # main foreground
 colfgalt: "#80565d" # alternative foreground
-colcr: "#63606b" # cursor background
-colcr2: "#dadce8" # cursor foreground
+colcr: "#53545B" # cursor background
+colcr2: "#F3F2F4" # cursor foreground

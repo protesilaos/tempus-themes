@@ -1,92 +1,92 @@
 [Color0]
-Color=50,38,34
+Color=43,29,26
 
 [Color0Intense]
 Color=53,38,15
 
 [Color0Faint]
-Color=50,38,34
+Color=43,29,26
 
 [Color1]
-Color=252,85,38
+Color=248,90,16
 
 [Color1Intense]
-Color=220,114,26
+Color=206,123,26
 
 [Color1Faint]
-Color=252,85,38
+Color=248,90,16
 
 [Color2]
-Color=131,151,63
+Color=128,153,0
 
 [Color2Intense]
-Color=96,157,89
+Color=114,156,26
 
 [Color2Faint]
-Color=131,151,63
+Color=128,153,0
 
 [Color3]
-Color=158,144,34
+Color=173,139,0
 
 [Color3Intense]
-Color=177,137,26
+Color=178,137,16
 
 [Color3Faint]
-Color=158,144,34
+Color=173,139,0
 
 [Color4]
-Color=127,141,191
+Color=136,141,176
 
 [Color4Intense]
-Color=107,142,214
+Color=147,133,205
 
 [Color4Faint]
-Color=127,141,191
+Color=136,141,176
 
 [Color5]
-Color=206,118,115
+Color=203,117,142
 
 [Color5Intense]
-Color=157,128,211
+Color=200,116,163
 
 [Color5Faint]
-Color=206,118,115
+Color=203,117,142
 
 [Color6]
-Color=110,151,139
+Color=112,154,101
 
 [Color6Intense]
-Color=34,158,160
+Color=82,157,128
 
 [Color6Faint]
-Color=110,151,139
+Color=112,154,101
 
 [Color7]
 Color=145,144,120
 
 [Color7Intense]
-Color=142,143,141
+Color=164,155,160
 
 [Color7Faint]
 Color=145,144,120
 
 [Background]
-Color=50,38,34
+Color=43,29,26
 
 [BackgroundIntense]
 Color=53,38,15
 
 [BackgroundFaint]
-Color=50,38,34
+Color=43,29,26
 
 [Foreground]
-Color=142,143,141
+Color=164,155,160
 
 [ForegroundIntense]
 Color=145,144,120
 
 [ForegroundFaint]
-Color=142,143,141
+Color=164,155,160
 
 [General]
 Description=Tempus Autumn

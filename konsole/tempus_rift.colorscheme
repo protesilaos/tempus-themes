@@ -1,92 +1,92 @@
 [Color0]
-Color=43,53,60
+Color=22,44,34
 
 [Color0Intense]
-Color=61,48,56
+Color=40,52,49
 
 [Color0Faint]
-Color=43,53,60
+Color=22,44,34
 
 [Color1]
-Color=190,150,4
+Color=193,153,4
 
 [Color1Intense]
-Color=189,174,19
+Color=210,166,52
 
 [Color1Faint]
-Color=190,150,4
+Color=193,153,4
 
 [Color2]
-Color=14,180,14
+Color=52,181,52
 
 [Color2Intense]
-Color=58,197,58
+Color=106,193,52
 
 [Color2Faint]
-Color=14,180,14
+Color=52,181,52
 
 [Color3]
-Color=121,170,0
+Color=127,173,0
 
 [Color3Intense]
-Color=154,184,0
+Color=130,189,0
 
 [Color3Faint]
-Color=121,170,0
+Color=127,173,0
 
 [Color4]
-Color=0,172,179
+Color=48,174,176
 
 [Color4Intense]
-Color=32,189,206
+Color=86,189,173
 
 [Color4Faint]
-Color=0,172,179
+Color=48,174,176
 
 [Color5]
-Color=186,150,76
+Color=200,149,76
 
 [Color5Intense]
-Color=204,165,122
+Color=204,160,186
 
 [Color5Faint]
-Color=186,150,76
+Color=200,149,76
 
 [Color6]
-Color=95,169,143
+Color=95,173,143
 
 [Color6Intense]
-Color=111,185,174
+Color=16,196,128
 
 [Color6Faint]
-Color=95,169,143
+Color=95,173,143
 
 [Color7]
-Color=171,150,153
+Color=171,154,169
 
 [Color7Intense]
-Color=171,172,172
+Color=187,188,188
 
 [Color7Faint]
-Color=171,150,153
+Color=171,154,169
 
 [Background]
-Color=43,53,60
+Color=22,44,34
 
 [BackgroundIntense]
-Color=61,48,56
+Color=40,52,49
 
 [BackgroundFaint]
-Color=43,53,60
+Color=22,44,34
 
 [Foreground]
-Color=171,172,172
+Color=187,188,188
 
 [ForegroundIntense]
-Color=171,150,153
+Color=171,154,169
 
 [ForegroundFaint]
-Color=171,172,172
+Color=187,188,188
 
 [General]
 Description=Tempus Rift

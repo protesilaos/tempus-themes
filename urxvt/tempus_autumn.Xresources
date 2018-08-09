@@ -1,23 +1,23 @@
 ! Theme: Tempus Autumn
 ! Description: Dark theme with a palette inspired by earthly colours (WCAG AA compliant)
 ! Author: Protesilaos Stavrou (https://protesilaos.com)
-URxvt*background: #322622
-URxvt*foreground: #8e8f8d
-URxvt*cursorColor: #8e8f8d
-URxvt*cursorColor2: #322622
-URxvt*color0: #322622
-URxvt*color1: #fc5526
-URxvt*color2: #83973f
-URxvt*color3: #9e9022
-URxvt*color4: #7f8dbf
-URxvt*color5: #ce7673
-URxvt*color6: #6e978b
+URxvt*background: #2b1d1a
+URxvt*foreground: #a49ba0
+URxvt*cursorColor: #a49ba0
+URxvt*cursorColor2: #2b1d1a
+URxvt*color0: #2b1d1a
+URxvt*color1: #f85a10
+URxvt*color2: #809900
+URxvt*color3: #ad8b00
+URxvt*color4: #888db0
+URxvt*color5: #cb758e
+URxvt*color6: #709a65
 URxvt*color7: #919078
 URxvt*color8: #35260f
-URxvt*color9: #dc721a
-URxvt*color10: #609d59
-URxvt*color11: #b1891a
-URxvt*color12: #6b8ed6
-URxvt*color13: #9d80d3
-URxvt*color14: #229ea0
-URxvt*color15: #8e8f8d
+URxvt*color9: #ce7b1a
+URxvt*color10: #729c1a
+URxvt*color11: #b28910
+URxvt*color12: #9385cd
+URxvt*color13: #c874a3
+URxvt*color14: #529d80
+URxvt*color15: #a49ba0

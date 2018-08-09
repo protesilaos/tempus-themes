@@ -1,10 +1,10 @@
 [Scheme]
 Name=Tempus Fugit
-ColorForeground=#4d696f
+ColorForeground=#4d595f
 ColorBackground=#fff5f3
-ColorCursor=#4d696f
-ColorBold=#4d696f
-ColorPalette=#4d696f;#df2014;#587d0a;#8a6f00;#196bec;#c83884;#2a79a2;#faf6f9;#8b6781;#9a511a;#11742f;#8d590a;#004fff;#9536c0;#046c92;#fff5f3
-TabActivityColor=#587d0a
-ColorSelectionBackground=#4d696f
+ColorCursor=#4d595f
+ColorBold=#4d595f
+ColorPalette=#4d595f;#c61a14;#357200;#825e00;#1666b0;#a83884;#007072;#f2ebe9;#7b6471;#bd401a;#447720;#985d00;#485ddf;#a438c0;#00786a;#fff5f3
+TabActivityColor=#357200
+ColorSelectionBackground=#4d595f
 ColorSelection=#fff5f3
