@@ -1,0 +1,28 @@
+name: "Tempus Classic"
+slug: "tempus-classic"
+slugunderscore: "tempus_classic"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+description: "Dark theme with warm hues (WCAG AA compliant)"
+variant: "dark" # light or dark
+col0: "#232323" # black variant
+col1: "#d2813d" # red variant
+col2: "#8c9e3d" # green variant
+col3: "#b1942b" # yellow variant
+col4: "#6e9cb0" # blue variant
+col5: "#b58d88" # magenta variant
+col6: "#6da280" # cyan variant
+col7: "#949d9f" # white variant
+col8: "#312e30" # bright black variant
+col9: "#d0913d" # bright red variant
+col10: "#96a42d" # bright green variant
+col11: "#a8a030" # bright yellow variant
+col12: "#8e9cc0" # bright blue variant
+col13: "#d58888" # bright magenta variant
+col14: "#7aa880" # bright cyan variant
+col15: "#aeadaf" # bright white variant
+colbg: "#232323" # main background
+colbgalt: "#312e30" # alternative background
+colfg: "#aeadaf" # main foreground
+colfgalt: "#949d9f" # alternative foreground
+colcr: "#aeadaf" # cursor background
+colcr2: "#232323" # cursor foreground

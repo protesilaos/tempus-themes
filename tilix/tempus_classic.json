@@ -1,0 +1,33 @@
+{
+    "name": "Tempus Classic",
+    "comment": "Dark theme with warm hues (WCAG AA compliant)",
+    "foreground-color": "#aeadaf",
+    "background-color": "#232323",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#232323",
+    "highlight-background-color": "#aeadaf",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#232323",
+    "cursor-background-color": "#aeadaf",
+    "use-badge-color": true,
+    "badge-color": "#949d9f",
+    "palette": [
+        "#232323",
+        "#d2813d",
+        "#8c9e3d",
+        "#b1942b",
+        "#6e9cb0",
+        "#b58d88",
+        "#6da280",
+        "#949d9f",
+        "#312e30",
+        "#d0913d",
+        "#96a42d",
+        "#a8a030",
+        "#8e9cc0",
+        "#d58888",
+        "#7aa880",
+        "#aeadaf"
+    ]
+}

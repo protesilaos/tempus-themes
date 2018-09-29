@@ -40,6 +40,9 @@ https://gitlab.com/protesilaos/tempus-themes.git --depth 1
 Tempus Autumn (WCAG AA)  
 ![tempus_autumn sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_autumn.png)
 
+Tempus Classic (WCAG AA)  
+![tempus_classic sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_classic.png)
+
 Tempus Dawn (WCAG AA)  
 ![tempus_dawn sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_dawn.png)
 
