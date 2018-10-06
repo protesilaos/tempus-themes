@@ -1,8 +1,8 @@
-# Tempus Themes for Vim
+ Tempus Themes for Vim
 
 The theme files can be copied manually or installed as a bundle with a plugin.
 
-## Manual method: we use the command line
+## 1 Manual method: we use the command line
 
 Start by cloning the `tempus-themes-vim` repo and entering it (unless you prefer copy-pasting, in which case adapt accordingly):
 
@@ -11,7 +11,7 @@ git clone https://gitlab.com/protesilaos/tempus-themes-vim.git --depth 1 && cd t
 ```
 
 
-### Create destination directory
+### 1.1 Create destination directory
 
 The manual method requires you to copy the file to `~/.vim/colors/`. Run the following command, while ignoring line that start with `#` (those are just comments):
 
@@ -20,7 +20,7 @@ The manual method requires you to copy the file to `~/.vim/colors/`. Run the fol
 mkdir -p ~/.vim/colors/
 ```
 
-### Copying to destination directory
+### 1.2 Copying to destination directory
 
 Now run the following command for the theme of your choice. The example uses `tempus_winter.vim`:
 
@@ -36,7 +36,7 @@ Done.
 cp colors/*.vim ~/.vim/colors/
 ```
 
-### Applying the theme
+### 1.3 Applying the theme
 
 Once copied to the right place, the theme is declared with the following options inside the `.vimrc`:
 
@@ -46,17 +46,17 @@ syntax enable
 colorscheme tempus_winter
 ```
 
-## Plugin method
+## 2 Plugin method
 
-Use your favourite plugin manager. With [vim-plug](https://gitlab.com/junegunn/vim-plug) add the following line to your `.vimrc`:
+Use your favourite plugin manager. With [vim-plug](https://github.com/junegunn/vim-plug) add the following line to your `.vimrc`:
 
 ```vim
-Plug "protesilaos/tempus-themes-vim"
+Plug "https://gitlab.com/protesilaos/tempus-themes-vim.git"
 ```
 
 Then execute the plugin manager's command to update the plugin files.
 
-### Applying the theme
+### 2.1 Applying the theme
 
 Once available, the theme is declared with the following options inside the `.vimrc`:
 
@@ -70,7 +70,7 @@ Enjoy!
 
 ## Additional resources
 
-For all available ports, refer to the main [Tempus themes repo](https://gitlab.com/protesilaos/tempus-themes).
+For more information about this project, screenshots, and all available ports, refer to the main [Tempus themes repo](https://gitlab.com/protesilaos/tempus-themes).
 
 ## Contributing
 
