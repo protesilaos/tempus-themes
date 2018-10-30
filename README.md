@@ -100,6 +100,7 @@ Instructions on how to use these files are documented in the `README.md` which i
 Each port of *Tempus* has its own repo, for your convenience:
 
 - [Tempus themes **GTK3 Source View**](https://gitlab.com/protesilaos/tempus-themes-gtksourceview3)
+- [Tempus themes **Kitty**](https://gitlab.com/protesilaos/tempus-themes-kitty)
 - [Tempus themes **Konsole**](https://gitlab.com/protesilaos/tempus-themes-konsole)
 - [Tempus themes **st**](https://gitlab.com/protesilaos/tempus-themes-st)
 - [Tempus themes **Tilix**](https://gitlab.com/protesilaos/tempus-themes-tilix)
@@ -109,6 +110,8 @@ Each port of *Tempus* has its own repo, for your convenience:
 - [Tempus themes **Xterm**](https://gitlab.com/protesilaos/tempus-themes-xterm)
 
 ### External project integrations
+
+*These may not be in sync with the current state of my project.*
 
 - [Oomox](https://gitlab.com/actionless/oomox): graphical application for generating different color variations of a Numix-based and Materia (ex-Flat-Plat) themes (GTK2, GTK3), Gnome-Colors and Archdroid icon themes.
 - [pywal](https://gitlab.com/dylanaraps/pywal): `pywal` is a tool that generates a color palette from the dominant colors in an image. It also supports predefined themes and has over 250 themes built-in. You can also create your own theme files to share with others.
