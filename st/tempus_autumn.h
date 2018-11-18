@@ -42,39 +42,10 @@ static const char *colorname[] = {
      * incorrect and might cause problems.
      *
      * For working examples, see my dotfiles, specifically the
-     *  under the "bin" directory:
+     * 'own_script_update_running_terminals' under the "bin" directory:
      * https://gitlab.com/protesilaos/dotfiles.  Note that this script
-     * is invoked from the ERROR At least 1 argument expected
-Exiting...
-
-SOLUTION own_script_update_environment_theme [theme]
-EXAMPLE using Tempus Winter
-own_script_update_environment_theme winter
-
-For available arguments run:
-ls /home/prot/.my_Xcolors/tempus/ | sed 's/\([a-z]*_\)\([a-z]*\)\(\.[a-zA-Z]*\)/\2 /g'
-or
-ls /home/prot/.my_Xcolors/shell/ | sed 's/\([a-z]*_\)\([a-z]*\)\(\.[a-zA-Z]*\)/\2 /g'
-
-To change terminal and CLI only, run this instead:
-own_script_update_environment_theme winter cli, which
-     * is typically interfaced via the There is no optional 'cli' argument
-Opening dmenu interface for full environment update
-Will run full theme update using ""
-ERROR At least 1 argument expected
-Exiting...
-
-SOLUTION own_script_update_environment_theme [theme]
-EXAMPLE using Tempus Winter
-own_script_update_environment_theme winter
-
-For available arguments run:
-ls /home/prot/.my_Xcolors/tempus/ | sed 's/\([a-z]*_\)\([a-z]*\)\(\.[a-zA-Z]*\)/\2 /g'
-or
-ls /home/prot/.my_Xcolors/shell/ | sed 's/\([a-z]*_\)\([a-z]*\)\(\.[a-zA-Z]*\)/\2 /g'
-
-To change terminal and CLI only, run this instead:
-own_script_update_environment_theme winter cli.
+     * is invoked from the 'own_script_update_environment_theme', which
+     * is typically interfaced via the 'tempusmenu'.
      */
     [256] = "#2b1d1a",
     [257] = "#a49ba0",
