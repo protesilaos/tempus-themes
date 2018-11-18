@@ -6,6 +6,8 @@
 # description: A green-scale, subtle theme for late night hackers (WCAG AAA compliant)
 background="#282b2b"
 foreground="#b6e0ca"
+backgroundalt="#303434"
+foregroundalt="#b0c8ca"
 cursorColor="#b6e0ca"
 cursorColor2="#282b2b"
 color0="#282b2b"

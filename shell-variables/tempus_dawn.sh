@@ -6,6 +6,8 @@
 # description: Light theme with a soft, slightly desaturated palette (WCAG AA compliant)
 background="#f3f1f5"
 foreground="#53575a"
+backgroundalt="#dedae9"
+foregroundalt="#735e3f"
 cursorColor="#53575a"
 cursorColor2="#f3f1f5"
 color0="#53575a"

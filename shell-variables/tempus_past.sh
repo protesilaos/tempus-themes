@@ -6,6 +6,8 @@
 # description: Light theme inspired by old vaporwave concept art (WCAG AA compliant)
 background="#F3F2F4"
 foreground="#53545B"
+backgroundalt="#ECE6DE"
+foregroundalt="#80565d"
 cursorColor="#53545B"
 cursorColor2="#F3F2F4"
 color0="#53545B"

@@ -6,6 +6,8 @@
 # description: Dark theme with colours inspired by concept art of outer space (WCAG AAA compliant)
 background="#150d15"
 foreground="#b4abac"
+backgroundalt="#19170D"
+foregroundalt="#be9c8a"
 cursorColor="#b4abac"
 cursorColor2="#150d15"
 color0="#150d15"

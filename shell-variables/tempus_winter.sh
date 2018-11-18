@@ -6,6 +6,8 @@
 # description: Dark theme with a palette inspired by winter nights at the city (WCAG AA compliant)
 background="#202427"
 foreground="#8da3b8"
+backgroundalt="#292b35"
+foregroundalt="#909294"
 cursorColor="#8da3b8"
 cursorColor2="#202427"
 color0="#202427"

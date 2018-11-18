@@ -6,6 +6,8 @@
 # description: Dark theme with colours inspired by summer evenings by the sea (WCAG AA compliant)
 background="#202c3d"
 foreground="#a0abae"
+backgroundalt="#352f49"
+foregroundalt="#a39799"
 cursorColor="#a0abae"
 cursorColor2="#202c3d"
 color0="#202c3d"

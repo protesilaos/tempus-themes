@@ -6,6 +6,8 @@
 # description: Dark theme with a palette inspired by earthly colours (WCAG AA compliant)
 background="#2b1d1a"
 foreground="#a49ba0"
+backgroundalt="#35260f"
+foregroundalt="#919078"
 cursorColor="#a49ba0"
 cursorColor2="#2b1d1a"
 color0="#2b1d1a"

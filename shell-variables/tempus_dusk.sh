@@ -6,6 +6,8 @@
 # description: Dark theme with a deep blue-ish, slightly desaturated palette (WCAG AA compliant)
 background="#1f252d"
 foreground="#a2a8ba"
+backgroundalt="#2c3150"
+foregroundalt="#a29899"
 cursorColor="#a2a8ba"
 cursorColor2="#1f252d"
 color0="#1f252d"

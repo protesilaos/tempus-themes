@@ -6,6 +6,8 @@
 # description: Dark theme with a vibrant palette (WCAG AA compliant)
 background="#001514"
 foreground="#a29fa0"
+backgroundalt="#241828"
+foregroundalt="#928080"
 cursorColor="#a29fa0"
 cursorColor2="#001514"
 color0="#001514"

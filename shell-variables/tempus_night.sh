@@ -6,6 +6,8 @@
 # description: High contrast dark theme with bright colours (WCAG AAA compliant)
 background="#1a1a1a"
 foreground="#e0e0e0"
+backgroundalt="#18143d"
+foregroundalt="#c4bdaf"
 cursorColor="#e0e0e0"
 cursorColor2="#1a1a1a"
 color0="#1a1a1a"

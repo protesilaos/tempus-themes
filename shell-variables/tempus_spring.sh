@@ -6,6 +6,8 @@
 # description: Dark theme with a palette inspired by early spring colours (WCAG AA compliant)
 background="#283a37"
 foreground="#b5b8b7"
+backgroundalt="#2a423d"
+foregroundalt="#96aca7"
 cursorColor="#b5b8b7"
 cursorColor2="#283a37"
 color0="#283a37"

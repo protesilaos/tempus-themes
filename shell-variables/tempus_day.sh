@@ -6,6 +6,8 @@
 # description: Light theme with warm colours (WCAG AA compliant)
 background="#f8f1e0"
 foreground="#3b2820"
+backgroundalt="#f5f0f5"
+foregroundalt="#5b4440"
 cursorColor="#3b2820"
 cursorColor2="#f8f1e0"
 color0="#3b2820"

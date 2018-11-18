@@ -6,6 +6,8 @@
 # description: Light theme for prose or for coding in an open space (WCAG AAA compliant)
 background="#ffffff"
 foreground="#4a484d"
+backgroundalt="#f3f1f3"
+foregroundalt="#5f4d4f"
 cursorColor="#4a484d"
 cursorColor2="#ffffff"
 color0="#4a484d"

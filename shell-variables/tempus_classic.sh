@@ -6,6 +6,8 @@
 # description: Dark theme with warm hues (WCAG AA compliant)
 background="#232323"
 foreground="#aeadaf"
+backgroundalt="#312e30"
+foregroundalt="#949d9f"
 cursorColor="#aeadaf"
 cursorColor2="#232323"
 color0="#232323"

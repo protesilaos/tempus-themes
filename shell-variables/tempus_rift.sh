@@ -6,6 +6,8 @@
 # description: Dark theme with a subdued palette on the green side of the spectrum (WCAG AA compliant)
 background="#162c22"
 foreground="#bbbcbc"
+backgroundalt="#283431"
+foregroundalt="#ab9aa9"
 cursorColor="#bbbcbc"
 cursorColor2="#162c22"
 color0="#162c22"

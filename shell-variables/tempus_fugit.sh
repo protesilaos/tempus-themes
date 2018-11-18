@@ -6,6 +6,8 @@
 # description: Light, pleasant theme optimised for long writing/coding sessions (WCAG AA compliant)
 background="#fff5f3"
 foreground="#4d595f"
+backgroundalt="#f2ebe9"
+foregroundalt="#7b6471"
 cursorColor="#4d595f"
 cursorColor2="#fff5f3"
 color0="#4d595f"
