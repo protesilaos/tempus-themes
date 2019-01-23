@@ -53,11 +53,6 @@ example:
 
 Enjoy!
 
-## Pro usage
-
-For a more advanced way to use themes, see how I implement theme in [my
-dotfiles](https://gitlab.com/protesilaos/dotfiles).
-
 ## Additional resources
 
 For all available ports, refer to the main [Tempus themes
