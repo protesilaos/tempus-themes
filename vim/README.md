@@ -1,4 +1,4 @@
- Tempus Themes for Vim
+# Tempus Themes for Vim
 
 The theme files can be copied manually or installed as a bundle with a plugin.
 
