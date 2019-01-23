@@ -24,7 +24,7 @@
   <!-- Base values -->
   <color name="colbg" value="#f8f1e0"/>
   <color name="colbgalt" value="#f5f0f5"/>
-  <color name="colbgdim" value="#7af0ea"/>
+  <color name="colbgdim" value="#f6f0ea"/>
   <color name="colfg" value="#3b2820"/>
   <color name="colfgalt" value="#5b4440"/>
   <color name="colcr" value="#3b2820"/>

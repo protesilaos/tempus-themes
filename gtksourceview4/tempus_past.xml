@@ -43,7 +43,7 @@
   <!-- Base values -->
   <color name="colbg" value="#f3f2f4"/>
   <color name="colbgalt" value="#ece6de"/>
-  <color name="colbgdim" value="#76ece9"/>
+  <color name="colbgdim" value="#efece9"/>
   <color name="colfg" value="#53545b"/>
   <color name="colfgalt" value="#80565d"/>
 
