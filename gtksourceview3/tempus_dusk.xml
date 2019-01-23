@@ -24,6 +24,7 @@
   <!-- Base values -->
   <color name="colbg" value="#1f252d"/>
   <color name="colbgalt" value="#2c3150"/>
+  <color name="colbgdim" value="#252b3e"/>
   <color name="colfg" value="#a2a8ba"/>
   <color name="colfgalt" value="#a29899"/>
   <color name="colcr" value="#a2a8ba"/>
@@ -31,7 +32,7 @@
   <!-- Global Settings -->
   <style name="text" foreground="colfg" background="colbg"/>
   <style name="line-numbers" foreground="colfgalt" background="colbgalt"/>
-  <style name="current-line" background="colbgalt"/>
+  <style name="current-line" background="colbgdim"/>
   <style name="current-line-number" foreground="colfgalt" background="colbgalt" bold="true"/>
   <style name="draw-spaces" foreground="colfgalt"/>
   <style name="background-pattern" background="colbg"/>

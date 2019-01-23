@@ -4,34 +4,35 @@
   <_description>Light theme inspired by old vaporwave concept art (WCAG AA compliant)</_description>
 
   <!-- Palette -->
-  <color name="col0" value="#53545B"/>
-  <color name="col1" value="#C00C50"/>
-  <color name="col2" value="#0A7040"/>
-  <color name="col3" value="#A6403A"/>
-  <color name="col4" value="#1763AA"/>
-  <color name="col5" value="#B02874"/>
-  <color name="col6" value="#096A83"/>
-  <color name="col7" value="#ECE6DE"/>
+  <color name="col0" value="#53545b"/>
+  <color name="col1" value="#c00c50"/>
+  <color name="col2" value="#0a7040"/>
+  <color name="col3" value="#a6403a"/>
+  <color name="col4" value="#1763aa"/>
+  <color name="col5" value="#b02874"/>
+  <color name="col6" value="#096a83"/>
+  <color name="col7" value="#ece6de"/>
   <color name="col8" value="#80565d"/>
-  <color name="col9" value="#BD3636"/>
+  <color name="col9" value="#bd3636"/>
   <color name="col10" value="#407343"/>
-  <color name="col11" value="#9D524A"/>
-  <color name="col12" value="#5A5EBB"/>
-  <color name="col13" value="#B225AB"/>
-  <color name="col14" value="#07737A"/>
-  <color name="col15" value="#F3F2F4"/>
+  <color name="col11" value="#9d524a"/>
+  <color name="col12" value="#5a5ebb"/>
+  <color name="col13" value="#b225ab"/>
+  <color name="col14" value="#07737a"/>
+  <color name="col15" value="#f3f2f4"/>
 
   <!-- Base values -->
-  <color name="colbg" value="#F3F2F4"/>
-  <color name="colbgalt" value="#ECE6DE"/>
-  <color name="colfg" value="#53545B"/>
+  <color name="colbg" value="#f3f2f4"/>
+  <color name="colbgalt" value="#ece6de"/>
+  <color name="colbgdim" value="#76ece9"/>
+  <color name="colfg" value="#53545b"/>
   <color name="colfgalt" value="#80565d"/>
-  <color name="colcr" value="#53545B"/>
+  <color name="colcr" value="#53545b"/>
 
   <!-- Global Settings -->
   <style name="text" foreground="colfg" background="colbg"/>
   <style name="line-numbers" foreground="colfgalt" background="colbgalt"/>
-  <style name="current-line" background="colbgalt"/>
+  <style name="current-line" background="colbgdim"/>
   <style name="current-line-number" foreground="colfgalt" background="colbgalt" bold="true"/>
   <style name="draw-spaces" foreground="colfgalt"/>
   <style name="background-pattern" background="colbg"/>
