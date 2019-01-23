@@ -100,6 +100,7 @@ Instructions on how to use these files are documented in the `README.md` which i
 Each port of *Tempus* has its own repo, for your convenience:
 
 - [Tempus themes **GTK3 Source View**](https://gitlab.com/protesilaos/tempus-themes-gtksourceview3)
+- [Tempus themes **GTK4 Source View**](https://gitlab.com/protesilaos/tempus-themes-gtksourceview4)
 - [Tempus themes **Kitty**](https://gitlab.com/protesilaos/tempus-themes-kitty)
 - [Tempus themes **Konsole**](https://gitlab.com/protesilaos/tempus-themes-konsole)
 - [Tempus themes **st**](https://gitlab.com/protesilaos/tempus-themes-st)
