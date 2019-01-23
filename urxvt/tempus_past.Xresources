@@ -1,23 +1,23 @@
 ! Theme: Tempus Past
 ! Description: Light theme inspired by old vaporwave concept art (WCAG AA compliant)
 ! Author: Protesilaos Stavrou (https://protesilaos.com)
-URxvt*background: #F3F2F4
-URxvt*foreground: #53545B
-URxvt*cursorColor: #53545B
-URxvt*cursorColor2: #F3F2F4
-URxvt*color0: #53545B
-URxvt*color1: #C00C50
-URxvt*color2: #0A7040
-URxvt*color3: #A6403A
-URxvt*color4: #1763AA
-URxvt*color5: #B02874
-URxvt*color6: #096A83
-URxvt*color7: #ECE6DE
+URxvt*background: #f3f2f4
+URxvt*foreground: #53545b
+URxvt*cursorColor: #53545b
+URxvt*cursorColor2: #f3f2f4
+URxvt*color0: #53545b
+URxvt*color1: #c00c50
+URxvt*color2: #0a7040
+URxvt*color3: #a6403a
+URxvt*color4: #1763aa
+URxvt*color5: #b02874
+URxvt*color6: #096a83
+URxvt*color7: #ece6de
 URxvt*color8: #80565d
-URxvt*color9: #BD3636
+URxvt*color9: #bd3636
 URxvt*color10: #407343
-URxvt*color11: #9D524A
-URxvt*color12: #5A5EBB
-URxvt*color13: #B225AB
-URxvt*color14: #07737A
-URxvt*color15: #F3F2F4
+URxvt*color11: #9d524a
+URxvt*color12: #5a5ebb
+URxvt*color13: #b225ab
+URxvt*color14: #07737a
+URxvt*color15: #f3f2f4
