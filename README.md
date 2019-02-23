@@ -37,6 +37,9 @@ https://gitlab.com/protesilaos/tempus-themes.git --depth 1
 
 ## Screenshots (sort A-Z)
 
+_A TMUX sesssion runnings inside the Simple Terminal (ST), both of which
+are part of [my dotfiles](https://gitlab.com/protesilaos/dotfiles)._
+
 Tempus Autumn (WCAG AA)  
 ![tempus_autumn sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_autumn.png)
 
