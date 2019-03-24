@@ -37,10 +37,6 @@ same contrast ratio boundary. This is due to their inherent colour
 qualities as well as their shared schema for mapping colours to objects
 of the code syntax.
 
-**IMPORTANT.** As this repo also contains screenshots, it is recommended
-you clone it with the `--depth 1` flag (shallow clone). Below is the
-syntax for cloning over ssh and https respectively:
-
 	# Shallow clone this repo (only latest commit)
 
 	## With ssh
@@ -106,14 +102,14 @@ Tempus Winter (WCAG AA)
 
 ### How to use this repo
 
-The Tempus project consists of a number of specialised repositories for
-each of the available ports. The current repo serves as the main hub,
-providing the overview of the project, and bundling all existing themes
-together.
+The Tempus themes project consists of a number of specialised
+repositories for each of the available ports. The current repo serves as
+the main hub, providing the overview of the project, and bundling all
+existing themes together.
 
 Each directory herein contains files specific to the application it
 references. For example, the `urxvt` directory includes an `.Xresources`
-file for each item in the Tempus collection.
+file for each item in the Tempus themes collection.
 
 Instructions on how to use these files are documented in the `README.md`
 which is included in each directory. Exceptions are the
@@ -122,7 +118,7 @@ generic files.
 
 ### App-specific repositories
 
-Each port of *Tempus* has its own repo, for your convenience:
+Each port of the Tempus themes has its own repo, for your convenience:
 
 * [Tempus themes **GTK3 Source View**](https://gitlab.com/protesilaos/tempus-themes-gtksourceview3)
 * [Tempus themes **GTK4 Source View**](https://gitlab.com/protesilaos/tempus-themes-gtksourceview4)
@@ -137,7 +133,10 @@ Each port of *Tempus* has its own repo, for your convenience:
 
 ### External project integrations
 
-*These may not be in sync with the current state of my project.*
+*It is most likely that these are not in sync with the current state of
+the Tempus themes project.  Consider these references "honourable
+mentions" rather than endorsements or substitutes for the themes
+provided by my project:*
 
 * [Oomox](https://gitlab.com/actionless/oomox): graphical application
   for generating different color variations of a Numix-based and Materia
@@ -154,7 +153,8 @@ Each port of *Tempus* has its own repo, for your convenience:
   and dark themes, hackable and fast GTK+ theme made specifically for
   `wpgtk` and custom keywords and values to replace in templates.
 
-*NOTE: If you add the Tempus themes to your project, open an issue to include it on this list.*
+*NOTE: If you add the Tempus themes to your project, open an issue to
+include it on this list.*
 
 ## Contributing
 
