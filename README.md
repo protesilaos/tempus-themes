@@ -41,52 +41,52 @@ _A TMUX sesssion runnings inside the Simple Terminal (ST), both of which
 are part of [my dotfiles](https://gitlab.com/protesilaos/dotfiles)._
 
 Tempus Autumn (WCAG AA)  
-![tempus_autumn sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_autumn.png)
+![tempus_autumn sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_autumn.png)
 
 Tempus Classic (WCAG AA)  
-![tempus_classic sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_classic.png)
+![tempus_classic sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_classic.png)
 
 Tempus Dawn (WCAG AA)  
-![tempus_dawn sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_dawn.png)
+![tempus_dawn sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_dawn.png)
 
 Tempus Day (WCAG AA)  
-![tempus_day sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_day.png)
+![tempus_day sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_day.png)
 
 Tempus Dusk (WCAG AA)  
-![tempus_dusk sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_dusk.png)
+![tempus_dusk sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_dusk.png)
 
 Tempus Fugit (WCAG AA)  
-![tempus_fugit sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_fugit.png)
+![tempus_fugit sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_fugit.png)
 
 Tempus Future (WCAG AAA)  
-![tempus_future sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_future.png)
+![tempus_future sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_future.png)
 
 Tempus Night (WCAG AAA)  
-![tempus_night sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_night.png)
+![tempus_night sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_night.png)
 
 Tempus Past (WCAG AA)  
-![tempus_past sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_past.png)
+![tempus_past sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_past.png)
 
 Tempus Rift (WCAG AA)  
-![tempus_rift sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_rift.png)
+![tempus_rift sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_rift.png)
 
 Tempus Spring (WCAG AA)  
-![tempus_spring sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_spring.png)
+![tempus_spring sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_spring.png)
 
 Tempus Summer (WCAG AA)  
-![tempus_summer sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_summer.png)
+![tempus_summer sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_summer.png)
 
 Tempus Tempest (WCAG AAA)  
-![tempus_tempest sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_tempest.png)
+![tempus_tempest sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_tempest.png)
 
 Tempus Totus (WCAG AAA)  
-![tempus_totus sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_totus.png)
+![tempus_totus sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_totus.png)
 
 Tempus Warp (WCAG AA)  
-![tempus_warp sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_warp.png)
+![tempus_warp sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_warp.png)
 
 Tempus Winter (WCAG AA)  
-![tempus_winter sample](https://gitlab.com/protesilaos/tempus-themes/raw/master/screenshots/tempus_winter.png)
+![tempus_winter sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_winter.png)
 
 ## Applications
 
