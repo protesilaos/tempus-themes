@@ -5,20 +5,20 @@ author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with a palette inspired by winter nights at the city (WCAG AA compliant)"
 variant: "dark" # light or dark
 col0: "#202427" # black variant
-col1: "#ed6a42" # red variant
-col2: "#30a480" # green variant
+col1: "#eb6a58" # red variant
+col2: "#49a61d" # green variant
 col3: "#959721" # yellow variant
-col4: "#2b9dc4" # blue variant
-col5: "#bd7bbe" # magenta variant
-col6: "#2fa1a0" # cyan variant
+col4: "#798fd7" # blue variant
+col5: "#cd7b7e" # magenta variant
+col6: "#4fa090" # cyan variant
 col7: "#909294" # white variant
 col8: "#292b35" # bright black variant
 col9: "#db7824" # bright red variant
-col10: "#43a550" # bright green variant
+col10: "#00a854" # bright green variant
 col11: "#ad8e4b" # bright yellow variant
-col12: "#798fd7" # bright blue variant
+col12: "#309dc1" # bright blue variant
 col13: "#c874c2" # bright magenta variant
-col14: "#0fa674" # bright cyan variant
+col14: "#1ba2a0" # bright cyan variant
 col15: "#8da3b8" # bright white variant
 colbg: "#202427" # main background
 colbgalt: "#292b35" # alternative background

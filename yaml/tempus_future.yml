@@ -4,25 +4,25 @@ slugunderscore: "tempus_future"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with colours inspired by concept art of outer space (WCAG AAA compliant)"
 variant: "dark" # light or dark
-col0: "#150d15" # black variant
+col0: "#090a18" # black variant
 col1: "#ff778a" # red variant
 col2: "#6ab539" # green variant
 col3: "#bfa01a" # yellow variant
-col4: "#5aaec3" # blue variant
-col5: "#da8ab2" # magenta variant
-col6: "#79a9c3" # cyan variant
-col7: "#be9c8a" # white variant
-col8: "#19170D" # bright black variant
+col4: "#4aaed3" # blue variant
+col5: "#e58a82" # magenta variant
+col6: "#29b3bb" # cyan variant
+col7: "#a59ebd" # white variant
+col8: "#260e22" # bright black variant
 col9: "#f78e2f" # bright red variant
 col10: "#60ba80" # bright green variant
 col11: "#de9b1d" # bright yellow variant
-col12: "#79b0c4" # bright blue variant
+col12: "#8ba7ea" # bright blue variant
 col13: "#e08bd6" # bright magenta variant
-col14: "#5ab7b0" # bright cyan variant
+col14: "#2cbab6" # bright cyan variant
 col15: "#b4abac" # bright white variant
-colbg: "#150d15" # main background
-colbgalt: "#19170D" # alternative background
+colbg: "#090a18" # main background
+colbgalt: "#260e22" # alternative background
 colfg: "#b4abac" # main foreground
-colfgalt: "#be9c8a" # alternative foreground
+colfgalt: "#a59ebd" # alternative foreground
 colcr: "#b4abac" # cursor background
-colcr2: "#150d15" # cursor foreground
+colcr2: "#090a18" # cursor foreground

@@ -1,11 +1,11 @@
 [Color0]
-Color=83,87,90
+Color=82,84,112
 
 [Color0Intense]
-Color=115,94,63
+Color=112,94,77
 
 [Color0Faint]
-Color=83,87,90
+Color=82,84,112
 
 [Color1]
 Color=155,49,50
@@ -62,31 +62,31 @@ Color=45,105,120
 Color=24,96,96
 
 [Color7]
-Color=222,218,233
+Color=230,231,234
 
 [Color7Intense]
-Color=243,241,245
+Color=243,244,246
 
 [Color7Faint]
-Color=222,218,233
+Color=230,231,234
 
 [Background]
-Color=243,241,245
+Color=243,244,246
 
 [BackgroundIntense]
-Color=222,218,233
+Color=230,231,234
 
 [BackgroundFaint]
-Color=243,241,245
+Color=243,244,246
 
 [Foreground]
-Color=83,87,90
+Color=82,84,112
 
 [ForegroundIntense]
-Color=115,94,63
+Color=112,94,77
 
 [ForegroundFaint]
-Color=83,87,90
+Color=82,84,112
 
 [General]
 Description=Tempus Dawn

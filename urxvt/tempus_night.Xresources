@@ -7,11 +7,11 @@ URxvt*cursorColor: #e0e0e0
 URxvt*cursorColor2: #1a1a1a
 URxvt*color0: #1a1a1a
 URxvt*color1: #fb7e8e
-URxvt*color2: #4ab96d
+URxvt*color2: #52ba40
 URxvt*color3: #b0a800
 URxvt*color4: #5aaaf2
 URxvt*color5: #ee80c0
-URxvt*color6: #55b1c3
+URxvt*color6: #1db5c3
 URxvt*color7: #c4bdaf
 URxvt*color8: #18143d
 URxvt*color9: #f69d6a

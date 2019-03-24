@@ -5,24 +5,24 @@ author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with colours inspired by summer evenings by the sea (WCAG AA compliant)"
 variant: "dark" # light or dark
 col0: "#202c3d" # black variant
-col1: "#ff6c38" # red variant
+col1: "#f76f6e" # red variant
 col2: "#4eac6d" # green variant
 col3: "#af9a0a" # yellow variant
-col4: "#3aaaa4" # blue variant
-col5: "#9c90dd" # magenta variant
-col6: "#3dab93" # cyan variant
-col7: "#a39799" # white variant
+col4: "#609fda" # blue variant
+col5: "#cc84ad" # magenta variant
+col6: "#3dab95" # cyan variant
+col7: "#919ab9" # white variant
 col8: "#352f49" # bright black variant
 col9: "#eb7b4d" # bright red variant
 col10: "#57ad47" # bright green variant
 col11: "#bd951a" # bright yellow variant
-col12: "#5aa1d4" # bright blue variant
+col12: "#8196e8" # bright blue variant
 col13: "#c97ed7" # bright magenta variant
-col14: "#29ad8d" # bright cyan variant
+col14: "#2aa9b6" # bright cyan variant
 col15: "#a0abae" # bright white variant
 colbg: "#202c3d" # main background
 colbgalt: "#352f49" # alternative background
 colfg: "#a0abae" # main foreground
-colfgalt: "#a39799" # alternative foreground
+colfgalt: "#919ab9" # alternative foreground
 colcr: "#a0abae" # cursor background
 colcr2: "#202c3d" # cursor foreground

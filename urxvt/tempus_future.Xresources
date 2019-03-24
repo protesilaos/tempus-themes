@@ -1,23 +1,23 @@
 ! Theme: Tempus Future
 ! Description: Dark theme with colours inspired by concept art of outer space (WCAG AAA compliant)
 ! Author: Protesilaos Stavrou (https://protesilaos.com)
-URxvt*background: #150d15
+URxvt*background: #090a18
 URxvt*foreground: #b4abac
 URxvt*cursorColor: #b4abac
-URxvt*cursorColor2: #150d15
-URxvt*color0: #150d15
+URxvt*cursorColor2: #090a18
+URxvt*color0: #090a18
 URxvt*color1: #ff778a
 URxvt*color2: #6ab539
 URxvt*color3: #bfa01a
-URxvt*color4: #5aaec3
-URxvt*color5: #da8ab2
-URxvt*color6: #79a9c3
-URxvt*color7: #be9c8a
-URxvt*color8: #19170D
+URxvt*color4: #4aaed3
+URxvt*color5: #e58a82
+URxvt*color6: #29b3bb
+URxvt*color7: #a59ebd
+URxvt*color8: #260e22
 URxvt*color9: #f78e2f
 URxvt*color10: #60ba80
 URxvt*color11: #de9b1d
-URxvt*color12: #79b0c4
+URxvt*color12: #8ba7ea
 URxvt*color13: #e08bd6
-URxvt*color14: #5ab7b0
+URxvt*color14: #2cbab6
 URxvt*color15: #b4abac

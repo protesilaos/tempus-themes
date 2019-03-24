@@ -6,11 +6,11 @@ description: "High contrast dark theme with bright colours (WCAG AAA compliant)"
 variant: "dark" # light or dark
 col0: "#1a1a1a" # black variant
 col1: "#fb7e8e" # red variant
-col2: "#4ab96d" # green variant
+col2: "#52ba40" # green variant
 col3: "#b0a800" # yellow variant
 col4: "#5aaaf2" # blue variant
 col5: "#ee80c0" # magenta variant
-col6: "#55b1c3" # cyan variant
+col6: "#1db5c3" # cyan variant
 col7: "#c4bdaf" # white variant
 col8: "#18143d" # bright black variant
 col9: "#f69d6a" # bright red variant

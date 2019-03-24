@@ -4,25 +4,25 @@ slugunderscore: "tempus_autumn"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with a palette inspired by earthly colours (WCAG AA compliant)"
 variant: "dark" # light or dark
-col0: "#2b1d1a" # black variant
-col1: "#f85a10" # red variant
-col2: "#809900" # green variant
-col3: "#ad8b00" # yellow variant
-col4: "#888db0" # blue variant
-col5: "#cb758e" # magenta variant
-col6: "#709a65" # cyan variant
-col7: "#919078" # white variant
-col8: "#35260f" # bright black variant
-col9: "#ce7b1a" # bright red variant
-col10: "#729c1a" # bright green variant
-col11: "#b28910" # bright yellow variant
-col12: "#9385cd" # bright blue variant
-col13: "#c874a3" # bright magenta variant
-col14: "#529d80" # bright cyan variant
-col15: "#a49ba0" # bright white variant
-colbg: "#2b1d1a" # main background
-colbgalt: "#35260f" # alternative background
-colfg: "#a49ba0" # main foreground
-colfgalt: "#919078" # alternative foreground
-colcr: "#a49ba0" # cursor background
-colcr2: "#2b1d1a" # cursor foreground
+col0: "#302420" # black variant
+col1: "#f16c50" # red variant
+col2: "#80a100" # green variant
+col3: "#ac9440" # yellow variant
+col4: "#7897c2" # blue variant
+col5: "#dd758e" # magenta variant
+col6: "#52a485" # cyan variant
+col7: "#a5918a" # white variant
+col8: "#312e2a" # bright black variant
+col9: "#e07a3d" # bright red variant
+col10: "#43a770" # bright green variant
+col11: "#ba9000" # bright yellow variant
+col12: "#908ed4" # bright blue variant
+col13: "#c57bc4" # bright magenta variant
+col14: "#2aa4ad" # bright cyan variant
+col15: "#a9a2a6" # bright white variant
+colbg: "#302420" # main background
+colbgalt: "#312e2a" # alternative background
+colfg: "#a9a2a6" # main foreground
+colfgalt: "#a5918a" # alternative foreground
+colcr: "#a9a2a6" # cursor background
+colcr2: "#302420" # cursor foreground
