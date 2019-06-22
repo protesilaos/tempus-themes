@@ -1,23 +1,23 @@
 ! Theme: Tempus Dawn
 ! Description: Light theme with a soft, slightly desaturated palette (WCAG AA compliant)
 ! Author: Protesilaos Stavrou (https://protesilaos.com)
-URxvt*background: #f3f4f6
-URxvt*foreground: #525470
-URxvt*cursorColor: #525470
-URxvt*cursorColor2: #f3f4f6
-URxvt*color0: #525470
-URxvt*color1: #9b3132
-URxvt*color2: #306130
-URxvt*color3: #73500a
-URxvt*color4: #4c547e
-URxvt*color5: #883c64
-URxvt*color6: #186060
-URxvt*color7: #e6e7ea
-URxvt*color8: #705e4d
-URxvt*color9: #9b474d
-URxvt*color10: #4e6938
-URxvt*color11: #8e5319
-URxvt*color12: #5c5d8c
-URxvt*color13: #a24055
-URxvt*color14: #2d6978
-URxvt*color15: #f3f4f6
+URxvt*background: #eff0f2
+URxvt*foreground: #4a4b4e
+URxvt*cursorColor: #4a4b4e
+URxvt*cursorColor2: #eff0f2
+URxvt*color0: #4a4b4e
+URxvt*color1: #a32a3a
+URxvt*color2: #206620
+URxvt*color3: #745300
+URxvt*color4: #4b529a
+URxvt*color5: #8d377e
+URxvt*color6: #086784
+URxvt*color7: #e2e4e1
+URxvt*color8: #686565
+URxvt*color9: #ae4e2a
+URxvt*color10: #1a7608
+URxvt*color11: #8d5b0a
+URxvt*color12: #5c5bb2
+URxvt*color13: #8e47a8
+URxvt*color14: #106e8c
+URxvt*color15: #eff0f2

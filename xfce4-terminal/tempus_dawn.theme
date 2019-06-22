@@ -1,10 +1,10 @@
 [Scheme]
 Name=Tempus Dawn
-ColorForeground=#525470
-ColorBackground=#f3f4f6
-ColorCursor=#525470
-ColorBold=#525470
-ColorPalette=#525470;#9b3132;#306130;#73500a;#4c547e;#883c64;#186060;#e6e7ea;#705e4d;#9b474d;#4e6938;#8e5319;#5c5d8c;#a24055;#2d6978;#f3f4f6
-TabActivityColor=#306130
-ColorSelectionBackground=#525470
-ColorSelection=#f3f4f6
+ColorForeground=#4a4b4e
+ColorBackground=#eff0f2
+ColorCursor=#4a4b4e
+ColorBold=#4a4b4e
+ColorPalette=#4a4b4e;#a32a3a;#206620;#745300;#4b529a;#8d377e;#086784;#e2e4e1;#686565;#ae4e2a;#1a7608;#8d5b0a;#5c5bb2;#8e47a8;#106e8c;#eff0f2
+TabActivityColor=#206620
+ColorSelectionBackground=#4a4b4e
+ColorSelection=#eff0f2
