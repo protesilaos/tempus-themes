@@ -47,8 +47,8 @@ of the code syntax.
 
 ## Screenshots (sort A-Z)
 
-_A TMUX sesssion runnings inside the Simple Terminal (ST), both of which
-are part of [my dotfiles](https://gitlab.com/protesilaos/dotfiles)._
+_A makeshift TMUX sesssion showcasing each theme.  The code on display
+is part of [my dotfiles](https://gitlab.com/protesilaos/dotfiles)._
 
 Tempus Autumn (WCAG AA)  
 ![tempus_autumn sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_autumn.png)
