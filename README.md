@@ -156,22 +156,12 @@ provided by my project:*
 *NOTE: If you add the Tempus themes to your project, open an issue to
 include it on this list.*
 
-## Contributing
-
-All contributions (e.g. new templates) should be submitted to the
-*Tempus themes generator*. See its
-[CONTRIBUTING.md](https://gitlab.com/protesilaos/tempus-themes-generator/blob/master/CONTRIBUTING.md).
-
 ## License
 
 GNU General Public License Version 3. See
 [LICENSE](https://gitlab.com/protesilaos/tempus-themes/blob/master/LICENSE).
 
 ## Meta
-
-The Tempus themes project consists of a number of repositories. It is
-maintained with a set of scripts and utilities, stored in the
-[tempus-themes-utils](https://gitlab.com/protesilaos/tempus-themes-utils).
 
 All theme files are created with the [Tempus themes
 generator](https://gitlab.com/protesilaos/tempus-themes-generator).
