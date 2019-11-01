@@ -3,6 +3,10 @@
 Currently used by GNOME Builde but will ultimately be implemented by all
 GTK-based text editors.
 
+## Automatic installation
+
+If you use Arch Linux or derivatives, you can get these themes from the [AUR](https://aur.archlinux.org/packages/tempus-themes-gtksourceview4-git/).
+
 ## Manual installation instructions
 
 The theme files can be located in either of two places:
@@ -57,17 +61,11 @@ Enjoy!
 
 For all available ports, refer to the main [Tempus themes repo](https://gitlab.com/protesilaos/tempus-themes).
 
-## Contributing
-
-All contributions should be submitted to the Tempus themes generator. See [CONTRIBUTING.md](https://gitlab.com/protesilaos/tempus-themes-generator/blob/master/CONTRIBUTING.md).
-
 ## License
 
 GNU General Public License Version 3. See [LICENSE](https://gitlab.com/protesilaos/tempus-themes-gtksourceview4/blob/master/LICENSE).
 
 ## Meta
-
-The Tempus themes project consists of a number of repositories. It is maintained with a set of scripts and utilities, stored in the [tempus-themes-utils](https://gitlab.com/protesilaos/tempus-themes-utils).
 
 All theme files are created with the [Tempus themes generator](https://gitlab.com/protesilaos/tempus-themes-generator). See the generator CONTRIBUTING.md.
 
