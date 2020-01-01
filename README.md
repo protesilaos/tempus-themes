@@ -50,32 +50,22 @@ of the code syntax.
 _A makeshift TMUX sesssion showcasing each theme.  The code on display
 is part of [my dotfiles](https://gitlab.com/protesilaos/dotfiles)._
 
+### Dark themes
+
 Tempus Autumn (WCAG AA)  
 ![tempus_autumn sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_autumn.png)
 
 Tempus Classic (WCAG AA)  
 ![tempus_classic sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_classic.png)
 
-Tempus Dawn (WCAG AA)  
-![tempus_dawn sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_dawn.png)
-
-Tempus Day (WCAG AA)  
-![tempus_day sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_day.png)
-
 Tempus Dusk (WCAG AA)  
 ![tempus_dusk sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_dusk.png)
-
-Tempus Fugit (WCAG AA)  
-![tempus_fugit sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_fugit.png)
 
 Tempus Future (WCAG AAA)  
 ![tempus_future sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_future.png)
 
 Tempus Night (WCAG AAA)  
 ![tempus_night sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_night.png)
-
-Tempus Past (WCAG AA)  
-![tempus_past sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_past.png)
 
 Tempus Rift (WCAG AA)  
 ![tempus_rift sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_rift.png)
@@ -89,14 +79,28 @@ Tempus Summer (WCAG AA)
 Tempus Tempest (WCAG AAA)  
 ![tempus_tempest sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_tempest.png)
 
-Tempus Totus (WCAG AAA)  
-![tempus_totus sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_totus.png)
-
 Tempus Warp (WCAG AA)  
 ![tempus_warp sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_warp.png)
 
 Tempus Winter (WCAG AA)  
 ![tempus_winter sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_winter.png)
+
+### Light themes
+
+Tempus Dawn (WCAG AA)  
+![tempus_dawn sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_dawn.png)
+
+Tempus Day (WCAG AA)  
+![tempus_day sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_day.png)
+
+Tempus Fugit (WCAG AA)  
+![tempus_fugit sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_fugit.png)
+
+Tempus Past (WCAG AA)  
+![tempus_past sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_past.png)
+
+Tempus Totus (WCAG AAA)  
+![tempus_totus sample](https://gitlab.com/protesilaos/tempus-themes-screenshots/raw/master/tempus_totus.png)
 
 ## Applications
 
