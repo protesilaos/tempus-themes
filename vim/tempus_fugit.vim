@@ -95,6 +95,7 @@ hi CursorLine gui=none guibg=NONE term=none cterm=none ctermbg=none
 hi CursorColumn gui=none guibg=#f2ebe9 term=none cterm=none ctermbg=7
 hi CursorLineNr gui=bold guibg=#7b6471 guifg=#fff5f3 cterm=bold ctermbg=8 ctermfg=15
 hi ColorColumn guibg=#f2ebe9 guifg=#4d595f term=none ctermbg=7 ctermfg=0
+hi SignColumn guibg=#f2ebe9 guifg=#7b6471 term=none ctermbg=7 ctermfg=8
 
 hi Folded guibg=#f2ebe9 guifg=#7b6471 ctermbg=7 ctermfg=8
 hi FoldColumn guibg=#f2ebe9 guifg=#7b6471 ctermbg=7 ctermfg=8
