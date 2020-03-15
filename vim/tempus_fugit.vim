@@ -140,6 +140,11 @@ hi diffRemoved guifg=#c61a14 ctermfg=1
 hi diffNewFile gui=none guifg=#1666b0 ctermfg=4
 hi diffFile gui=none guifg=#825e00 cterm=none ctermfg=3
 
+hi GitGutterAdd guibg=#f2ebe9 guifg=#357200 ctermbg=7 ctermfg=2
+hi GitGutterChange gui=bold guibg=#f2ebe9 guifg=#7b6471 cterm=bold ctermbg=7 ctermfg=8
+hi GitGutterDelete guibg=#f2ebe9 guifg=#c61a14 ctermbg=7 ctermfg=1
+hi GitGutterChangeDelete gui=bold guibg=#f2ebe9 guifg=#c61a14 cterm=bold ctermbg=7 ctermfg=1
+
 " Markdown
 " --------
 hi MarkdownRule gui=bold guibg=#f2ebe9 guifg=#447720 cterm=bold ctermbg=7 ctermfg=10
