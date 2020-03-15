@@ -145,6 +145,25 @@ hi GitGutterChange gui=bold guibg=#e2e4e1 guifg=#686565 cterm=bold ctermbg=7 cte
 hi GitGutterDelete guibg=#e2e4e1 guifg=#a32a3a ctermbg=7 ctermfg=1
 hi GitGutterChangeDelete gui=bold guibg=#e2e4e1 guifg=#a32a3a cterm=bold ctermbg=7 ctermfg=1
 
+" Neomake
+" -------
+hi NeomakeError gui=none guibg=#a32a3a guifg=#eff0f2 cterm=none ctermbg=1 ctermfg=15
+hi NeomakeInfo gui=none guibg=#086784 guifg=#eff0f2 cterm=none ctermbg=6 ctermfg=15
+hi NeomakeWarning gui=none guibg=#745300 guifg=#eff0f2 cterm=none ctermbg=3 ctermfg=15
+hi NeomakeMessage gui=none guibg=#8d5b0a guifg=#eff0f2 cterm=none ctermbg=11 ctermfg=15
+
+hi NeomakeVirtualtextInfoDefault guifg=#106e8c ctermfg=14
+hi NeomakeVirtualtextMessageDefault guifg=#8d5b0a ctermfg=11
+hi NeomakeVirtualtextWarningDefault guifg=#745300 ctermfg=3
+hi NeomakeVirtualtextErrorDefault guifg=#a32a3a ctermfg=1
+
+hi NeomakeStatusGood gui=none guibg=#206620 guifg=#eff0f2 cterm=none ctermbg=2 ctermfg=15
+hi NeomakeStatusGoodNC gui=none guibg=#e2e4e1 guifg=#206620 cterm=none ctermbg=7 ctermfg=2
+
+hi NeomakeStatColorDefault gui=none guibg=#4b529a guifg=#eff0f2 cterm=none ctermbg=4 ctermfg=15
+hi NeomakeStatColorTypeE gui=none guibg=#a32a3a guifg=#eff0f2 cterm=none ctermbg=1 ctermfg=15
+hi NeomakeStatColorTypeW gui=none guibg=#745300 guifg=#eff0f2 cterm=none ctermbg=3 ctermfg=15
+
 " Markdown
 " --------
 hi MarkdownRule gui=bold guibg=#e2e4e1 guifg=#1a7608 cterm=bold ctermbg=7 ctermfg=10
