@@ -1,0 +1,22 @@
+[roxterm colour scheme]
+palette_size=16
+0=#232323
+1=#d2813d
+2=#8c9e3d
+3=#b1942b
+4=#6e9cb0
+5=#b58d88
+6=#6da280
+7=#949d9f
+8=#312e30
+9=#d0913d
+10=#96a42d
+11=#a8a030
+12=#8e9cc0
+13=#d58888
+14=#7aa880
+15=#aeadaf
+background=#232323
+foreground=#aeadaf
+cursor=#aeadaf
+cursorfg=#232323
