@@ -137,10 +137,15 @@ Each port of the Tempus themes has its own repo, for your convenience:
 
 ### External project integrations
 
-*It is most likely that these are not in sync with the current state of
-the Tempus themes project.  Consider these references "honourable
-mentions" rather than endorsements or substitutes for the themes
-provided by my project:*
+New project (2020-03-09):
+
+* [iterm2 and roxterm](https://gitlab.com/realh69/convert-tempus)
+  converter: a python program that generates valid files for these two
+  terminal emulators.  To use it, you need to also clone this repo or
+  download its YAML files (as per the project's README).
+
+Older projects that I have not checked in more than two years.  They
+probably have older versions of the themes:
 
 * [Oomox](https://gitlab.com/actionless/oomox): graphical application
   for generating different color variations of a Numix-based and Materia
