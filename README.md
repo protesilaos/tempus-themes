@@ -47,8 +47,7 @@ of the code syntax.
 
 ## Screenshots (sort A-Z)
 
-_A makeshift TMUX sesssion showcasing each theme.  The code on display
-is part of [my dotfiles](https://gitlab.com/protesilaos/dotfiles)._
+_A makeshift TMUX sesssion showcasing each theme._
 
 ### Dark themes
 
