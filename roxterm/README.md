@@ -30,10 +30,10 @@ mkdir -p ~/.config/roxterm.sourceforge.net/Colours
 
 ### Copying the theme file
 
-Now just copy the file you wish to use.  The following command will have `tempus_winter` as an example:
+Now just copy the file you wish to use.  The following command will have `Tempus Winter` as an example:
 
 ```sh
-cp tempus_winter ~/.config/roxterm.sourceforge.net/Colours/
+cp 'Tempus Winter' ~/.config/roxterm.sourceforge.net/Colours/
 ```
 
 Done.
@@ -45,7 +45,7 @@ The theme will be available under the menubar's Preferences > Select Colour Sche
 You want to test them all out? A simple command to copy everything:
 
 ```sh
-cp tempus_* ~/.config/roxterm.sourceforge.net/Colours/
+cp Tempus* ~/.config/roxterm.sourceforge.net/Colours/
 ```
 
 Enjoy!
@@ -56,7 +56,7 @@ For all available ports, refer to the main [Tempus themes repo](https://gitlab.c
 
 ## License
 
-GNU General Public License Version 3. See [LICENSE](https://gitlab.com/protesilaos/tempus-themes-konsole/blob/master/LICENSE).
+GNU General Public License Version 3. See [LICENSE](https://gitlab.com/protesilaos/tempus-themes-roxterm/blob/master/LICENSE).
 
 ## Meta
 
