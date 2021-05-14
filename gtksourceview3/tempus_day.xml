@@ -11,20 +11,20 @@
   <color name="col4" value="#385dc4"/>
   <color name="col5" value="#b63052"/>
   <color name="col6" value="#007070"/>
-  <color name="col7" value="#eae9dd"/>
+  <color name="col7" value="#e7e3d7"/>
   <color name="col8" value="#68607d"/>
-  <color name="col9" value="#b94000"/>
-  <color name="col10" value="#4a7240"/>
-  <color name="col11" value="#706a00"/>
-  <color name="col12" value="#0d66c9"/>
-  <color name="col13" value="#8055aa"/>
-  <color name="col14" value="#337087"/>
+  <color name="col9" value="#b24000"/>
+  <color name="col10" value="#427040"/>
+  <color name="col11" value="#6f6600"/>
+  <color name="col12" value="#0f64c4"/>
+  <color name="col13" value="#8050a7"/>
+  <color name="col14" value="#336c87"/>
   <color name="col15" value="#f8f2e5"/>
 
   <!-- Base values -->
   <color name="colbg" value="#f8f2e5"/>
-  <color name="colbgalt" value="#eae9dd"/>
-  <color name="colbgdim" value="#f1ede1"/>
+  <color name="colbgalt" value="#e7e3d7"/>
+  <color name="colbgdim" value="#efeade"/>
   <color name="colfg" value="#464340"/>
   <color name="colfgalt" value="#68607d"/>
   <color name="colcr" value="#464340"/>

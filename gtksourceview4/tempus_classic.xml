@@ -24,7 +24,7 @@
 
 	<!-- Palette -->
 	<color name="col0"        value="#232323"/>
-	<color name="col1"        value="#d2813d"/>
+	<color name="col1"        value="#d4823d"/>
 	<color name="col2"        value="#8c9e3d"/>
 	<color name="col3"        value="#b1942b"/>
 	<color name="col4"        value="#6e9cb0"/>
@@ -50,7 +50,7 @@
 
 	<!-- Extra values -->
 	<color name="colwarn"     value="#b1942b"/>
-	<color name="colerr"      value="#d2813d"/>
+	<color name="colerr"      value="#d4823d"/>
 	<color name="colnote"     value="#8c9e3d"/>
 
 	<!-- Global Settings -->

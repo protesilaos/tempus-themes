@@ -11,7 +11,7 @@
     "cursor-foreground-color": "#fff5f3",
     "cursor-background-color": "#4d595f",
     "use-badge-color": true,
-    "badge-color": "#7b6471",
+    "badge-color": "#796271",
     "palette": [
         "#4d595f",
         "#c61a14",
@@ -20,14 +20,14 @@
         "#1666b0",
         "#a83884",
         "#007072",
-        "#f2ebe9",
-        "#7b6471",
-        "#bd401a",
-        "#447720",
-        "#985d00",
-        "#485ddf",
-        "#a438c0",
-        "#00786a",
+        "#efe6e4",
+        "#796271",
+        "#b93f1a",
+        "#437520",
+        "#985900",
+        "#485adf",
+        "#a234c0",
+        "#00756a",
         "#fff5f3"
     ]
 }

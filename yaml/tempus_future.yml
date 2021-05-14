@@ -5,14 +5,14 @@ author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with colours inspired by concept art of outer space (WCAG AAA compliant)"
 variant: "dark" # light or dark
 col0: "#090a18" # black variant
-col1: "#ff778a" # red variant
-col2: "#6ab539" # green variant
-col3: "#bfa01a" # yellow variant
-col4: "#4aaed3" # blue variant
-col5: "#e58a82" # magenta variant
-col6: "#29b3bb" # cyan variant
-col7: "#a59ebd" # white variant
-col8: "#260e22" # bright black variant
+col1: "#ff7e8f" # red variant
+col2: "#6aba39" # green variant
+col3: "#bfa51a" # yellow variant
+col4: "#4ab2d7" # blue variant
+col5: "#e58f84" # magenta variant
+col6: "#2ab7bb" # cyan variant
+col7: "#a7a2c4" # white variant
+col8: "#2b1329" # bright black variant
 col9: "#f78e2f" # bright red variant
 col10: "#60ba80" # bright green variant
 col11: "#de9b1d" # bright yellow variant
@@ -21,8 +21,8 @@ col13: "#e08bd6" # bright magenta variant
 col14: "#2cbab6" # bright cyan variant
 col15: "#b4abac" # bright white variant
 colbg: "#090a18" # main background
-colbgalt: "#260e22" # alternative background
+colbgalt: "#2b1329" # alternative background
 colfg: "#b4abac" # main foreground
-colfgalt: "#a59ebd" # alternative foreground
+colfgalt: "#a7a2c4" # alternative foreground
 colcr: "#b4abac" # cursor background
 colcr2: "#090a18" # cursor foreground

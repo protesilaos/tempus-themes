@@ -5,14 +5,14 @@ author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with a vibrant palette (WCAG AA compliant)"
 variant: "dark" # light or dark
 col0: "#001514" # black variant
-col1: "#fa3333" # red variant
-col2: "#139913" # green variant
-col3: "#9e8100" # yellow variant
-col4: "#557feb" # blue variant
-col5: "#d54cbf" # magenta variant
-col6: "#009580" # cyan variant
-col7: "#928080" # white variant
-col8: "#241828" # bright black variant
+col1: "#ff3737" # red variant
+col2: "#169c16" # green variant
+col3: "#9f8500" # yellow variant
+col4: "#5781ef" # blue variant
+col5: "#da4ebf" # magenta variant
+col6: "#009880" # cyan variant
+col7: "#968282" # white variant
+col8: "#261c2c" # bright black variant
 col9: "#F0681A" # bright red variant
 col10: "#3aa73a" # bright green variant
 col11: "#ba8a00" # bright yellow variant
@@ -21,8 +21,8 @@ col13: "#d85cf2" # bright magenta variant
 col14: "#1da1af" # bright cyan variant
 col15: "#a29fa0" # bright white variant
 colbg: "#001514" # main background
-colbgalt: "#241828" # alternative background
+colbgalt: "#261c2c" # alternative background
 colfg: "#a29fa0" # main foreground
-colfgalt: "#928080" # alternative foreground
+colfgalt: "#968282" # alternative foreground
 colcr: "#a29fa0" # cursor background
 colcr2: "#001514" # cursor foreground

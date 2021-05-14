@@ -24,39 +24,39 @@
 
 	<!-- Palette -->
 	<color name="col0"        value="#4a484d"/>
-	<color name="col1"        value="#a80000"/>
-	<color name="col2"        value="#005f26"/>
-	<color name="col3"        value="#714900"/>
-	<color name="col4"        value="#1d3fcf"/>
-	<color name="col5"        value="#882a7a"/>
-	<color name="col6"        value="#185870"/>
-	<color name="col7"        value="#f3f1f3"/>
-	<color name="col8"        value="#5f4d4f"/>
-	<color name="col9"        value="#9b2230"/>
-	<color name="col10"       value="#4a5700"/>
-	<color name="col11"       value="#8b3800"/>
-	<color name="col12"       value="#2d48b0"/>
-	<color name="col13"       value="#7310cb"/>
-	<color name="col14"       value="#005589"/>
+	<color name="col1"        value="#a50000"/>
+	<color name="col2"        value="#005d26"/>
+	<color name="col3"        value="#714700"/>
+	<color name="col4"        value="#1d3ccf"/>
+	<color name="col5"        value="#88267a"/>
+	<color name="col6"        value="#185570"/>
+	<color name="col7"        value="#efefef"/>
+	<color name="col8"        value="#5e4b4f"/>
+	<color name="col9"        value="#992030"/>
+	<color name="col10"       value="#4a5500"/>
+	<color name="col11"       value="#8a3600"/>
+	<color name="col12"       value="#2d45b0"/>
+	<color name="col13"       value="#700dc9"/>
+	<color name="col14"       value="#005289"/>
 	<color name="col15"       value="#ffffff"/>
 
 	<!-- Base values -->
 	<color name="colbg"       value="#ffffff"/>
-	<color name="colbgalt"    value="#f3f1f3"/>
-	<color name="colbgdim"    value="#f9f8f9"/>
+	<color name="colbgalt"    value="#efefef"/>
+	<color name="colbgdim"    value="#f7f7f7"/>
 	<color name="colfg"       value="#4a484d"/>
-	<color name="colfgalt"    value="#5f4d4f"/>
+	<color name="colfgalt"    value="#5e4b4f"/>
 	<color name="colcr"       value="#4a484d"/>
 
 	<!-- Extra values -->
-	<color name="colwarn"     value="#1d3fcf"/>
-	<color name="colerr"      value="#a80000"/>
-	<color name="colnote"     value="#005f26"/>
+	<color name="colwarn"     value="#1d3ccf"/>
+	<color name="colerr"      value="#a50000"/>
+	<color name="colnote"     value="#005d26"/>
 
 	<!-- Global Settings -->
 	<style name="text"                  foreground="colfg" background="colbg"/>
 	<style name="selection"             foreground="colbg" background="colfg"/>
-	<style name="map-overlay"           background="#rgba(95,77,79,0.1)"/>
+	<style name="map-overlay"           background="#rgba(94,75,79,0.1)"/>
 	<style name="cursor"                foreground="colcr"/>
 	<style name="current-line"          background="colbgdim"/>
 	<style name="current-line-number"   background="colbgdim" bold="true"/>
@@ -75,7 +75,7 @@
 
 	<!-- Snippets -->
 	<style name="snippet::tab-stop"           background="col11" foreground="colbg"/>
-	<style name="snippet::area"               background="#rgba(243,241,243,.1)"/>
+	<style name="snippet::area"               background="#rgba(239,239,239,.1)"/>
 
 	<!-- Hover links -->
 	<style name="action::hover-definition"    background="col12" underline="true"/>
@@ -98,12 +98,12 @@
 	<style name="misspelled-match"            foreground="colbg" background="col9"/>
 
 	<!-- Quick Highlight Plugin -->
-	<style name="quick-highlight"             background="#rgba(95,77,79,0.15)"/>
+	<style name="quick-highlight"             background="#rgba(94,75,79,0.15)"/>
 
 	<style name="def:comment"                 foreground="colfgalt" italic="true"/>
 	<style name="def:constant"                foreground="col4"/>
 	<style name="def:doc-comment-element"     italic="true"/>
-	<style name="def:error"                   line-background="#rgba(243,241,243,.4)" />
+	<style name="def:error"                   line-background="#rgba(239,239,239,.4)" />
 	<style name="def:floating-point"          foreground="col4"/>
 	<style name="def:function"                foreground="col5"/>
 	<style name="def:decimal"                 foreground="col4"/>

@@ -24,14 +24,14 @@
 
 	<!-- Palette -->
 	<color name="col0"        value="#1a1a1a"/>
-	<color name="col1"        value="#fb7e8e"/>
-	<color name="col2"        value="#52ba40"/>
-	<color name="col3"        value="#b0a800"/>
-	<color name="col4"        value="#5aaaf2"/>
-	<color name="col5"        value="#ee80c0"/>
-	<color name="col6"        value="#1db5c3"/>
+	<color name="col1"        value="#ff929f"/>
+	<color name="col2"        value="#5fc940"/>
+	<color name="col3"        value="#c5b300"/>
+	<color name="col4"        value="#5fb8ff"/>
+	<color name="col5"        value="#ef91df"/>
+	<color name="col6"        value="#1dc5c3"/>
 	<color name="col7"        value="#c4bdaf"/>
-	<color name="col8"        value="#18143d"/>
+	<color name="col8"        value="#242536"/>
 	<color name="col9"        value="#f69d6a"/>
 	<color name="col10"       value="#88c400"/>
 	<color name="col11"       value="#d7ae00"/>
@@ -42,16 +42,16 @@
 
 	<!-- Base values -->
 	<color name="colbg"       value="#1a1a1a"/>
-	<color name="colbgalt"    value="#18143d"/>
-	<color name="colbgdim"    value="#19172b"/>
+	<color name="colbgalt"    value="#242536"/>
+	<color name="colbgdim"    value="#1f1f28"/>
 	<color name="colfg"       value="#e0e0e0"/>
 	<color name="colfgalt"    value="#c4bdaf"/>
 	<color name="colcr"       value="#e0e0e0"/>
 
 	<!-- Extra values -->
-	<color name="colwarn"     value="#b0a800"/>
-	<color name="colerr"      value="#fb7e8e"/>
-	<color name="colnote"     value="#52ba40"/>
+	<color name="colwarn"     value="#c5b300"/>
+	<color name="colerr"      value="#ff929f"/>
+	<color name="colnote"     value="#5fc940"/>
 
 	<!-- Global Settings -->
 	<style name="text"                  foreground="colfg" background="colbg"/>
@@ -75,7 +75,7 @@
 
 	<!-- Snippets -->
 	<style name="snippet::tab-stop"           background="col11" foreground="colbg"/>
-	<style name="snippet::area"               background="#rgba(24,20,61,.1)"/>
+	<style name="snippet::area"               background="#rgba(36,37,54,.1)"/>
 
 	<!-- Hover links -->
 	<style name="action::hover-definition"    background="col12" underline="true"/>
@@ -103,7 +103,7 @@
 	<style name="def:comment"                 foreground="colfgalt" italic="true"/>
 	<style name="def:constant"                foreground="col4"/>
 	<style name="def:doc-comment-element"     italic="true"/>
-	<style name="def:error"                   line-background="#rgba(24,20,61,.4)" />
+	<style name="def:error"                   line-background="#rgba(36,37,54,.4)" />
 	<style name="def:floating-point"          foreground="col4"/>
 	<style name="def:function"                foreground="col5"/>
 	<style name="def:decimal"                 foreground="col4"/>

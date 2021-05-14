@@ -11,17 +11,17 @@ col3: "#a6403a" # yellow variant
 col4: "#1763aa" # blue variant
 col5: "#b02874" # magenta variant
 col6: "#096a83" # cyan variant
-col7: "#ece6de" # white variant
+col7: "#eae2de" # white variant
 col8: "#80565d" # bright black variant
-col9: "#bd3636" # bright red variant
-col10: "#407343" # bright green variant
-col11: "#9d524a" # bright yellow variant
-col12: "#5a5ebb" # bright blue variant
-col13: "#b225ab" # bright magenta variant
-col14: "#07737a" # bright cyan variant
+col9: "#bd3133" # bright red variant
+col10: "#337243" # bright green variant
+col11: "#8d554a" # bright yellow variant
+col12: "#5559bb" # bright blue variant
+col13: "#b022a7" # bright magenta variant
+col14: "#07707a" # bright cyan variant
 col15: "#f3f2f4" # bright white variant
 colbg: "#f3f2f4" # main background
-colbgalt: "#ece6de" # alternative background
+colbgalt: "#eae2de" # alternative background
 colfg: "#53545b" # main foreground
 colfgalt: "#80565d" # alternative foreground
 colcr: "#53545b" # cursor background

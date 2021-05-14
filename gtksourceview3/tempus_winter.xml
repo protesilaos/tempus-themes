@@ -5,34 +5,34 @@
 
   <!-- Palette -->
   <color name="col0" value="#202427"/>
-  <color name="col1" value="#eb6a58"/>
-  <color name="col2" value="#49a61d"/>
-  <color name="col3" value="#959721"/>
-  <color name="col4" value="#798fd7"/>
-  <color name="col5" value="#cd7b7e"/>
-  <color name="col6" value="#4fa090"/>
-  <color name="col7" value="#909294"/>
-  <color name="col8" value="#292b35"/>
-  <color name="col9" value="#db7824"/>
-  <color name="col10" value="#00a854"/>
-  <color name="col11" value="#ad8e4b"/>
-  <color name="col12" value="#309dc1"/>
-  <color name="col13" value="#c874c2"/>
-  <color name="col14" value="#1ba2a0"/>
+  <color name="col1" value="#ed6e5a"/>
+  <color name="col2" value="#4aa920"/>
+  <color name="col3" value="#9a9921"/>
+  <color name="col4" value="#7b91df"/>
+  <color name="col5" value="#d17e80"/>
+  <color name="col6" value="#4fa394"/>
+  <color name="col7" value="#91959b"/>
+  <color name="col8" value="#2a2e38"/>
+  <color name="col9" value="#de7b28"/>
+  <color name="col10" value="#00ab5f"/>
+  <color name="col11" value="#af9155"/>
+  <color name="col12" value="#329fcb"/>
+  <color name="col13" value="#ca77c5"/>
+  <color name="col14" value="#1ba6a4"/>
   <color name="col15" value="#8da3b8"/>
 
   <!-- Base values -->
   <color name="colbg" value="#202427"/>
-  <color name="colbgalt" value="#292b35"/>
-  <color name="colbgdim" value="#24272e"/>
+  <color name="colbgalt" value="#2a2e38"/>
+  <color name="colbgdim" value="#25292f"/>
   <color name="colfg" value="#8da3b8"/>
-  <color name="colfgalt" value="#909294"/>
+  <color name="colfgalt" value="#91959b"/>
   <color name="colcr" value="#8da3b8"/>
 
   <!-- Extra values -->
-  <color name="colwarn" value="#959721"/>
-  <color name="colerr" value="#eb6a58"/>
-  <color name="colnote" value="#49a61d"/>
+  <color name="colwarn" value="#9a9921"/>
+  <color name="colerr" value="#ed6e5a"/>
+  <color name="colnote" value="#4aa920"/>
 
   <!-- Global Settings -->
   <style name="text" foreground="colfg" background="colbg"/>

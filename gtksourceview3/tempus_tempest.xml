@@ -5,14 +5,14 @@
 
   <!-- Palette -->
   <color name="col0" value="#282b2b"/>
-  <color name="col1" value="#c6c80a"/>
-  <color name="col2" value="#7ad67a"/>
-  <color name="col3" value="#bfc94a"/>
-  <color name="col4" value="#60d4cd"/>
-  <color name="col5" value="#c0c4aa"/>
-  <color name="col6" value="#8ad0b0"/>
+  <color name="col1" value="#cfc80a"/>
+  <color name="col2" value="#7ad97a"/>
+  <color name="col3" value="#bfcc4a"/>
+  <color name="col4" value="#60d7cd"/>
+  <color name="col5" value="#c5c4af"/>
+  <color name="col6" value="#8bd0bf"/>
   <color name="col7" value="#b0c8ca"/>
-  <color name="col8" value="#303434"/>
+  <color name="col8" value="#323535"/>
   <color name="col9" value="#d1d933"/>
   <color name="col10" value="#99e299"/>
   <color name="col11" value="#bbde4f"/>
@@ -23,16 +23,16 @@
 
   <!-- Base values -->
   <color name="colbg" value="#282b2b"/>
-  <color name="colbgalt" value="#303434"/>
-  <color name="colbgdim" value="#2c2f2f"/>
+  <color name="colbgalt" value="#323535"/>
+  <color name="colbgdim" value="#2d3030"/>
   <color name="colfg" value="#b6e0ca"/>
   <color name="colfgalt" value="#b0c8ca"/>
   <color name="colcr" value="#b6e0ca"/>
 
   <!-- Extra values -->
-  <color name="colwarn" value="#bfc94a"/>
-  <color name="colerr" value="#c6c80a"/>
-  <color name="colnote" value="#7ad67a"/>
+  <color name="colwarn" value="#bfcc4a"/>
+  <color name="colerr" value="#cfc80a"/>
+  <color name="colnote" value="#7ad97a"/>
 
   <!-- Global Settings -->
   <style name="text" foreground="colfg" background="colbg"/>

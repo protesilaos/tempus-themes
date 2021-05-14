@@ -30,22 +30,22 @@
 	<color name="col4"        value="#4b529a"/>
 	<color name="col5"        value="#8d377e"/>
 	<color name="col6"        value="#086784"/>
-	<color name="col7"        value="#e2e4e1"/>
-	<color name="col8"        value="#686565"/>
-	<color name="col9"        value="#ae4e2a"/>
-	<color name="col10"       value="#1a7608"/>
-	<color name="col11"       value="#8d5b0a"/>
-	<color name="col12"       value="#5c5bb2"/>
-	<color name="col13"       value="#8e47a8"/>
-	<color name="col14"       value="#106e8c"/>
+	<color name="col7"        value="#dee2e0"/>
+	<color name="col8"        value="#676364"/>
+	<color name="col9"        value="#a64822"/>
+	<color name="col10"       value="#187408"/>
+	<color name="col11"       value="#8b590a"/>
+	<color name="col12"       value="#5c59b2"/>
+	<color name="col13"       value="#8e45a8"/>
+	<color name="col14"       value="#3f649c"/>
 	<color name="col15"       value="#eff0f2"/>
 
 	<!-- Base values -->
 	<color name="colbg"       value="#eff0f2"/>
-	<color name="colbgalt"    value="#e2e4e1"/>
-	<color name="colbgdim"    value="#e8eae9"/>
+	<color name="colbgalt"    value="#dee2e0"/>
+	<color name="colbgdim"    value="#e6e9e9"/>
 	<color name="colfg"       value="#4a4b4e"/>
-	<color name="colfgalt"    value="#686565"/>
+	<color name="colfgalt"    value="#676364"/>
 	<color name="colcr"       value="#4a4b4e"/>
 
 	<!-- Extra values -->
@@ -56,7 +56,7 @@
 	<!-- Global Settings -->
 	<style name="text"                  foreground="colfg" background="colbg"/>
 	<style name="selection"             foreground="colbg" background="colfg"/>
-	<style name="map-overlay"           background="#rgba(104,101,101,0.1)"/>
+	<style name="map-overlay"           background="#rgba(103,99,100,0.1)"/>
 	<style name="cursor"                foreground="colcr"/>
 	<style name="current-line"          background="colbgdim"/>
 	<style name="current-line-number"   background="colbgdim" bold="true"/>
@@ -75,7 +75,7 @@
 
 	<!-- Snippets -->
 	<style name="snippet::tab-stop"           background="col11" foreground="colbg"/>
-	<style name="snippet::area"               background="#rgba(226,228,225,.1)"/>
+	<style name="snippet::area"               background="#rgba(222,226,224,.1)"/>
 
 	<!-- Hover links -->
 	<style name="action::hover-definition"    background="col12" underline="true"/>
@@ -98,12 +98,12 @@
 	<style name="misspelled-match"            foreground="colbg" background="col9"/>
 
 	<!-- Quick Highlight Plugin -->
-	<style name="quick-highlight"             background="#rgba(104,101,101,0.15)"/>
+	<style name="quick-highlight"             background="#rgba(103,99,100,0.15)"/>
 
 	<style name="def:comment"                 foreground="colfgalt" italic="true"/>
 	<style name="def:constant"                foreground="col4"/>
 	<style name="def:doc-comment-element"     italic="true"/>
-	<style name="def:error"                   line-background="#rgba(226,228,225,.4)" />
+	<style name="def:error"                   line-background="#rgba(222,226,224,.4)" />
 	<style name="def:floating-point"          foreground="col4"/>
 	<style name="def:function"                foreground="col5"/>
 	<style name="def:decimal"                 foreground="col4"/>

@@ -5,24 +5,24 @@ author: "Protesilaos Stavrou (https://protesilaos.com)"
 description: "Dark theme with a palette inspired by early spring colours (WCAG AA compliant)"
 variant: "dark" # light or dark
 col0: "#283a37" # black variant
-col1: "#ff855a" # red variant
-col2: "#5cbc4d" # green variant
-col3: "#a6af1a" # yellow variant
-col4: "#39b6ce" # blue variant
-col5: "#e69092" # magenta variant
-col6: "#36bd84" # cyan variant
-col7: "#96aca7" # white variant
-col8: "#2a423d" # bright black variant
-col9: "#e19900" # bright red variant
-col10: "#6dbb0d" # bright green variant
-col11: "#c5a443" # bright yellow variant
-col12: "#70ade2" # bright blue variant
-col13: "#d091db" # bright magenta variant
-col14: "#3cbaa6" # bright cyan variant
+col1: "#ff8b5f" # red variant
+col2: "#5ec04d" # green variant
+col3: "#b0b01a" # yellow variant
+col4: "#39bace" # blue variant
+col5: "#e99399" # magenta variant
+col6: "#36c08e" # cyan variant
+col7: "#99afae" # white variant
+col8: "#2a453d" # bright black variant
+col9: "#e19e00" # bright red variant
+col10: "#73be0d" # bright green variant
+col11: "#c6a843" # bright yellow variant
+col12: "#70afef" # bright blue variant
+col13: "#d095e2" # bright magenta variant
+col14: "#3cbfaf" # bright cyan variant
 col15: "#b5b8b7" # bright white variant
 colbg: "#283a37" # main background
-colbgalt: "#2a423d" # alternative background
+colbgalt: "#2a453d" # alternative background
 colfg: "#b5b8b7" # main foreground
-colfgalt: "#96aca7" # alternative foreground
+colfgalt: "#99afae" # alternative foreground
 colcr: "#b5b8b7" # cursor background
 colcr2: "#283a37" # cursor foreground
