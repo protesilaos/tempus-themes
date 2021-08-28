@@ -139,10 +139,14 @@ Each port of the Tempus themes has its own repo, for your convenience:
 
 New project (2020-03-09):
 
++ [Foot term for Wayland](https://codeberg.org/dnkl/foot): A fast,
+  lightweight and minimalistic terminal emulator for the Wayland display
+  protocol that has the Tempus themes built-in.
+
 * [iterm2 and roxterm](https://gitlab.com/realh69/convert-tempus)
   converter: a python program that generates valid files for these two
   terminal emulators.  To use it, you need to also clone this repo or
-  download its YAML files (as per the project's README).
+  download its YAML files (per the project's README).
 
 Older projects that I have not checked in more than two years.  They
 probably have older versions of the themes:
