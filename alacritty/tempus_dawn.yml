@@ -1,0 +1,32 @@
+# vi:ft=yaml
+colors:
+  name: 'Tempus Dawn'
+  author: 'Protesilaos Stavrou (https://protesilaos.com)'
+  description: 'Light theme with a soft, slightly desaturated palette (WCAG AA compliant)'
+  primary:
+    foreground: '#4a4b4e'
+    background: '#eff0f2'
+  cursor:
+    text: '#eff0f2'
+    cursor: '#4a4b4e'
+  selection:
+    text: '#eff0f2'
+    background: '#4a4b4e'
+  normal:
+    black: '#4a4b4e'
+    red: '#a32a3a'
+    green: '#206620'
+    yellow: '#745300'
+    blue: '#4b529a'
+    magenta: '#8d377e'
+    cyan: '#086784'
+    white: '#dee2e0'
+  bright:
+    black: '#676364'
+    red: '#a64822'
+    green: '#187408'
+    yellow: '#8b590a'
+    blue: '#5c59b2'
+    magenta: '#8e45a8'
+    cyan: '#3f649c'
+    white: '#eff0f2'

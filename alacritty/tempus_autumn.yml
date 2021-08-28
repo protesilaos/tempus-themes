@@ -1,0 +1,32 @@
+# vi:ft=yaml
+colors:
+  name: 'Tempus Autumn'
+  author: 'Protesilaos Stavrou (https://protesilaos.com)'
+  description: 'Dark theme with a palette inspired by earthly colours (WCAG AA compliant)'
+  primary:
+    foreground: '#a9a2a6'
+    background: '#302420'
+  cursor:
+    text: '#302420'
+    cursor: '#a9a2a6'
+  selection:
+    text: '#302420'
+    background: '#a9a2a6'
+  normal:
+    black: '#302420'
+    red: '#f46f55'
+    green: '#85a400'
+    yellow: '#b09640'
+    blue: '#799aca'
+    magenta: '#df798e'
+    cyan: '#52a885'
+    white: '#a8948a'
+  bright:
+    black: '#36302a'
+    red: '#e27e3d'
+    green: '#43aa7a'
+    yellow: '#ba9400'
+    blue: '#958fdf'
+    magenta: '#ce7dc4'
+    cyan: '#2fa6b7'
+    white: '#a9a2a6'

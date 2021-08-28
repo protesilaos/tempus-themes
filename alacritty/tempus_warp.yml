@@ -1,0 +1,32 @@
+# vi:ft=yaml
+colors:
+  name: 'Tempus Warp'
+  author: 'Protesilaos Stavrou (https://protesilaos.com)'
+  description: 'Dark theme with a vibrant palette (WCAG AA compliant)'
+  primary:
+    foreground: '#a29fa0'
+    background: '#001514'
+  cursor:
+    text: '#001514'
+    cursor: '#a29fa0'
+  selection:
+    text: '#001514'
+    background: '#a29fa0'
+  normal:
+    black: '#001514'
+    red: '#ff3737'
+    green: '#169c16'
+    yellow: '#9f8500'
+    blue: '#5781ef'
+    magenta: '#da4ebf'
+    cyan: '#009880'
+    white: '#968282'
+  bright:
+    black: '#261c2c'
+    red: '#F0681A'
+    green: '#3aa73a'
+    yellow: '#ba8a00'
+    blue: '#8887f0'
+    magenta: '#d85cf2'
+    cyan: '#1da1af'
+    white: '#a29fa0'

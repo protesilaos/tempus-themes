@@ -1,0 +1,32 @@
+# vi:ft=yaml
+colors:
+  name: 'Tempus Classic'
+  author: 'Protesilaos Stavrou (https://protesilaos.com)'
+  description: 'Dark theme with warm hues (WCAG AA compliant)'
+  primary:
+    foreground: '#aeadaf'
+    background: '#232323'
+  cursor:
+    text: '#232323'
+    cursor: '#aeadaf'
+  selection:
+    text: '#232323'
+    background: '#aeadaf'
+  normal:
+    black: '#232323'
+    red: '#d4823d'
+    green: '#8c9e3d'
+    yellow: '#b1942b'
+    blue: '#6e9cb0'
+    magenta: '#b58d88'
+    cyan: '#6da280'
+    white: '#949d9f'
+  bright:
+    black: '#312e30'
+    red: '#d0913d'
+    green: '#96a42d'
+    yellow: '#a8a030'
+    blue: '#8e9cc0'
+    magenta: '#d58888'
+    cyan: '#7aa880'
+    white: '#aeadaf'

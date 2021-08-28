@@ -1,0 +1,32 @@
+# vi:ft=yaml
+colors:
+  name: 'Tempus Past'
+  author: 'Protesilaos Stavrou (https://protesilaos.com)'
+  description: 'Light theme inspired by old vaporwave concept art (WCAG AA compliant)'
+  primary:
+    foreground: '#53545b'
+    background: '#f3f2f4'
+  cursor:
+    text: '#f3f2f4'
+    cursor: '#53545b'
+  selection:
+    text: '#f3f2f4'
+    background: '#53545b'
+  normal:
+    black: '#53545b'
+    red: '#c00c50'
+    green: '#0a7040'
+    yellow: '#a6403a'
+    blue: '#1763aa'
+    magenta: '#b02874'
+    cyan: '#096a83'
+    white: '#eae2de'
+  bright:
+    black: '#80565d'
+    red: '#bd3133'
+    green: '#337243'
+    yellow: '#8d554a'
+    blue: '#5559bb'
+    magenta: '#b022a7'
+    cyan: '#07707a'
+    white: '#f3f2f4'

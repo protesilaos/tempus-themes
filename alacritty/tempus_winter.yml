@@ -1,0 +1,32 @@
+# vi:ft=yaml
+colors:
+  name: 'Tempus Winter'
+  author: 'Protesilaos Stavrou (https://protesilaos.com)'
+  description: 'Dark theme with a palette inspired by winter nights at the city (WCAG AA compliant)'
+  primary:
+    foreground: '#8da3b8'
+    background: '#202427'
+  cursor:
+    text: '#202427'
+    cursor: '#8da3b8'
+  selection:
+    text: '#202427'
+    background: '#8da3b8'
+  normal:
+    black: '#202427'
+    red: '#ed6e5a'
+    green: '#4aa920'
+    yellow: '#9a9921'
+    blue: '#7b91df'
+    magenta: '#d17e80'
+    cyan: '#4fa394'
+    white: '#91959b'
+  bright:
+    black: '#2a2e38'
+    red: '#de7b28'
+    green: '#00ab5f'
+    yellow: '#af9155'
+    blue: '#329fcb'
+    magenta: '#ca77c5'
+    cyan: '#1ba6a4'
+    white: '#8da3b8'

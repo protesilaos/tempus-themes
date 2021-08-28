@@ -1,0 +1,32 @@
+# vi:ft=yaml
+colors:
+  name: 'Tempus Future'
+  author: 'Protesilaos Stavrou (https://protesilaos.com)'
+  description: 'Dark theme with colours inspired by concept art of outer space (WCAG AAA compliant)'
+  primary:
+    foreground: '#b4abac'
+    background: '#090a18'
+  cursor:
+    text: '#090a18'
+    cursor: '#b4abac'
+  selection:
+    text: '#090a18'
+    background: '#b4abac'
+  normal:
+    black: '#090a18'
+    red: '#ff7e8f'
+    green: '#6aba39'
+    yellow: '#bfa51a'
+    blue: '#4ab2d7'
+    magenta: '#e58f84'
+    cyan: '#2ab7bb'
+    white: '#a7a2c4'
+  bright:
+    black: '#2b1329'
+    red: '#f78e2f'
+    green: '#60ba80'
+    yellow: '#de9b1d'
+    blue: '#8ba7ea'
+    magenta: '#e08bd6'
+    cyan: '#2cbab6'
+    white: '#b4abac'

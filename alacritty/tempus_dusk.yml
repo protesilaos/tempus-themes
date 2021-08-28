@@ -1,0 +1,32 @@
+# vi:ft=yaml
+colors:
+  name: 'Tempus Dusk'
+  author: 'Protesilaos Stavrou (https://protesilaos.com)'
+  description: 'Dark theme with a deep blue-ish, slightly desaturated palette (WCAG AA compliant)'
+  primary:
+    foreground: '#a2a8ba'
+    background: '#1f252d'
+  cursor:
+    text: '#1f252d'
+    cursor: '#a2a8ba'
+  selection:
+    text: '#1f252d'
+    background: '#a2a8ba'
+  normal:
+    black: '#1f252d'
+    red: '#cb8d56'
+    green: '#8ba089'
+    yellow: '#a79c46'
+    blue: '#8c9abe'
+    magenta: '#b190af'
+    cyan: '#8e9aba'
+    white: '#a29899'
+  bright:
+    black: '#2c3150'
+    red: '#d39d74'
+    green: '#80b48f'
+    yellow: '#bda75a'
+    blue: '#9ca5de'
+    magenta: '#c69ac6'
+    cyan: '#8caeb6'
+    white: '#a2a8ba'

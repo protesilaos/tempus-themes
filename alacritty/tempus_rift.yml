@@ -1,0 +1,32 @@
+# vi:ft=yaml
+colors:
+  name: 'Tempus Rift'
+  author: 'Protesilaos Stavrou (https://protesilaos.com)'
+  description: 'Dark theme with a subdued palette on the green side of the spectrum (WCAG AA compliant)'
+  primary:
+    foreground: '#bbbcbc'
+    background: '#162c22'
+  cursor:
+    text: '#162c22'
+    cursor: '#bbbcbc'
+  selection:
+    text: '#162c22'
+    background: '#bbbcbc'
+  normal:
+    black: '#162c22'
+    red: '#c19904'
+    green: '#34b534'
+    yellow: '#7fad00'
+    blue: '#30aeb0'
+    magenta: '#c8954c'
+    cyan: '#5fad8f'
+    white: '#ab9aa9'
+  bright:
+    black: '#283431'
+    red: '#d2a634'
+    green: '#6ac134'
+    yellow: '#82bd00'
+    blue: '#56bdad'
+    magenta: '#cca0ba'
+    cyan: '#10c480'
+    white: '#bbbcbc'

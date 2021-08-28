@@ -1,0 +1,32 @@
+# vi:ft=yaml
+colors:
+  name: 'Tempus Day'
+  author: 'Protesilaos Stavrou (https://protesilaos.com)'
+  description: 'Light theme with warm colours (WCAG AA compliant)'
+  primary:
+    foreground: '#464340'
+    background: '#f8f2e5'
+  cursor:
+    text: '#f8f2e5'
+    cursor: '#464340'
+  selection:
+    text: '#f8f2e5'
+    background: '#464340'
+  normal:
+    black: '#464340'
+    red: '#c81000'
+    green: '#107410'
+    yellow: '#806000'
+    blue: '#385dc4'
+    magenta: '#b63052'
+    cyan: '#007070'
+    white: '#e7e3d7'
+  bright:
+    black: '#68607d'
+    red: '#b24000'
+    green: '#427040'
+    yellow: '#6f6600'
+    blue: '#0f64c4'
+    magenta: '#8050a7'
+    cyan: '#336c87'
+    white: '#f8f2e5'

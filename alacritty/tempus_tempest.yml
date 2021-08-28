@@ -1,0 +1,32 @@
+# vi:ft=yaml
+colors:
+  name: 'Tempus Tempest'
+  author: 'Protesilaos Stavrou (https://protesilaos.com)'
+  description: 'A green-scale, subtle theme for late night hackers (WCAG AAA compliant)'
+  primary:
+    foreground: '#b6e0ca'
+    background: '#282b2b'
+  cursor:
+    text: '#282b2b'
+    cursor: '#b6e0ca'
+  selection:
+    text: '#282b2b'
+    background: '#b6e0ca'
+  normal:
+    black: '#282b2b'
+    red: '#cfc80a'
+    green: '#7ad97a'
+    yellow: '#bfcc4a'
+    blue: '#60d7cd'
+    magenta: '#c5c4af'
+    cyan: '#8bd0bf'
+    white: '#b0c8ca'
+  bright:
+    black: '#323535'
+    red: '#d1d933'
+    green: '#99e299'
+    yellow: '#bbde4f'
+    blue: '#74e4cd'
+    magenta: '#d2d4aa'
+    cyan: '#9bdfc4'
+    white: '#b6e0ca'
