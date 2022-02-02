@@ -1,0 +1,92 @@
+--[[
+================================================================================
+Scheme:   Tempus Summer
+Author:   Protesilaos Stavrou (https://protesilaos.com)
+Source:   https://gitlab.com/protesilaos/tempus-themes-generator
+================================================================================
+Created with the Tempus Themes Generator
+------------------------------------------------------------------------------]]
+Description = "Dark theme with colours inspired by summer evenings by the sea (WCAG AA compliant)"
+Categories = {"dark", "lsp"}
+
+--------------------------------------------------------------------------------
+colbg    = "#202c3d"
+colfg    = "#a0abae"
+colbgalt = "#39304f"
+colfgalt = "#949cbf"
+colerr   = "#fe6f70"
+col0     = "#202c3d"
+col1     = "#fe6f70"
+col2     = "#4eb075"
+col3     = "#ba9a0a"
+col4     = "#60a1e6"
+col5     = "#d285ad"
+col6     = "#3dae9f"
+col7     = "#949cbf"
+col8     = "#39304f"
+col9     = "#ec7f4f"
+col10    = "#5baf4f"
+col11    = "#be981f"
+col12    = "#8599ef"
+col13    = "#cc82d7"
+col14    = "#2aacbf"
+col15    = "#a0abae"
+--------------------------------------------------------------------------------
+Default       = { Colour=colfg }
+
+Canvas        = { Colour=colbg }
+
+Number        = { Colour=col4 }
+
+Escape 	      = { Colour=col11 , Bold=true }
+Interpolation = { Colour=col11 }
+StringPreProc = { Colour=col11 }
+
+String        = { Colour=col12 }
+
+PreProcessor  = { Colour=col9 }
+
+BlockComment  = { Colour=colfgalt , Italic=true }
+LineComment   = BlockComment
+
+LineNum       = { Colour=colfgalt , Custom = { Format = "html", Style = "color: #{colfgalt}; background-color: #39304f" } }
+
+Operator      = { Colour=colfg , Bold=true }
+
+Hover         = { Colour=col12 , Underline=true }
+
+Error         = { Colour=colerr , Custom = { Format = "html", Style = "color: #202c3d; background-color: #fe6f70" } }
+ErrorMessage  = Error
+
+Keywords = {
+  { Colour = col2 , Italic = false, Bold = true  }, -- Id 1 / .hl .kwa
+  { Colour = col6 , Italic = false, Bold = false }, -- Id 2 / .hl .kwb
+  { Colour = col14, Italic = false, Bold = false }, -- Id 3 / .hl .kwc
+  { Colour = col5 , Italic = false, Bold = false }, -- Id 4 / .hl .kwd
+  { Colour = col13, Italic = false, Bold = false }, -- Id 5 / .hl .kwe
+  { Colour = col14, Italic = true , Bold = false }, -- Id 6 / .hl .kwf
+}
+
+-- new LSP based elements:
+-- https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide#standard-token-types-and-modifiers
+
+SemanticTokenTypes = {
+  { Type = 'namespace', Style =  Keywords[1] },
+  { Type = 'class', Style =  Keywords[1] },
+  { Type = 'enum', Style =  Keywords[1] },
+  { Type = 'interface', Style = Keywords[1] },
+  { Type = 'struct', Style =  Keywords[1] },
+  { Type = 'type', Style = Keywords[2] },
+  { Type = 'parameter', Style = Keywords[2] },
+  { Type = 'variable', Style = Keywords[5] },
+  { Type = 'enumMember', Style = Keywords[5] },
+  { Type = 'function', Style = Keywords[4] },
+  { Type = 'method', Style = Keywords[4] },
+  { Type = 'decorator', Style = Keywords[2] },
+  { Type = 'keyword', Style =  Keywords[1]},
+  { Type = 'label', Style =  Keywords[4]},
+  { Type = 'comment', Style = LineComment},
+  { Type = 'number', Style = Number },
+  { Type = 'regexp', Style = String },
+  { Type = 'operator', Style = Operator },
+}
