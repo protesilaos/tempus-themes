@@ -1,4 +1,4 @@
-### Tempus themes for Alacritty
+# Tempus themes for Alacritty
 
 The Alacritty terminal emulator has two methods to read themes: (i)
 directly from the configuration file, which is typically stored in
