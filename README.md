@@ -129,6 +129,7 @@ Each port of the Tempus themes has its own repo, for your convenience:
 * [Tempus themes **Highlight**](https://gitlab.com/protesilaos/tempus-themes-highlight)
 * [Tempus themes **Kitty**](https://gitlab.com/protesilaos/tempus-themes-kitty)
 * [Tempus themes **Konsole**](https://gitlab.com/protesilaos/tempus-themes-konsole)
+* [Tempus themes **Pygments**](https://gitlab.com/protesilaos/tempus-themes-pygments)
 * [Tempus themes **Roxterm**](https://gitlab.com/protesilaos/tempus-themes-roxterm)
 * [Tempus themes **ST**](https://gitlab.com/protesilaos/tempus-themes-st)
 * [Tempus themes **Tilix**](https://gitlab.com/protesilaos/tempus-themes-tilix)
